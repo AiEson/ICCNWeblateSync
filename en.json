@@ -6338,7 +6338,7 @@
 	},
 	{
 		"description_short":"EnergyTech is an standalone tech mod,mod inspired by IC and GT.",
-		"version_name":"2.9.0",
+		"version_name":"2.9.1",
 		"description_full":"If EnergyTech does not support your language,welcome to add your language in Git.",
 		"links":[
 			{
@@ -6598,6 +6598,27 @@
 			"global",
 			"weapon",
 			"stalker"
+		]
+	},
+	{
+		"description_short":"Adds More Special Potions!",
+		"version_name":"0.8",
+		"description_full":"Adds More Special Potions! This Mod Is In Beta, Comment In My YT The Bugs So I Can See It Easily.",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q/feed",
+				"name":"YT||https"
+			},
+			{
+				"link":"//m.youtube.com/watch?v=6wrHSi3tEHE",
+				"name":"Video||https"
+			}
+		],
+		"id":496,
+		"title":"Brew Revolution Beta",
+		"tags":[
+			"utility",
+			"potions"
 		]
 	}
 ]

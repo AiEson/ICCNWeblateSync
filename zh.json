@@ -485,20 +485,20 @@
 	},
 	{
 		"description_short":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
-		"version_name":"2.1",
+		"version_name":"3.0",
 		"description_full":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
 		"links":[
 			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
 			},
 			{
-				"link":"//minecraft-modsmc.fandom.com/wiki/Better_Furnaces",
-				"name":"https"
+				"link":"https://minecraft-modsmc.fandom.com/wiki/Better_Furnaces",
+				"name":"Original Mod"
 			}
 		],
 		"id":32,
-		"title":"更好的熔炉",
+		"title":"Better Furnaces",
 		"tags":[
 			"furnace"
 		]
@@ -6338,7 +6338,7 @@
 	},
 	{
 		"description_short":"EnergyTech是一个独立的科技mod,灵感源自于IC和GT.",
-		"version_name":"2.9.0",
+		"version_name":"2.9.1",
 		"description_full":"如果EnergyTech不支持您的语言，欢迎在Git中添加您的语言。",
 		"links":[
 			{
@@ -6598,6 +6598,27 @@
 			"global",
 			"weapon",
 			"stalker"
+		]
+	},
+	{
+		"description_short":"Adds More Special Potions!",
+		"version_name":"0.8",
+		"description_full":"Adds More Special Potions! This Mod Is In Beta, Comment In My YT The Bugs So I Can See It Easily.",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q/feed",
+				"name":"YT||https"
+			},
+			{
+				"link":"//m.youtube.com/watch?v=6wrHSi3tEHE",
+				"name":"Video||https"
+			}
+		],
+		"id":496,
+		"title":"Brew Revolution Beta",
+		"tags":[
+			"utility",
+			"potions"
 		]
 	}
 ]
