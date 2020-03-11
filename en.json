@@ -339,7 +339,7 @@
 	},
 	{
 		"description_short":"Machines, electricity, power tools and armor",
-		"version_name":"2.1 release",
+		"version_name":"2.1 release (fix)",
 		"description_full":"This is it. IC2 Experimental for MC:PE. This mod adds industrial manufacturing (metalurgy, mining, electrical engineering). There are new devices, powerful items and machines in this mod",
 		"links":[
 			{
@@ -4742,7 +4742,7 @@
 	},
 	{
 		"description_short":"Everything from nothing...    万物皆可无中生有。",
-		"version_name":"1.7",
+		"version_name":"1.9.3",
 		"description_full":"This mod bases on Ex Nihilo Omnia and Ex Nihilo.\r\nIt includes the contents of Ex Nihilo Omnia and Ex Nihilo but is closer to Ex Nihilo Omnia .\r\n\r\n这个mod基于 Ex Nihilo Omnia 和 Ex Nihilo ，它包括二者的内容但更接近 Ex Nihilo Omnia 。",
 		"links":[
 			{
@@ -5348,7 +5348,7 @@
 	},
 	{
 		"description_short":"Advanced tools and armor for IC2",
-		"version_name":"1.5.1",
+		"version_name":"1.6",
 		"description_full":"Addition for IndustrialCraft2 PE adding this new items:\r\n\r\n==Ultimate Lappack==\r\n- Energy storage 60 000 000 EU with a maximum transfer rate of 100 000 EU/t\r\n==Gravitation Chestplate==\r\n- Energy storage 60 000 000 EU\r\n- Improved version of Quantum Bodyarmor with Ultimate Lappack\r\n- Gravitation engine that allow creative fly for 20 minutes with fully charge!\r\n==Advanced Electric Jetpack==\r\n- Energy storage 3 000 000 EU\r\n- Charge electric tools in hand\r\n==Advanced NanoChestplate==\r\n- Energy storage 3 000 000 EU\r\n- Integrated Advanced Electric Jetpack\r\n==GraviTool==\r\n- Energy storage 300 000 EU\r\n- Universal tool, can function as a wrench, hoe and treetap\r\n==Advanced Diamond Drill==\r\n- 35% faster than diamond drill in normal mode\r\n- energy consumption 100% more than diamond drill\r\n- Have 3 working modes ('Normal mode', 'Lower power' - speed same as original Diamond Drill, 'Big holes' - destroy 3 * 3 * 1 area.\r\n==Advanced Chainsaw==\r\n- 35% faster than chainsaw\r\n- energy consumption 100% more than chainsaw\r\n==Vajra (ultimate tool)==\r\n- Can break any block in game (exclude bedrock) with one hit\r\n- have accurate mode - silk touch\r\n- damage 25 hp\r\n- energy consumption 3333 eu per hit",
 		"links":[
 			{
@@ -6619,6 +6619,25 @@
 		"tags":[
 			"utility",
 			"potions"
+		]
+	},
+	{
+		"description_short":"Ex Nihilo Rebirth Addon. Basing on Ex Nihilo Rebirth and IndustrialCraft PE.",
+		"version_name":"1.5",
+		"description_full":"Now you can use Compressum Tools  in the skyblock.It's helpful.",
+		"links":[
+			{
+				"link":"",
+				"name":""
+			}
+		],
+		"id":497,
+		"title":"EX Compressum",
+		"tags":[
+			"ex nihilo",
+			"tools",
+			"global",
+			"skyblock"
 		]
 	}
 ]
