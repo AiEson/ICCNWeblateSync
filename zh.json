@@ -893,7 +893,7 @@
 	},
 	{
 		"description_short":"各种各样的地牢，但这还不是全部",
-		"version_name":"2.5.0.5",
+		"version_name":"2.5.0.6",
 		"description_full":"此Mod加入了几种新矿石以及衍生产物（工具等）。这个Mod具有InnerCore的任何矿石Mod中都没有的功能，即：材质漂亮，矿石总数不只一个，通常情况下，所有工具都有自己的优缺点，此外，此Mod也有自己的科技树，即使目前规模还不大，它有点类似于工业2，但仍会更新，目前情况\r\n目前添加的：\r\n5种矿石； \r\n太阳能板 取自SolarExpansion mod，但产生的是EU能量而不是RF。\r\n如果安装了GuideAPI，则可以在指南中找到其他几种类型的机械。",
 		"links":[
 			{
