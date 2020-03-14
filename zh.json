@@ -6359,16 +6359,16 @@
 	},
 	{
 		"description_short":".",
-		"version_name":"1.1",
-		"description_full":".",
+		"version_name":"1.2",
+		"description_full":"[1.2] The synthetic formula was modified.",
 		"links":[
 			{
-				"link":false,
+				"link":"",
 				"name":""
 			}
 		],
 		"id":479,
-		"title":"幸运方块",
+		"title":"Lucky Block",
 		"tags":[
 			"lucky block"
 		]
