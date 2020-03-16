@@ -2415,22 +2415,6 @@
 		]
 	},
 	{
-		"description_short":"你不觉得吗一个人玩Minecraft有时候会很无聊吗？",
-		"version_name":"1.1",
-		"description_full":"当你一个人玩MC的时候难免会感到点寂寞，不是吗？[The Ultimate NPC Mod]可以帮你解决这个问题。这个Mod允许你与村民交朋友，并改变他们的属性，比如自动跟随，提供防护，你甚至可以让他与你对话。你可以从内置的皮肤库里选择皮肤给他们更换外观(比如你最喜欢的Youtubers)。所以，这个Mod使村民有了很多可以让你自定义的地方。\n用NPC魔杖(NPC Wand ID:1000，不可合成)点击村民，将会出现一个简单的菜单。在菜单里你可以为村民选择几个不同的属性:\n名字\n跟随 / 自由活动\n攻击 / 禁止攻击\n外观 (更换皮肤(内置了许多皮肤：JackFrostMiner,FuzionDroid, Herobrine等等),大小，等)\n对话(文字对话)\n我们决定创造属于我们自己的Einstein村民。",
-		"links":[
-			{
-				"link":"//mcpedl.com/ultimate-npcs-mod/",
-				"name":"http"
-			}
-		],
-		"id":196,
-		"title":"NPC Mod",
-		"tags":[
-			"npc"
-		]
-	},
-	{
 		"description_short":"这模组补充说口渴规模以及可能性从瓶子里喝一些水",
 		"version_name":"1.2",
 		"description_full":"这个模型增加了口渴的模式，以及可以喝水的瓶子。如果你游泳、跑步或跳跃，口渴度将下降得更快。要喝水，只要用这瓶水在什么地方敲一下就行了(瓶装水不方便)。完全集成了A.P.O.工艺mod。",

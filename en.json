@@ -2415,22 +2415,6 @@
 		]
 	},
 	{
-		"description_short":"Minecraft en solo peut parfois être un peu seul, tu ne crois pas?",
-		"version_name":"1.1",
-		"description_full":"Minecraft en solo peut parfois être un peu seul, tu ne crois pas? Le  Mod NPC ultime résout ce problème. Il permet de se lier d'amitié avec un villageois et d'en créer différentes propriétés, telles que le suivi automatique, la défense et vous pouvez même le configurer pour qu'il puisse parler. Vous avez le choix entre plusieurs skins prédéfinis (comme vos YouTubers préférés), il y a donc beaucoup de choses à personnaliser.\r\nTap on a villager using the NPC Wand (ID: 1000, no recipe). A simple menu will open. Here you can select a few different properties of the villager:\r\n\r\nName\r\nFollow / Wander\r\nAttack / Don’t attack\r\nAppearance (skin change (lots of presets exist, e.g. JackFrostMiner, FuzionDroid, Herobrine etc), size and more.\r\nSpeech (text speech)\r\nWe decided to create our personal Einstein villager.",
-		"links":[
-			{
-				"link":"//mcpedl.com/ultimate-npcs-mod/",
-				"name":"http"
-			}
-		],
-		"id":196,
-		"title":"Npc mod",
-		"tags":[
-			"npc"
-		]
-	},
-	{
 		"description_short":"This mod adds thirst scale as well as possibility to drink some water from the bottle",
 		"version_name":"1.2",
 		"description_full":"This mod adds thirst scale as well as possibility to drink some water from the bottle. The scale decreases faster if you are swimming, running or jumping. To drink some water just tap somewhere with the bottle of water (posions are not convenient). Is fully integrated with A.P.O. Craft mod.",
