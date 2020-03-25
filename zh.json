@@ -1,5 +1,26 @@
 [
 	{
+		"description_short":"本模组加入了四种背包",
+		"version_name":"1.1",
+		"description_full":"本模组加入了四种背包：\n\n基础 [36 格]\n铁质 [54 格]\n金质 [72 格]\n钻石 [128 格]",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"VK Group"
+			},
+			{
+				"link":"https//vk.com/abdulla000n",
+				"name":"Abdulla Nagmetdulla"
+			}
+		],
+		"id":52,
+		"title":"更多背包",
+		"shouldOverride":true,
+		"tags":[
+			"背包"
+		]
+	},
+	{
 		"description_short":"机械、电力、电动工具和盔甲",
 		"version_name":"2.1 release",
 		"description_full":"就是这样。MCPE的实验版IC2。本模组加入了工业机械（冶金、矿业、电子工程）。模组中还加入了新的设备、电动物品和机器。",
@@ -35,6 +56,28 @@
 		]
 	},
 	{
+		"description_short":"Iron Chests模组在游戏内添加了各种各样的新式箱子",
+		"version_name":"",
+		"description_full":"除了铁箱子之外，本模组还在游戏中添加了一系列新式箱子。所有的箱子都比原版箱子装的东西要多（最多可以到108格！）并且可以互相挨着放置。\n\n添加了：\n\n- 铁箱子 - 54 格\n- 金箱子 - 81 格\n- 钻石箱子 - 108 格\n- 黑曜石箱子 - 108 格（防爆）\n- 水晶箱子 - 108 格（透明）\n\n- 所有箱子都可升级\n\n如果安装了工业时代PE，还会有：\n\n- 铜箱子 - 45 格\n- 锡箱子 - 54 格\n- 青铜箱子 - 54 格（独占）\n- 钢箱子 - 72 格（防爆）",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"VK Group"
+			},
+			{
+				"link":"https://ftbwiki.org/Iron_Chests",
+				"name":"Quick Guide"
+			}
+		],
+		"id":47,
+		"title":"更多箱子",
+		"shouldOverride":true,
+		"tags":[
+			"箱子",
+			"更多箱子"
+		]
+	},
+	{
 		"description_short":"本Mod为游戏添加了许多家具",
 		"version_name":"1.3.0",
 		"description_full":"Mod加入了木质和石质的家具、灯以及其他的物品。它们不仅能装饰你的房子，还很实用，例如你能够在炉子上做饭，或者用手提灯来照亮黑暗的房间。模组中有足足50种不同的家具。别忘了订阅我们的VK群！注：转载必须注明来源。",
@@ -58,27 +101,6 @@
 		"tags":[
 			"方块",
 			"装饰"
-		]
-	},
-	{
-		"description_short":"本模组加入了四种背包",
-		"version_name":"1.1",
-		"description_full":"本模组加入了四种背包：\n\n基础 [36 格]\n铁质 [54 格]\n金质 [72 格]\n钻石 [128 格]",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"VK Group"
-			},
-			{
-				"link":"https//vk.com/abdulla000n",
-				"name":"Abdulla Nagmetdulla"
-			}
-		],
-		"id":52,
-		"title":"更多背包",
-		"shouldOverride":true,
-		"tags":[
-			"背包"
 		]
 	},
 	{
@@ -110,82 +132,6 @@
 			"机械",
 			"装饰",
 			"养蜂"
-		]
-	},
-	{
-		"description_short":"Iron Chests模组在游戏内添加了各种各样的新式箱子",
-		"version_name":"",
-		"description_full":"除了铁箱子之外，本模组还在游戏中添加了一系列新式箱子。所有的箱子都比原版箱子装的东西要多（最多可以到108格！）并且可以互相挨着放置。\n\n添加了：\n\n- 铁箱子 - 54 格\n- 金箱子 - 81 格\n- 钻石箱子 - 108 格\n- 黑曜石箱子 - 108 格（防爆）\n- 水晶箱子 - 108 格（透明）\n\n- 所有箱子都可升级\n\n如果安装了工业时代PE，还会有：\n\n- 铜箱子 - 45 格\n- 锡箱子 - 54 格\n- 青铜箱子 - 54 格（独占）\n- 钢箱子 - 72 格（防爆）",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"VK Group"
-			},
-			{
-				"link":"https://ftbwiki.org/Iron_Chests",
-				"name":"Quick Guide"
-			}
-		],
-		"id":47,
-		"title":"更多箱子",
-		"shouldOverride":true,
-		"tags":[
-			"箱子",
-			"更多箱子"
-		]
-	},
-	{
-		"description_short":"本模组加入了许多装饰性方块，可以为你的建筑增添更多细节",
-		"version_name":"",
-		"description_full":"本模组加入了许多装饰性方块，可以为你的建筑增添更多细节。这里有11种不同的石质方块，其中之一是灯具。每一种方块还都有16种颜色（就像羊毛），并且你可以为他们染色（总共188个方块）。",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"VK Group"
-			}
-		],
-		"id":54,
-		"title":"装饰方块",
-		"shouldOverride":true,
-		"tags":[
-			"方块",
-			"装饰"
-		]
-	},
-	{
-		"description_short":"本模组向游戏中加入了幸运方块。 =)",
-		"version_name":"",
-		"description_full":"本模组加入了幸运方块和一些炫酷的东西 :)",
-		"links":[
-			{
-				"link":"http://vk.com/kosy4kov",
-				"name":"Author"
-			}
-		],
-		"id":62,
-		"title":"幸运方块",
-		"shouldOverride":true,
-		"tags":[
-			"幸运方块"
-		]
-	},
-	{
-		"description_short":"各种各样的地牢，但这还不是全部",
-		"version_name":"2.5.0.5",
-		"description_full":"此Mod加入了几种新矿石以及衍生产物（工具等）。这个Mod具有InnerCore的任何矿石Mod中都没有的功能，即：材质漂亮，矿石总数不只一个，通常情况下，所有工具都有自己的优缺点，此外，此Mod也有自己的科技树，即使目前规模还不大，它有点类似于工业2，但仍会更新，目前情况\r\n目前添加的：\r\n5种矿石； \r\n太阳能板 取自SolarExpansion mod，但产生的是EU能量而不是RF。\r\n如果安装了GuideAPI，则可以在指南中找到其他几种类型的机械。",
-		"links":[
-			{
-				"link":"https://vk.com/id202359321",
-				"name":"creator"
-			}
-		],
-		"id":59,
-		"title":"Ores mod",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"工具",
-			"矿石"
 		]
 	},
 	{
@@ -223,211 +169,40 @@
 		]
 	},
 	{
-		"description_short":"本模组中我添加了更多的盔甲……我会定期更新……",
-		"version_name":"",
-		"description_full":"本模组中我添加了更多的盔甲……我会定期更新……\n[v1.1.0 Alpha]\n- 加入了更多盔甲\n- 修复bug\n[v1.1.0]：\n- 修复bug……\n- 更多盔甲……\n[v1.0.0]：\n- 史莱姆盔甲\n- 泥土盔甲\n- 石头盔甲\n- 圆石盔甲\n- 雪盔甲……",
+		"description_short":"各种各样的地牢，但这还不是全部",
+		"version_name":"2.5.0.5",
+		"description_full":"此Mod加入了几种新矿石以及衍生产物（工具等）。这个Mod具有InnerCore的任何矿石Mod中都没有的功能，即：材质漂亮，矿石总数不只一个，通常情况下，所有工具都有自己的优缺点，此外，此Mod也有自己的科技树，即使目前规模还不大，它有点类似于工业2，但仍会更新，目前情况\r\n目前添加的：\r\n5种矿石； \r\n太阳能板 取自SolarExpansion mod，但产生的是EU能量而不是RF。\r\n如果安装了GuideAPI，则可以在指南中找到其他几种类型的机械。",
 		"links":[
 			{
-				"link":"https://vk.com/public163353607",
-				"name":"Mod Comunity"
-			},
-			{
-				"link":"mcpegamers.freeforums.net",
-				"name":"MCPEGamers Comunity"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCMgj3B1kpj2LB40jeUiDlDw",
-				"name":"My Youtube"
+				"link":"https://vk.com/id202359321",
+				"name":"creator"
 			}
 		],
-		"id":101,
-		"title":"方块盔甲PE",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"方块盔甲",
-			"更多盔甲"
-		]
-	},
-	{
-		"description_short":"许多新植物和树种！",
-		"version_name":"2.4.5",
-		"description_full":"这个Mod将增加许多新的食物和植物。 有了这个Mod，你绝对不会在游戏中饿死。游戏中的不同生物群落中将生成不同的灌木丛。你可以采集或破坏它们，然后获得一些不同的水果或蔬菜。探索世界，你还将发现长满果实的果树。收集种子，除草，耕作，种植并收获水果和蔬菜。烹饪最美味的菜肴。\n\n现在你有充分的理由从事农业。 祝你游戏愉快！",
-		"links":[
-			{
-				"link":"https://vk.com/savenkons",
-				"name":"Author"
-			}
-		],
-		"id":24,
-		"title":"潘马斯农场",
-		"shouldOverride":true,
-		"tags":[
-			"作物",
-			"丰收工艺",
-			"狩猎",
-			"收获",
-			"潘马斯",
-			"MCPE",
-			"HC PE",
-			"丰收",
-			"植物",
-			"树",
-			"Inner Core",
-			"农场"
-		]
-	},
-	{
-		"description_short":"本模组加入了五种新的熔炉",
-		"version_name":"",
-		"description_full":"更多熔炉 [Inner Core]\n\n本模组加入了五种新的不同烧炼速度的熔炉",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Developer"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"VK Group"
-			}
-		],
-		"id":9,
-		"title":"更多熔炉",
-		"shouldOverride":true,
-		"tags":[
-			"熔炉"
-		]
-	},
-	{
-		"description_short":"锤子和挖掘铲",
-		"version_name":"2.2",
-		"description_full":"本模组加入了锤子和挖掘铲。\n\n工业时代PE、林业PE、热力膨胀PE和AI科技中的物品都适配。",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"VK"
-			},
-			{
-				"link":"http://www.9minecraft.net/sparks-hammers-mod/",
-				"name":"Wiki(PC)"
-			}
-		],
-		"id":142,
-		"title":"重锤火花",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
-		"description_short":"本模组在游戏里添加了血的仪式，你的有力武器",
-		"version_name":"1.0.2",
-		"description_full":"在这个模组的帮助下你将真正成为世界的统治者！你可以持有以敌人的血液为祭品的特殊工具和印记来称霸世界。就像你所期待的那样，你还可以拥有一个祭坛，通过祭坛你能向血之神贡献祭品，用你的气血宝珠和敌人的血液！",
-		"links":[
-			{
-				"link":"https://vk.com/slenderpe",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/medievalcraft_mod",
-				"name":"Группа"
-			}
-		],
-		"id":43,
-		"title":"血魔法",
-		"shouldOverride":true,
-		"tags":[
-			"血",
-			"魔法",
-			"全局",
-			"设备"
-		]
-	},
-	{
-		"description_short":"本模组在游戏里添加了新的剑和盔甲，合成自原版物品",
-		"version_name":"1.1.0",
-		"description_full":"1.1更新 修复合成以及剑的彩色名字！\n\n使用本模组你能，例如，用方块铁合成加强的剑，以及木质、石质和地狱岩质的盔甲。",
-		"links":[
-			{
-				"link":"https://2ch.hk",
-				"name":"Группа с модами"
-			}
-		],
-		"id":82,
-		"title":"高级特战",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"武器"
-		]
-	},
-	{
-		"description_short":"MCPE的高级太空维度模组。是工业时代2的一个插件！",
-		"version_name":"0.3.1.1",
-		"description_full":"MCPE中最优秀的星系维度模组。这是一个工业时代2的插件！如果不安装工业将无法运作！\n目前可以游玩，但是仍有一些bug（但不是关键bug，所以你目前可以到达月球和空间站）。",
-		"links":[
-			{
-				"link":"https://m.vk.com/pavel_bazarev",
-				"name":"Developer"
-			},
-			{
-				"link":"https://m.vk.com/mrmineppist",
-				"name":"Group"
-			}
-		],
-		"id":126,
-		"title":"星系",
+		"id":59,
+		"title":"Ores mod",
 		"shouldOverride":true,
 		"tags":[
 			"科技",
-			"行星",
+			"工具",
 			"矿石"
 		]
 	},
 	{
-		"description_short":"本模组向游戏内添加了一种名为尖斧(Paxel)的物品，是一种全能工具",
+		"description_short":"本模组加入了许多装饰性方块，可以为你的建筑增添更多细节",
 		"version_name":"",
-		"description_full":"[尖斧 beta 1 - 全能工具]\n本模组向游戏内添加了一种名为尖斧(Paxel)的物品。它是一种全能工具，结合了钻石镐子、斧子，铲子的功能。",
+		"description_full":"本模组加入了许多装饰性方块，可以为你的建筑增添更多细节。这里有11种不同的石质方块，其中之一是灯具。每一种方块还都有16种颜色（就像羊毛），并且你可以为他们染色（总共188个方块）。",
 		"links":[
 			{
 				"link":"https://vk.com/an_corporation",
-				"name":"Группа"
+				"name":"VK Group"
 			}
 		],
-		"id":49,
-		"title":"尖斧(全能工具)",
+		"id":54,
+		"title":"装饰方块",
 		"shouldOverride":true,
 		"tags":[
-			"全能工具",
-			"工具"
-		]
-	},
-	{
-		"description_short":"EMC、转化、强有力的工具还有更多机制！",
-		"version_name":"2.2.0",
-		"description_full":"本模组加入了炼金术以及物品和方块的转化，还加入了更多的盔甲和武器。\n很多物品都有一个EMC(能量-物质共价)值。EMC代表一个物品的费用，它依赖于物品的稀有度和复杂度。",
-		"links":[
-			{
-				"link":"https://vk.com/toncho1",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/pepeic",
-				"name":"Группа мода"
-			}
-		],
-		"id":35,
-		"title":"等价交换重置版PE",
-		"shouldOverride":true,
-		"tags":[
-			"等价交换",
-			"物质",
-			"全局",
-			"魔法",
-			"炼金术",
-			"设备",
-			"EMC",
-			"等价交换2"
+			"方块",
+			"装饰"
 		]
 	},
 	{
@@ -465,80 +240,138 @@
 		]
 	},
 	{
-		"description_short":"一个可以让你看到你所指向的方块和生物的信息的模组",
-		"version_name":"1.3",
-		"description_full":"本模组可以让你看到一个方块的名字、材质、可破坏性以及生物的血量、ID，而你只需要指向方块或生物即可。",
+		"description_short":"许多新植物和树种！",
+		"version_name":"2.4.5",
+		"description_full":"这个Mod将增加许多新的食物和植物。 有了这个Mod，你绝对不会在游戏中饿死。游戏中的不同生物群落中将生成不同的灌木丛。你可以采集或破坏它们，然后获得一些不同的水果或蔬菜。探索世界，你还将发现长满果实的果树。收集种子，除草，耕作，种植并收获水果和蔬菜。烹饪最美味的菜肴。\n\n现在你有充分的理由从事农业。 祝你游戏愉快！",
 		"links":[
 			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Оф. группа"
-			}
-		],
-		"id":144,
-		"title":"我在看什么？(高亮信息显示/Waila)",
-		"shouldOverride":true,
-		"tags":[
-			"信息",
-			"实用工具"
-		]
-	},
-	{
-		"description_short":"本模组添加了爆IC2物品的幸运方块。",
-		"version_name":"",
-		"description_full":"本模组添加了爆IC2物品的幸运方块。",
-		"links":[
-			{
-				"link":"http://vk.com/kosy4kov",
+				"link":"https://vk.com/savenkons",
 				"name":"Author"
 			}
 		],
-		"id":64,
-		"title":"工业时代幸运方块",
+		"id":24,
+		"title":"潘马斯农场",
 		"shouldOverride":true,
 		"tags":[
-			"\\&quot;LuckyCube\\&quot;",
-			"'IC 2\\&quot;",
-			"\\&quot;Lucky Block\\&quot;"
+			"作物",
+			"丰收工艺",
+			"狩猎",
+			"收获",
+			"潘马斯",
+			"MCPE",
+			"HC PE",
+			"丰收",
+			"植物",
+			"树",
+			"Inner Core",
+			"农场"
 		]
 	},
 	{
-		"description_short":"用于注册饰品的模组库",
-		"version_name":"",
-		"description_full":"用于注册饰品的模组库",
+		"description_short":"锤子和挖掘铲",
+		"version_name":"2.2",
+		"description_full":"本模组加入了锤子和挖掘铲。\n\n工业时代PE、林业PE、热力膨胀PE和AI科技中的物品都适配。",
 		"links":[
 			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в вк"
+				"link":"https://vk.com/pockettech",
+				"name":"VK"
+			},
+			{
+				"link":"http://www.9minecraft.net/sparks-hammers-mod/",
+				"name":"Wiki(PC)"
 			}
 		],
-		"id":152,
-		"title":"饰品栏",
+		"id":142,
+		"title":"重锤火花",
 		"shouldOverride":true,
 		"tags":[
-			"库",
-			"腰带",
-			"戒指"
+			"工具"
 		]
 	},
 	{
-		"description_short":"指南API - 为创建指南手册提供模组库支持",
-		"version_name":"",
-		"description_full":"指南API - 一个极好的用于制作游戏内说明文档的模组库\n\n第2版\n  - 修复透明物品槽中物品显示的bug\n  - 移除打开书时出现的按钮\n  - 现在本模组是已编译状态",
+		"description_short":"MCPE的高级太空维度模组。是工业时代2的一个插件！",
+		"version_name":"0.3.1.1",
+		"description_full":"MCPE中最优秀的星系维度模组。这是一个工业时代2的插件！如果不安装工业将无法运作！\n目前可以游玩，但是仍有一些bug（但不是关键bug，所以你目前可以到达月球和空间站）。",
 		"links":[
 			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в ВК"
+				"link":"https://m.vk.com/pavel_bazarev",
+				"name":"Developer"
+			},
+			{
+				"link":"https://m.vk.com/mrmineppist",
+				"name":"Group"
 			}
 		],
-		"id":39,
-		"title":"指南API",
+		"id":126,
+		"title":"星系",
 		"shouldOverride":true,
 		"tags":[
-			"库",
-			"书",
-			"说明书",
-			"指南书",
-			"指南"
+			"科技",
+			"行星",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"本模组在游戏里添加了新的剑和盔甲，合成自原版物品",
+		"version_name":"1.1.0",
+		"description_full":"1.1更新 修复合成以及剑的彩色名字！\n\n使用本模组你能，例如，用方块铁合成加强的剑，以及木质、石质和地狱岩质的盔甲。",
+		"links":[
+			{
+				"link":"https://2ch.hk",
+				"name":"Группа с модами"
+			}
+		],
+		"id":82,
+		"title":"高级特战",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"武器"
+		]
+	},
+	{
+		"description_short":"本模组在游戏里添加了血的仪式，你的有力武器",
+		"version_name":"1.0.2",
+		"description_full":"在这个模组的帮助下你将真正成为世界的统治者！你可以持有以敌人的血液为祭品的特殊工具和印记来称霸世界。就像你所期待的那样，你还可以拥有一个祭坛，通过祭坛你能向血之神贡献祭品，用你的气血宝珠和敌人的血液！",
+		"links":[
+			{
+				"link":"https://vk.com/slenderpe",
+				"name":"Автор"
+			},
+			{
+				"link":"https://vk.com/medievalcraft_mod",
+				"name":"Группа"
+			}
+		],
+		"id":43,
+		"title":"血魔法",
+		"shouldOverride":true,
+		"tags":[
+			"血",
+			"魔法",
+			"全局",
+			"设备"
+		]
+	},
+	{
+		"description_short":"本模组加入了五种新的熔炉",
+		"version_name":"",
+		"description_full":"更多熔炉 [Inner Core]\n\n本模组加入了五种新的不同烧炼速度的熔炉",
+		"links":[
+			{
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Developer"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"VK Group"
+			}
+		],
+		"id":9,
+		"title":"更多熔炉",
+		"shouldOverride":true,
+		"tags":[
+			"熔炉"
 		]
 	},
 	{
@@ -560,23 +393,70 @@
 		]
 	},
 	{
-		"description_short":"SurviCraft(矿石菌种)是另一个我要移植到Inner Core的Mod",
-		"version_name":"0.14.1 And Higher",
-		"description_full":"SurviCraft是MCPE中的矿石菌种。它会在你的游戏中添新的武器、盔甲、生物、物品，以此来增强游戏体验，它很像PC端的矿石菌种!抱歉，在得到另行通知前，它将没有官方的Logo",
+		"description_short":"EMC、转化、强有力的工具还有更多机制！",
+		"version_name":"2.2.0",
+		"description_full":"本模组加入了炼金术以及物品和方块的转化，还加入了更多的盔甲和武器。\n很多物品都有一个EMC(能量-物质共价)值。EMC代表一个物品的费用，它依赖于物品的稀有度和复杂度。",
 		"links":[
 			{
-				"link":"//mcpebox.com/ore-spawn-mod/",
-				"name":"https"
+				"link":"https://vk.com/toncho1",
+				"name":"Автор"
+			},
+			{
+				"link":"https://vk.com/pepeic",
+				"name":"Группа мода"
 			}
 		],
-		"id":349,
-		"title":"SurviCraft(矿石菌种)",
+		"id":35,
+		"title":"等价交换重置版PE",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"武器和物品！",
+			"等价交换",
+			"物质",
 			"全局",
-			"官方 InnerCore 模组"
+			"魔法",
+			"炼金术",
+			"设备",
+			"EMC",
+			"等价交换2"
+		]
+	},
+	{
+		"description_short":"本模组向游戏内添加了一种名为尖斧(Paxel)的物品，是一种全能工具",
+		"version_name":"",
+		"description_full":"[尖斧 beta 1 - 全能工具]\n本模组向游戏内添加了一种名为尖斧(Paxel)的物品。它是一种全能工具，结合了钻石镐子、斧子，铲子的功能。",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"Группа"
+			}
+		],
+		"id":49,
+		"title":"尖斧(全能工具)",
+		"shouldOverride":true,
+		"tags":[
+			"全能工具",
+			"工具"
+		]
+	},
+	{
+		"description_short":"有趣的战利品袋，随机掉落，挑战极限",
+		"version_name":"",
+		"description_full":"击杀生物将变得更有乐趣 - 从现在开始敌对生物都会掉落炫酷的袋子，当使用它们的时候不同的战利品或效果会从中掉出。一共有下面几种战利品袋\n普通战利品袋- 1/3掉率。开出来的都是没用的物品\n非凡战利品袋 - 1/10掉率，也可以用9个普通战利品袋合成。开出来的都是一般的物品\n稀有战利品袋 - 用9个非凡战利品袋合成。能开出很多不错的物品\n史诗战利品袋 - 用9个稀有战利品袋合成。只会开出状态效果，建议去地牢什么的地方或者战斗之前再开\n传说战利品袋 - 无法合成，只能击杀生物掉落，1%掉率。大多数都是极好的东西，但是幸运的时候也会开出一地岩浆。\n再宣布一个挑战吧 - 袋子里还藏有生物的头颅，如果你收集到了所有的头颅，那么你就是最厉害的那一位;) 但是这并不容易，有2个头只在传说级（！）中才能找到。其余的都在其它的某处等着你……",
+		"links":[
+			{
+				"link":"https://vk.com/malex2",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://www.youtube.com/channel/UCB-SWb7JkH1KkyeUzvr0LPw",
+				"name":"Канал разработчика"
+			}
+		],
+		"id":138,
+		"title":"战利品",
+		"shouldOverride":true,
+		"tags":[
+			"RPG"
 		]
 	},
 	{
@@ -601,42 +481,144 @@
 		]
 	},
 	{
-		"description_short":"加入了一个便携式的传送门开启设备，灵感来自于游戏《传送门》",
-		"version_name":"1.1",
-		"description_full":"本模组加入了一个十分稀有的工具 - 便携式传送门开启设备——传送枪。这个设备工作起来很像《传送门》游戏里的样子。要开启一个传送门，请点击经验条上方的蓝色和橙色按钮。",
+		"description_short":"指南API - 为创建指南手册提供模组库支持",
+		"version_name":"",
+		"description_full":"指南API - 一个极好的用于制作游戏内说明文档的模组库\n\n第2版\n  - 修复透明物品槽中物品显示的bug\n  - 移除打开书时出现的按钮\n  - 现在本模组是已编译状态",
 		"links":[
 			{
-				"link":"https://vk.com/savenkons",
-				"name":"Автор в VK"
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в ВК"
 			}
 		],
-		"id":399,
-		"title":"传送枪",
+		"id":39,
+		"title":"指南API",
 		"shouldOverride":true,
 		"tags":[
-			"实用工具",
-			"工具"
+			"库",
+			"书",
+			"说明书",
+			"指南书",
+			"指南"
 		]
 	},
 	{
-		"description_short":"有趣的战利品袋，随机掉落，挑战极限",
+		"description_short":"用于注册饰品的模组库",
 		"version_name":"",
-		"description_full":"击杀生物将变得更有乐趣 - 从现在开始敌对生物都会掉落炫酷的袋子，当使用它们的时候不同的战利品或效果会从中掉出。一共有下面几种战利品袋\n普通战利品袋- 1/3掉率。开出来的都是没用的物品\n非凡战利品袋 - 1/10掉率，也可以用9个普通战利品袋合成。开出来的都是一般的物品\n稀有战利品袋 - 用9个非凡战利品袋合成。能开出很多不错的物品\n史诗战利品袋 - 用9个稀有战利品袋合成。只会开出状态效果，建议去地牢什么的地方或者战斗之前再开\n传说战利品袋 - 无法合成，只能击杀生物掉落，1%掉率。大多数都是极好的东西，但是幸运的时候也会开出一地岩浆。\n再宣布一个挑战吧 - 袋子里还藏有生物的头颅，如果你收集到了所有的头颅，那么你就是最厉害的那一位;) 但是这并不容易，有2个头只在传说级（！）中才能找到。其余的都在其它的某处等着你……",
+		"description_full":"用于注册饰品的模组库",
 		"links":[
 			{
-				"link":"https://vk.com/malex2",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCB-SWb7JkH1KkyeUzvr0LPw",
-				"name":"Канал разработчика"
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в вк"
 			}
 		],
-		"id":138,
-		"title":"战利品",
+		"id":152,
+		"title":"饰品栏",
 		"shouldOverride":true,
 		"tags":[
-			"RPG"
+			"库",
+			"腰带",
+			"戒指"
+		]
+	},
+	{
+		"description_short":"本模组添加了爆IC2物品的幸运方块。",
+		"version_name":"",
+		"description_full":"本模组添加了爆IC2物品的幸运方块。",
+		"links":[
+			{
+				"link":"http://vk.com/kosy4kov",
+				"name":"Author"
+			}
+		],
+		"id":64,
+		"title":"工业时代幸运方块",
+		"shouldOverride":true,
+		"tags":[
+			"\\&quot;LuckyCube\\&quot;",
+			"'IC 2\\&quot;",
+			"\\&quot;Lucky Block\\&quot;"
+		]
+	},
+	{
+		"description_short":"本模组中我添加了更多的盔甲……我会定期更新……",
+		"version_name":"",
+		"description_full":"本模组中我添加了更多的盔甲……我会定期更新……\n[v1.1.0 Alpha]\n- 加入了更多盔甲\n- 修复bug\n[v1.1.0]：\n- 修复bug……\n- 更多盔甲……\n[v1.0.0]：\n- 史莱姆盔甲\n- 泥土盔甲\n- 石头盔甲\n- 圆石盔甲\n- 雪盔甲……",
+		"links":[
+			{
+				"link":"https://vk.com/public163353607",
+				"name":"Mod Comunity"
+			},
+			{
+				"link":"mcpegamers.freeforums.net",
+				"name":"MCPEGamers Comunity"
+			},
+			{
+				"link":"https://www.youtube.com/channel/UCMgj3B1kpj2LB40jeUiDlDw",
+				"name":"My Youtube"
+			}
+		],
+		"id":101,
+		"title":"方块盔甲PE",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"方块盔甲",
+			"更多盔甲"
+		]
+	},
+	{
+		"description_short":"SurviCraft(矿石菌种)是另一个我要移植到Inner Core的Mod",
+		"version_name":"0.14.1 And Higher",
+		"description_full":"SurviCraft是MCPE中的矿石菌种。它会在你的游戏中添新的武器、盔甲、生物、物品，以此来增强游戏体验，它很像PC端的矿石菌种!抱歉，在得到另行通知前，它将没有官方的Logo",
+		"links":[
+			{
+				"link":"//mcpebox.com/ore-spawn-mod/",
+				"name":"https"
+			}
+		],
+		"id":349,
+		"title":"SurviCraft(矿石菌种)",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"武器和物品！",
+			"全局",
+			"官方 InnerCore 模组"
+		]
+	},
+	{
+		"description_short":"本模组向游戏中加入了幸运方块。 =)",
+		"version_name":"",
+		"description_full":"本模组加入了幸运方块和一些炫酷的东西 :)",
+		"links":[
+			{
+				"link":"http://vk.com/kosy4kov",
+				"name":"Author"
+			}
+		],
+		"id":62,
+		"title":"幸运方块",
+		"shouldOverride":true,
+		"tags":[
+			"幸运方块"
+		]
+	},
+	{
+		"description_short":"本模组在游戏中加入了气象偏向仪。",
+		"version_name":"",
+		"description_full":"本模组在游戏中加入了气象偏向仪，由末影接口的能量驱动。",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"Группа"
+			}
+		],
+		"id":50,
+		"title":"气象偏向仪",
+		"shouldOverride":true,
+		"tags":[
+			"天气",
+			"机器"
 		]
 	},
 	{
@@ -672,6 +654,24 @@
 		"tags":[
 			"保存",
 			"物品栏"
+		]
+	},
+	{
+		"description_short":"加入了一个便携式的传送门开启设备，灵感来自于游戏《传送门》",
+		"version_name":"1.1",
+		"description_full":"本模组加入了一个十分稀有的工具 - 便携式传送门开启设备——传送枪。这个设备工作起来很像《传送门》游戏里的样子。要开启一个传送门，请点击经验条上方的蓝色和橙色按钮。",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Автор в VK"
+			}
+		],
+		"id":399,
+		"title":"传送枪",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"工具"
 		]
 	},
 	{
@@ -735,6 +735,24 @@
 		]
 	},
 	{
+		"description_short":"一个可以让你看到你所指向的方块和生物的信息的模组",
+		"version_name":"1.3",
+		"description_full":"本模组可以让你看到一个方块的名字、材质、可破坏性以及生物的血量、ID，而你只需要指向方块或生物即可。",
+		"links":[
+			{
+				"link":"https://vk.com/forestry_pe",
+				"name":"Оф. группа"
+			}
+		],
+		"id":144,
+		"title":"我在看什么？(高亮信息显示/Waila)",
+		"shouldOverride":true,
+		"tags":[
+			"信息",
+			"实用工具"
+		]
+	},
+	{
 		"description_short":"一个科技类模组，在游戏内加入了很多有用的物品。",
 		"version_name":"",
 		"description_full":"更多实用设备PE - 科技类模组，向游戏内加入了有用的物品、方块、发电机、机器和工具等",
@@ -782,27 +800,6 @@
 		]
 	},
 	{
-		"description_short":"加入了可以产生矿石的新树种。",
-		"version_name":"1.0",
-		"description_full":"加入了可以产生矿石的新树种。",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			},
-			{
-				"link":"//www.9minecraft.net/treeores-mod/",
-				"name":"http"
-			}
-		],
-		"id":294,
-		"title":"Tree Ores",
-		"shouldOverride":true,
-		"tags":[
-			"树"
-		]
-	},
-	{
 		"description_short":"匠魂",
 		"version_name":"build 14",
 		"description_full":"匠魂是用于以多种方式将工具组合在一起，然后对其进行修改，直到它们变成其他东西为止。",
@@ -836,6 +833,27 @@
 		]
 	},
 	{
+		"description_short":"加入了可以产生矿石的新树种。",
+		"version_name":"1.0",
+		"description_full":"加入了可以产生矿石的新树种。",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			},
+			{
+				"link":"//www.9minecraft.net/treeores-mod/",
+				"name":"http"
+			}
+		],
+		"id":294,
+		"title":"Tree Ores",
+		"shouldOverride":true,
+		"tags":[
+			"树"
+		]
+	},
+	{
 		"description_short":"更多的食物模组是由EagleRex制作的！我现在把它移植到InnerCore上！",
 		"version_name":"0.11.x and Higher",
 		"description_full":"如果你曾经也感到原版的食物和配方都太少了，那么更多的食物模组便是你的菜。它加入了超过30种新的食物，你可以用它们来制作披萨、汉堡以及更多的食品！\n这是一个由我移植到InnerCore的模组！我将会移植更多的模组！模组原作者是EagleRex",
@@ -852,27 +870,6 @@
 			"全局",
 			"官方 InnerCore 模组",
 			"食物"
-		]
-	},
-	{
-		"description_short":"末影接口是一个全方位的科技类模组。",
-		"version_name":"1.0",
-		"description_full":"末影接口是一个全方位的科技类模组。",
-		"links":[
-			{
-				"link":"https://vk.com/ender_io_pe",
-				"name":"vk"
-			}
-		],
-		"id":266,
-		"title":"Ender IO",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"红石通量",
-			"RF",
-			"设备",
-			"管道"
 		]
 	},
 	{
@@ -902,24 +899,32 @@
 		]
 	},
 	{
-		"description_short":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
-		"version_name":"3.0",
-		"description_full":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
+		"description_short":"全局的模组，加入了翅膀、机器、Boss、生物、剑和盔甲，并且都有着特殊的属性",
+		"version_name":"РЕЛИЗ! МНОГО НОВОГО (HOTFIX)",
+		"description_full":"全局的模组，加入了翅膀、机器、Boss、生物、剑和盔甲，并且都有着特殊的属性\n 一种可以升级到一刀20滴血的剑（用合成来一级一级升级）。\n许多有独特属性的盔甲套装。\n许多有着有趣属性的剑。\n祭坛、矿石和方块！\n一个在天上悬着的地牢！（我是说真的，大约有200到250格高的地方吧）\n还有更多特性……",
 		"links":[
 			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
+				"link":"https://vk.com/braveminers",
+				"name":"Группа"
 			},
 			{
-				"link":"https://minecraft-modsmc.fandom.com/wiki/Better_Furnaces",
-				"name":"Original Mod"
+				"link":"https://www.youtube.com/channel/UCaYgADxCSJC3PHdZ0Noc9zw?view_as=subscriber",
+				"name":"Ютуб"
 			}
 		],
-		"id":32,
-		"title":"Better Furnaces",
+		"id":206,
+		"title":"仙女魔法RPG",
 		"shouldOverride":true,
 		"tags":[
-			"熔炉"
+			"盔甲",
+			"魔法",
+			"全局",
+			"生物",
+			"翅膀",
+			"RPG",
+			"设备",
+			"矿石",
+			"武器"
 		]
 	},
 	{
@@ -940,6 +945,48 @@
 			"魔法",
 			"生物",
 			"武器"
+		]
+	},
+	{
+		"description_short":"末影接口是一个全方位的科技类模组。",
+		"version_name":"1.0",
+		"description_full":"末影接口是一个全方位的科技类模组。",
+		"links":[
+			{
+				"link":"https://vk.com/ender_io_pe",
+				"name":"vk"
+			}
+		],
+		"id":266,
+		"title":"Ender IO",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"红石通量",
+			"RF",
+			"设备",
+			"管道"
+		]
+	},
+	{
+		"description_short":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
+		"version_name":"3.0",
+		"description_full":"加入了高级熔炉（x1.6、x2、x4、x25、x50）",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			},
+			{
+				"link":"https://minecraft-modsmc.fandom.com/wiki/Better_Furnaces",
+				"name":"Original Mod"
+			}
+		],
+		"id":32,
+		"title":"Better Furnaces",
+		"shouldOverride":true,
+		"tags":[
+			"熔炉"
 		]
 	},
 	{
@@ -983,32 +1030,22 @@
 		]
 	},
 	{
-		"description_short":"全局的模组，加入了翅膀、机器、Boss、生物、剑和盔甲，并且都有着特殊的属性",
-		"version_name":"РЕЛИЗ! МНОГО НОВОГО (HOTFIX)",
-		"description_full":"全局的模组，加入了翅膀、机器、Boss、生物、剑和盔甲，并且都有着特殊的属性\n 一种可以升级到一刀20滴血的剑（用合成来一级一级升级）。\n许多有独特属性的盔甲套装。\n许多有着有趣属性的剑。\n祭坛、矿石和方块！\n一个在天上悬着的地牢！（我是说真的，大约有200到250格高的地方吧）\n还有更多特性……",
+		"description_short":"本模组加入了太阳能板",
+		"version_name":"",
+		"description_full":"本模组向游戏内添加了太阳能板，它并不占地方，而且是一个很好的EU能量来源。总共有5种太阳能板，产生能量的速度从50EU/tick到5000EU/tick不等。分别为：铅石太阳能板、强化太阳能板、谐振太阳能板、高级太阳能板、极限太阳能板\n\n可以和以下模组的能量联动：通用机械和末影接口",
 		"links":[
 			{
-				"link":"https://vk.com/braveminers",
+				"link":"https://vk.com/an_corporation",
 				"name":"Группа"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCaYgADxCSJC3PHdZ0Noc9zw?view_as=subscriber",
-				"name":"Ютуб"
 			}
 		],
-		"id":206,
-		"title":"仙女魔法RPG",
+		"id":51,
+		"title":"扩展太阳能板",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"魔法",
-			"全局",
-			"生物",
-			"翅膀",
-			"RPG",
-			"设备",
-			"矿石",
-			"武器"
+			"机器",
+			"能量",
+			"太阳能发电机"
 		]
 	},
 	{
@@ -1037,22 +1074,56 @@
 		]
 	},
 	{
-		"description_short":"本模组加入了太阳能板",
-		"version_name":"",
-		"description_full":"本模组向游戏内添加了太阳能板，它并不占地方，而且是一个很好的EU能量来源。总共有5种太阳能板，产生能量的速度从50EU/tick到5000EU/tick不等。分别为：铅石太阳能板、强化太阳能板、谐振太阳能板、高级太阳能板、极限太阳能板\n\n可以和以下模组的能量联动：通用机械和末影接口",
+		"description_short":"由0.15的旧版本移植而来",
+		"version_name":"1.1",
+		"description_full":"期待已久的小地图mod。 在本mod中，有一个设置菜单，可通过长按激活菜单以开关洞穴地图，生物雷达等等。\"",
 		"links":[
 			{
-				"link":"https://vk.com/an_corporation",
+				"link":"https://vk.com/club164716739",
 				"name":"Группа"
 			}
 		],
-		"id":51,
-		"title":"扩展太阳能板",
+		"id":242,
+		"title":"小地图",
 		"shouldOverride":true,
 		"tags":[
-			"机器",
-			"能量",
-			"太阳能发电机"
+			"实用",
+			"地图",
+			"小地图"
+		]
+	},
+	{
+		"description_short":"本模组加入了从一个无聊的太阳能板到未来武器的一系列物品。（尚未完成）",
+		"version_name":"",
+		"description_full":"本模组加入了从一个无聊的太阳能板到未来武器的一系列物品。",
+		"links":[
+			{
+				"link":"//vk.com/id225848864",
+				"name":"https"
+			}
+		],
+		"id":87,
+		"title":"更多机械",
+		"shouldOverride":true,
+		"tags":[
+			"机器+"
+		]
+	},
+	{
+		"description_short":"给我斜!",
+		"version_name":"1.0",
+		"description_full":"加入了斜面",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":329,
+		"title":"Slopes",
+		"shouldOverride":true,
+		"tags":[
+			"方块"
 		]
 	},
 	{
@@ -1070,24 +1141,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"科技"
-		]
-	},
-	{
-		"description_short":"本模组在游戏中加入了气象偏向仪。",
-		"version_name":"",
-		"description_full":"本模组在游戏中加入了气象偏向仪，由末影接口的能量驱动。",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"Группа"
-			}
-		],
-		"id":50,
-		"title":"气象偏向仪",
-		"shouldOverride":true,
-		"tags":[
-			"天气",
-			"机器"
 		]
 	},
 	{
@@ -1114,101 +1167,6 @@
 			"红石力量",
 			"机械",
 			"矿石"
-		]
-	},
-	{
-		"description_short":"由0.15的旧版本移植而来",
-		"version_name":"1.1",
-		"description_full":"期待已久的小地图mod。 在本mod中，有一个设置菜单，可通过长按激活菜单以开关洞穴地图，生物雷达等等。\"",
-		"links":[
-			{
-				"link":"https://vk.com/club164716739",
-				"name":"Группа"
-			}
-		],
-		"id":242,
-		"title":"小地图",
-		"shouldOverride":true,
-		"tags":[
-			"实用",
-			"地图",
-			"小地图"
-		]
-	},
-	{
-		"description_short":"给我斜!",
-		"version_name":"1.0",
-		"description_full":"加入了斜面",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":329,
-		"title":"Slopes",
-		"shouldOverride":true,
-		"tags":[
-			"方块"
-		]
-	},
-	{
-		"description_short":"加入了电动工具",
-		"version_name":"",
-		"description_full":"加入了电动工具",
-		"links":[
-			{
-				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
-				"name":"Канал автора"
-			}
-		],
-		"id":92,
-		"title":"电动工具",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
-		"description_short":"为ICPE新的升级",
-		"version_name":"Первая",
-		"description_full":"这个Mod为ICOE加入了许多新的特性",
-		"links":[
-			{
-				"link":"https://vk.com/theneterin",
-				"name":"Автор мода"
-			}
-		],
-		"id":244,
-		"title":"升级",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"工业时代",
-			"IC2"
-		]
-	},
-	{
-		"description_short":"末影储存-让MC的物品存放更加方便",
-		"version_name":"",
-		"description_full":"末影储存\n 末影箱非常有用，因为当我们在其中放入东西时，我们不太可能会丢失它。 因此，假设您有一堆钻石，为了不丢失它们，可以将它们放入末影箱。 如果我们泡了个岩浆澡，那么我们可以制作另一个末影箱，噔噔咚，钻石还在！\n 在原版MC中，所有末影箱都共用一个储存空间。 但是这个mod改变了末影箱的制作方式，同时改变了其材质。 有了这个mod，您可以制作多个末影箱，并且各自有其不同的储存空间。该如何做到？ 很简单。 您只需要放置一个箱子，并在有色羊毛的帮助下更改其颜色，然后您将拥有多个箱子系统，这非常有用。 但是，一旦被破坏，箱子会失去颜色，请小心:)",
-		"links":[
-			{
-				"link":"//vk.com/saloeater",
-				"name":"вк"
-			}
-		],
-		"id":40,
-		"title":"末影储存PE",
-		"shouldOverride":true,
-		"tags":[
-			" ",
-			"箱子",
-			"袋子",
-			"实用工具",
-			"设备",
-			"工具",
-			"存储"
 		]
 	},
 	{
@@ -1251,20 +1209,45 @@
 		]
 	},
 	{
-		"description_short":"本模组加入了从一个无聊的太阳能板到未来武器的一系列物品。（尚未完成）",
+		"description_short":"末影储存-让MC的物品存放更加方便",
 		"version_name":"",
-		"description_full":"本模组加入了从一个无聊的太阳能板到未来武器的一系列物品。",
+		"description_full":"末影储存\n 末影箱非常有用，因为当我们在其中放入东西时，我们不太可能会丢失它。 因此，假设您有一堆钻石，为了不丢失它们，可以将它们放入末影箱。 如果我们泡了个岩浆澡，那么我们可以制作另一个末影箱，噔噔咚，钻石还在！\n 在原版MC中，所有末影箱都共用一个储存空间。 但是这个mod改变了末影箱的制作方式，同时改变了其材质。 有了这个mod，您可以制作多个末影箱，并且各自有其不同的储存空间。该如何做到？ 很简单。 您只需要放置一个箱子，并在有色羊毛的帮助下更改其颜色，然后您将拥有多个箱子系统，这非常有用。 但是，一旦被破坏，箱子会失去颜色，请小心:)",
 		"links":[
 			{
-				"link":"//vk.com/id225848864",
-				"name":"https"
+				"link":"//vk.com/saloeater",
+				"name":"вк"
 			}
 		],
-		"id":87,
-		"title":"更多机械",
+		"id":40,
+		"title":"末影储存PE",
 		"shouldOverride":true,
 		"tags":[
-			"机器+"
+			" ",
+			"箱子",
+			"袋子",
+			"实用工具",
+			"设备",
+			"工具",
+			"存储"
+		]
+	},
+	{
+		"description_short":"为ICPE新的升级",
+		"version_name":"Первая",
+		"description_full":"这个Mod为ICOE加入了许多新的特性",
+		"links":[
+			{
+				"link":"https://vk.com/theneterin",
+				"name":"Автор мода"
+			}
+		],
+		"id":244,
+		"title":"升级",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"工业时代",
+			"IC2"
 		]
 	},
 	{
@@ -1305,6 +1288,23 @@
 			"实用工具",
 			"模组浏览器",
 			"模组"
+		]
+	},
+	{
+		"description_short":"加入了电动工具",
+		"version_name":"",
+		"description_full":"加入了电动工具",
+		"links":[
+			{
+				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
+				"name":"Канал автора"
+			}
+		],
+		"id":92,
+		"title":"电动工具",
+		"shouldOverride":true,
+		"tags":[
+			"工具"
 		]
 	},
 	{
@@ -1491,25 +1491,6 @@
 		]
 	},
 	{
-		"description_short":"你知道健康的实体。",
-		"version_name":"",
-		"description_full":"当你看一个实体,你知道健康的实体。",
-		"links":[
-			{
-				"link":"https://vk.com/club171704577",
-				"name":"DaiDai"
-			}
-		],
-		"id":271,
-		"title":"血量显示",
-		"shouldOverride":true,
-		"tags":[
-			"伤害显示",
-			"生命值",
-			"实体"
-		]
-	},
-	{
 		"description_short":"新装甲，食物，植物，工具和机制，只是没有列出来。",
 		"version_name":"3.1.2.3",
 		"description_full":"MTM Items PE V3.1.2.3(外表变化):\r\n-修复了2个以上的bug,\r\n-为格子添加了材质:\r\n-微芯片 (芯片工厂, 迷你印刷机, 水力发电装置),\r\n-少数 (筛子),\r\n-针 (织机),\r\n-线程 (织机),\r\n-可以用他们自己的物品格工作.\r\nMTM Items PE V3.1.2.2(小型bug修复):\r\n-目前修复了所有错误 09.11.2019.\r\nV3.1.2(大型bug修复):\r\n-目前修复了所有错误 06.11.2019,\r\n-删除: 面包卷, 螃蟹, 采矿头盔, 高级加速芯片,\r\n-重新制作了工作套装在机器上的效果 (现在地狱盔甲的效果至少显示45秒, 潜水服会显示1分30秒),龙之边缘护甲现在的力量要小得多,\r\n-更改了龙之边缘护甲与潜水服的制作方式,\r\n-添加了鳍 (钢和钻石) (这是潜水服的一部分, 但是可单独使用) 来增加游泳速度,\r\n-添加了碳纤维 (在未来它将与很多物品联系在一起). 如果要获得它, 你需要在炉子里烧制大量的织物 (在未来，合成工序将会变得更加困难),\r\n-材质更新,\r\n-陨石坠落的声音调低了很多,\r\n-较小的工序变更,\r\n-生食河豚肉现在会大概率引起中毒，\r\n-重绘了织机的材质,\r\n-机械与能量已经可以重新开始工作 (现在它的具体量写在能量标识下),\r\n-现在织机工作需要你打开它的界面 (如果关闭它将停止工作) 1道工序需要6秒,\r\n-芯片工厂的1道工序需要25秒并且需要5k (+/- 100) 能量, \r\n-迷你印刷机的一道工序需要20秒并且需要5k (+/- 100)能量,\r\n-加速芯片额外需要2k (+/- 100)能量， 但是可为所有工序加速2倍,\r\n-水力发电装置的工作, 现在必须用水从四面八方把它包起来 (除了顶部) 它会每秒产生200能量 (加速芯片会使它每秒多提供100的能量).\r\nV2.0.0(2 Beta测试):\r\n-添加熔岩晶体及其岩晶矿石,\r\n-添加钢锭, 金块, 护甲,\r\n-尖刺棒和普通刀锋的尖刺刀被削弱了,\r\n-带有古代守卫刺的强化刀锋,\r\n-现在地狱护甲的合成配方中增加了熔岩晶体,\r\n-添加无烟煤及无烟煤矿石,\r\n-从筛子中筛除矿物的概率由4.5%下调至2%,\r\n-更新了许多物品与护甲的材质\r\n-添加了去除鱼鳞的鱼，三文鱼，鱼和三文鱼肉,\r\n-添加了硫及硫矿石, 硝酸钾和石灰, 用于替代火药,\r\n-添加了筛子的木板材质及3D模型,\r\n-为耐热炉添加了一个烤架 并且添加了耐热炉本身, palvit速度是传统模型的1.3倍，并具有3D模型,\r\n-添加了经常在世界各地产生的鹅卵石,\r\n-对创造背包进行了排序,\r\n-增加了从边缘龙上掉下最多20块肉的特性，\r\n-现在，所有的木制物件绝对都可以在炉子中使用，\r\n-在潜水员的套装中，铁部件被钢代替，\r\n-樱桃，樱桃木，樱桃树叶子，樱桃树苗和樱桃本身，都会随机生成\r\n-增加了Grass线程作为传统线程的替代品，\r\n-添加了另外1种带有防护钉和刀锋的刀具，\r\n-除潜水服外，所有护甲均被削弱，\r\n-很多合成工序发生改动，\r\n-修复了29个bug\r\n-以及数十项相对全局的更改。\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nV1.1.0(World Update):\r\n-修复了5个bug\r\n-添加了一个新的食物种子 ,\r\n-添加了英文支持,\r\n-线程被重新命名,\r\n-破旧的布料被重新命名为旧布料.\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nV1.0.2:\r\n-进入世界时修正为固定的聊天窗口提示。\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nV1.0.1:\r\n-在启动器进入世界时添加了提示。\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nV1.0.0(1 Beta-test):\r\n-添加了4件新装甲,\r\n-4种新武器,\r\n-添加了很多物品\r\n-筛子 (如果要使用它，你需要用草或者少量沙子点击它, 用泥土和沙砾将有4.5%的概率获得32种物品中的一个),\r\n-添加了很多食物\r\n-新的原版物品工艺\r\n-一种小瓶牛奶 (如果你想获得它，那么你只需要用瓶子点击牛就可以了。),\r\n-添加了一些创新。",
@@ -1540,22 +1521,47 @@
 		]
 	},
 	{
-		"description_short":"一个实用器械和ICPE的附加组件.一个无中生有和工业的拓展。",
-		"version_name":"1.0",
-		"description_full":"一个实用器械和工业2的附加组件.\n它依赖于原来的实用器械和工业2所使用.\n一个无中生有和工业时代的扩展。\n它需要和无中生有和工业时代一起运行。",
+		"description_short":"更多的矿物!",
+		"version_name":"1.1",
+		"description_full":"添加更多的矿物\r\n(添加更多工业时代2的矿物) 如果你发现了Bug,请在评论区留言",
 		"links":[
 			{
-				"link":"//weibo.com/u/5762974935",
-				"name":"http"
+				"link":"https: //vk.com/nagymet.adaev",
+				"name":"Автор"
+			},
+			{
+				"link":"https: //vk.com/nagymet.adaev",
+				"name":"Вк Группа"
 			}
 		],
-		"id":250,
-		"title":"ICPE实用器械附加组件",
+		"id":321,
+		"title":"SuperOres[超级矿物]",
 		"shouldOverride":true,
 		"tags":[
-			"工业时代",
-			"无中生有",
-			"UMT"
+			" ",
+			"InnerCore",
+			"矿石",
+			"挖掘",
+			"模组"
+		]
+	},
+	{
+		"description_short":"你知道健康的实体。",
+		"version_name":"",
+		"description_full":"当你看一个实体,你知道健康的实体。",
+		"links":[
+			{
+				"link":"https://vk.com/club171704577",
+				"name":"DaiDai"
+			}
+		],
+		"id":271,
+		"title":"血量显示",
+		"shouldOverride":true,
+		"tags":[
+			"伤害显示",
+			"生命值",
+			"实体"
 		]
 	},
 	{
@@ -1582,28 +1588,43 @@
 		]
 	},
 	{
-		"description_short":"更多的矿物!",
-		"version_name":"1.1",
-		"description_full":"添加更多的矿物\r\n(添加更多工业时代2的矿物) 如果你发现了Bug,请在评论区留言",
+		"description_short":"一个实用器械和ICPE的附加组件.一个无中生有和工业的拓展。",
+		"version_name":"1.0",
+		"description_full":"一个实用器械和工业2的附加组件.\n它依赖于原来的实用器械和工业2所使用.\n一个无中生有和工业时代的扩展。\n它需要和无中生有和工业时代一起运行。",
 		"links":[
 			{
-				"link":"https: //vk.com/nagymet.adaev",
-				"name":"Автор"
-			},
-			{
-				"link":"https: //vk.com/nagymet.adaev",
-				"name":"Вк Группа"
+				"link":"//weibo.com/u/5762974935",
+				"name":"http"
 			}
 		],
-		"id":321,
-		"title":"SuperOres[超级矿物]",
+		"id":250,
+		"title":"ICPE实用器械附加组件",
 		"shouldOverride":true,
 		"tags":[
-			" ",
-			"InnerCore",
-			"矿石",
-			"挖掘",
-			"模组"
+			"工业时代",
+			"无中生有",
+			"UMT"
+		]
+	},
+	{
+		"description_short":"这个Mod为游戏加入了基岩矿石，使你可以用它来合成物品",
+		"version_name":"",
+		"description_full":"Bedrock Tools [Inner Core]\r\n\r\n这个Mod添加了基岩矿物，你可以用它来合成护甲，武器和工具",
+		"links":[
+			{
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа"
+			}
+		],
+		"id":16,
+		"title":"基岩工具",
+		"shouldOverride":true,
+		"tags":[
+			"基岩"
 		]
 	},
 	{
@@ -1660,50 +1681,6 @@
 		]
 	},
 	{
-		"description_short":"这个Mod为游戏加入了基岩矿石，使你可以用它来合成物品",
-		"version_name":"",
-		"description_full":"Bedrock Tools [Inner Core]\r\n\r\n这个Mod添加了基岩矿物，你可以用它来合成护甲，武器和工具",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Группа"
-			}
-		],
-		"id":16,
-		"title":"基岩工具",
-		"shouldOverride":true,
-		"tags":[
-			"基岩"
-		]
-	},
-	{
-		"description_short":"这个Mod会让你感受到中世纪的氛围",
-		"version_name":"1.0.1",
-		"description_full":"这个Mod为游戏加入了粉碎机，锯木机，磨粉机，多单元炉，钻头，桶和其他更多的东西。另外，我准备为这个Mod继续添加大量的东西，比如新的维度，咒语，地牢和药水等等。 现在这个Mod已经有了一个让我满意的开端，希望你会喜欢她。",
-		"links":[
-			{
-				"link":"https://vk.com/slenderpe",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/medievalcraft_mod",
-				"name":"Группа"
-			}
-		],
-		"id":157,
-		"title":"Medieval Craft[中世纪]",
-		"shouldOverride":true,
-		"tags":[
-			"魔法",
-			"全局",
-			"机械"
-		]
-	},
-	{
 		"description_short":"战利品袋:MCPE原版,IC2安德IO等",
 		"version_name":"1.0",
 		"description_full":"战利品包支持:",
@@ -1728,6 +1705,24 @@
 		]
 	},
 	{
+		"description_short":"这个Mod为游戏加入了新的矿石，工具和方块",
+		"version_name":"",
+		"description_full":"这个Mod为游戏加入了8种矿石，强力的工具和一些机器。\r\n!!这个Mod仍处在测试阶段，所以大多数机制不会生效!!",
+		"links":[
+			{
+				"link":"https://vk.com/jontoocompany",
+				"name":"Группа в вк"
+			}
+		],
+		"id":100,
+		"title":"Металлургия[冶金] 0.3",
+		"shouldOverride":true,
+		"tags":[
+			"冶金",
+			"金属"
+		]
+	},
+	{
 		"description_short":"模组让玩家能够完全控制物品的附魔",
 		"version_name":"1.0",
 		"description_full":"模组让玩家给物品附魔的成本更低。",
@@ -1749,47 +1744,26 @@
 		]
 	},
 	{
-		"description_short":"这个Mod为游戏加入了加密货币",
-		"version_name":"1.0 Release",
-		"description_full":"这个Mod为游戏加入了加密货币",
+		"description_short":"这个Mod会让你感受到中世纪的氛围",
+		"version_name":"1.0.1",
+		"description_full":"这个Mod为游戏加入了粉碎机，锯木机，磨粉机，多单元炉，钻头，桶和其他更多的东西。另外，我准备为这个Mod继续添加大量的东西，比如新的维度，咒语，地牢和药水等等。 现在这个Mod已经有了一个让我满意的开端，希望你会喜欢她。",
 		"links":[
 			{
-				"link":"https://vk.com/jlong2000",
-				"name":"James Long"
+				"link":"https://vk.com/slenderpe",
+				"name":"Разработчик"
 			},
 			{
-				"link":"https://vk.com/mining_mod",
-				"name":"Group of mod"
+				"link":"https://vk.com/medievalcraft_mod",
+				"name":"Группа"
 			}
 		],
-		"id":272,
-		"title":"MiningMod[虚拟货币]",
+		"id":157,
+		"title":"Medieval Craft[中世纪]",
 		"shouldOverride":true,
 		"tags":[
-			"科技",
-			"方块",
+			"魔法",
 			"全局",
-			"工具",
-			"商店",
-			"维度"
-		]
-	},
-	{
-		"description_short":"这个Mod为游戏加入了新的矿石，工具和方块",
-		"version_name":"",
-		"description_full":"这个Mod为游戏加入了8种矿石，强力的工具和一些机器。\r\n!!这个Mod仍处在测试阶段，所以大多数机制不会生效!!",
-		"links":[
-			{
-				"link":"https://vk.com/jontoocompany",
-				"name":"Группа в вк"
-			}
-		],
-		"id":100,
-		"title":"Металлургия[冶金] 0.3",
-		"shouldOverride":true,
-		"tags":[
-			"冶金",
-			"金属"
+			"机械"
 		]
 	},
 	{
@@ -1819,22 +1793,46 @@
 		]
 	},
 	{
-		"description_short":"该Mod添加了可以无视伤害并击退敌人的盾牌",
-		"version_name":"Release",
-		"description_full":"该Mod添加了可以无视伤害并击退敌人的盾牌，还增加了具有各种属性的盾牌。\r\n\r\n•木盾牌-击退[75％] \r\n•石盾牌-击退[100％] \r\n•铁盾牌-击退[110％] \r\n•金盾牌-击退[115％] \r\n•钻石盾牌击退[125％] \r\n•下界盾牌-[125％] + 烧伤敌人\r\n•末地盾牌-传送敌人。",
+		"description_short":"这个Mod为游戏加入了加密货币",
+		"version_name":"1.0 Release",
+		"description_full":"这个Mod为游戏加入了加密货币",
 		"links":[
 			{
-				"link":"https://2ch.hk",
-				"name":"Группа"
+				"link":"https://vk.com/jlong2000",
+				"name":"James Long"
+			},
+			{
+				"link":"https://vk.com/mining_mod",
+				"name":"Group of mod"
 			}
 		],
-		"id":241,
-		"title":"Spartan Shields",
+		"id":272,
+		"title":"MiningMod[虚拟货币]",
 		"shouldOverride":true,
 		"tags":[
-			"盾牌",
-			"防御",
-			"武器"
+			"科技",
+			"方块",
+			"全局",
+			"工具",
+			"商店",
+			"维度"
+		]
+	},
+	{
+		"description_short":"使游戏的玻璃更漂亮",
+		"version_name":"1.0",
+		"description_full":"使游戏的玻璃更漂亮",
+		"links":[
+			{
+				"link":"vk.com/forestry_pe",
+				"name":"Оф. Группа"
+			}
+		],
+		"id":184,
+		"title":"FancyGlass[更精美的玻璃]",
+		"shouldOverride":true,
+		"tags":[
+			"玻璃"
 		]
 	},
 	{
@@ -1860,20 +1858,66 @@
 		]
 	},
 	{
-		"description_short":"使游戏的玻璃更漂亮",
-		"version_name":"1.0",
-		"description_full":"使游戏的玻璃更漂亮",
+		"description_short":"该Mod添加了可以无视伤害并击退敌人的盾牌",
+		"version_name":"Release",
+		"description_full":"该Mod添加了可以无视伤害并击退敌人的盾牌，还增加了具有各种属性的盾牌。\r\n\r\n•木盾牌-击退[75％] \r\n•石盾牌-击退[100％] \r\n•铁盾牌-击退[110％] \r\n•金盾牌-击退[115％] \r\n•钻石盾牌击退[125％] \r\n•下界盾牌-[125％] + 烧伤敌人\r\n•末地盾牌-传送敌人。",
 		"links":[
 			{
-				"link":"vk.com/forestry_pe",
-				"name":"Оф. Группа"
+				"link":"https://2ch.hk",
+				"name":"Группа"
 			}
 		],
-		"id":184,
-		"title":"FancyGlass[更精美的玻璃]",
+		"id":241,
+		"title":"Spartan Shields",
 		"shouldOverride":true,
 		"tags":[
-			"玻璃"
+			"盾牌",
+			"防御",
+			"武器"
+		]
+	},
+	{
+		"description_short":"这个mod给游戏增加了:农作物、材料、仪器、矿石、方块、食物和战斧。",
+		"version_name":"",
+		"description_full":"Zeiyo工艺的版本: 1.0 Build 1 [IC]\r\n\r\n这个mod给游戏中添加了:农作物，材料，工具，矿石，石块，食物和战斧。\r\n\r\n材料:红宝石、蓝宝石、玉石、玛瑙、珍珠母、紫水晶。用这些材料，你可以制作镐、锹、剑、斧头和战斧。",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"Группа"
+			}
+		],
+		"id":48,
+		"title":"Zeiyo工艺",
+		"shouldOverride":true,
+		"tags":[
+			"材料",
+			"工具",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"修改并添加了多方块结构",
+		"version_name":"",
+		"description_full":"修改并添加了一个多块结构来获取自身周围的资源，从功能上来说，它类似于更多使用设备的采石场。",
+		"links":[
+			{
+				"link":"https://vk.com/ddcompany2015",
+				"name":"Автор мода"
+			},
+			{
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в вк"
+			}
+		],
+		"id":7,
+		"title":"采石场",
+		"shouldOverride":true,
+		"tags":[
+			"工业时代",
+			"多方块",
+			"采石场",
+			"结构",
+			"拓展"
 		]
 	},
 	{
@@ -1897,32 +1941,6 @@
 			"生物",
 			"矿石",
 			"维度",
-			"武器"
-		]
-	},
-	{
-		"description_short":"Mod渲染了末世的气氛",
-		"version_name":"0.2",
-		"description_full":"所有信息都在Mod中！\r\n0.2版本更新！",
-		"links":[
-			{
-				"link":"//vk.com/nikitablack1",
-				"name":"Владелец"
-			},
-			{
-				"link":"//vk.com/imforic",
-				"name":"Группа"
-			}
-		],
-		"id":239,
-		"title":"Last Craft",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"启示",
-			"全局",
-			"矿石",
-			"模组",
 			"武器"
 		]
 	},
@@ -1962,28 +1980,29 @@
 		]
 	},
 	{
-		"description_short":"修改并添加了多方块结构",
-		"version_name":"",
-		"description_full":"修改并添加了一个多块结构来获取自身周围的资源，从功能上来说，它类似于更多使用设备的采石场。",
+		"description_short":"Mod渲染了末世的气氛",
+		"version_name":"0.2",
+		"description_full":"所有信息都在Mod中！\r\n0.2版本更新！",
 		"links":[
 			{
-				"link":"https://vk.com/ddcompany2015",
-				"name":"Автор мода"
+				"link":"//vk.com/nikitablack1",
+				"name":"Владелец"
 			},
 			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в вк"
+				"link":"//vk.com/imforic",
+				"name":"Группа"
 			}
 		],
-		"id":7,
-		"title":"采石场",
+		"id":239,
+		"title":"Last Craft",
 		"shouldOverride":true,
 		"tags":[
-			"工业时代",
-			"多方块",
-			"采石场",
-			"结构",
-			"拓展"
+			"科技",
+			"启示",
+			"全局",
+			"矿石",
+			"模组",
+			"武器"
 		]
 	},
 	{
@@ -2005,25 +2024,6 @@
 			"UMT",
 			"潘马斯丰收工艺",
 			"潘马斯"
-		]
-	},
-	{
-		"description_short":"这个mod给游戏增加了:农作物、材料、仪器、矿石、方块、食物和战斧。",
-		"version_name":"",
-		"description_full":"Zeiyo工艺的版本: 1.0 Build 1 [IC]\r\n\r\n这个mod给游戏中添加了:农作物，材料，工具，矿石，石块，食物和战斧。\r\n\r\n材料:红宝石、蓝宝石、玉石、玛瑙、珍珠母、紫水晶。用这些材料，你可以制作镐、锹、剑、斧头和战斧。",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"Группа"
-			}
-		],
-		"id":48,
-		"title":"Zeiyo工艺",
-		"shouldOverride":true,
-		"tags":[
-			"材料",
-			"工具",
-			"矿石"
 		]
 	},
 	{
@@ -2054,29 +2054,6 @@
 		]
 	},
 	{
-		"description_short":"枪械mod。",
-		"version_name":"1.1",
-		"description_full":"本模组添加了一些枪支。",
-		"links":[
-			{
-				"link":"https://wiki.mineprogramming.org/index.php/InnerCore/Mods/WolfGunsMod",
-				"name":"WiKi"
-			},
-			{
-				"link":"https://vk.com/topic-80513593_40486535",
-				"name":"Feedback"
-			}
-		],
-		"id":397,
-		"title":"WolfGunsMod",
-		"shouldOverride":true,
-		"tags":[
-			"手枪",
-			"枪",
-			"武器"
-		]
-	},
-	{
 		"description_short":"这是一个添加了许多新机器和物品的模组",
 		"version_name":"1.0",
 		"description_full":"要了解如何使用mod，请下载vk组中的文档\\recipes\\.\n由 WvT 为什么是个猪人(wpm recs) and Fazin制作",
@@ -2091,27 +2068,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"科技"
-		]
-	},
-	{
-		"description_short":"无限丛林",
-		"version_name":"",
-		"description_full":"这个mod将添加维度。在你的前方将是一片巨大的森林，潜伏着许多未知的东西，而在你的头顶上方将是最高的树。为了达到这个目标，你需要用钻石、幼苗、泥土和树叶制作一个蓝色的水晶。要想进入普通的世界，你需要找到一个出现在无边无际的森林橙色水晶中的箱子。",
-		"links":[
-			{
-				"link":"https://vk.com/slenderpe",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/medievalcraft_mod",
-				"name":"Группа"
-			}
-		],
-		"id":159,
-		"title":"Infinite Forest",
-		"shouldOverride":true,
-		"tags":[
-			"维度"
 		]
 	},
 	{
@@ -2165,6 +2121,27 @@
 		"tags":[
 			"库",
 			"RPG"
+		]
+	},
+	{
+		"description_short":"无限丛林",
+		"version_name":"",
+		"description_full":"这个mod将添加维度。在你的前方将是一片巨大的森林，潜伏着许多未知的东西，而在你的头顶上方将是最高的树。为了达到这个目标，你需要用钻石、幼苗、泥土和树叶制作一个蓝色的水晶。要想进入普通的世界，你需要找到一个出现在无边无际的森林橙色水晶中的箱子。",
+		"links":[
+			{
+				"link":"https://vk.com/slenderpe",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/medievalcraft_mod",
+				"name":"Группа"
+			}
+		],
+		"id":159,
+		"title":"Infinite Forest",
+		"shouldOverride":true,
+		"tags":[
+			"维度"
 		]
 	},
 	{
@@ -2237,64 +2214,20 @@
 		]
 	},
 	{
-		"description_short":"一键砍树！",
-		"version_name":"1.2",
-		"description_full":"用斧子或者类似的工具可以一键砍树！",
+		"description_short":"添加大型储物柜。",
+		"version_name":"1.0",
+		"description_full":"添加大型储物柜\r\n13×9格 × 5页 = 585。",
 		"links":[
 			{
-				"link":"https://vk.com/vlad.gr2027",
-				"name":"Developer"
+				"link":"https://vk.com/pockettech",
+				"name":"Группа ВК"
 			}
 		],
-		"id":449,
-		"title":"一键砍树",
+		"id":33,
+		"title":"Multi Page Chest",
 		"shouldOverride":true,
 		"tags":[
-			"砍树"
-		]
-	},
-	{
-		"description_short":"数据修改让你尝试新菜好吃,主要成分是鸡蛋。",
-		"version_name":"",
-		"description_full":"Eat the Eggs Inner Core[]",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Группа"
-			}
-		],
-		"id":13,
-		"title":"Eat the Eggs",
-		"shouldOverride":true,
-		"tags":[
-			"\\&quot;Еда\\&quot;",
-			"\\&quot;Яйцо\\&quot;"
-		]
-	},
-	{
-		"description_short":"添加新的时尚工具和铠甲。",
-		"version_name":"0.1",
-		"description_full":"RU: Мод добавляет новые инструменты и броню, которые создаются из ванильных предметов(алмазные вещи).\nEN: This mod adds new tools and armor, that are crafted from vanilla items (diamond items).",
-		"links":[
-			{
-				"link":"https://vk.com/vailinskiy",
-				"name":"Разработчик"
-			}
-		],
-		"id":253,
-		"title":"Tools+",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"设备",
-			"工具",
-			"高级工具",
-			"模组",
-			"武器"
+			"箱子"
 		]
 	},
 	{
@@ -2322,20 +2255,42 @@
 		]
 	},
 	{
-		"description_short":"添加大型储物柜。",
-		"version_name":"1.0",
-		"description_full":"添加大型储物柜\r\n13×9格 × 5页 = 585。",
+		"description_short":"数据修改让你尝试新菜好吃,主要成分是鸡蛋。",
+		"version_name":"",
+		"description_full":"Eat the Eggs Inner Core[]",
 		"links":[
 			{
-				"link":"https://vk.com/pockettech",
-				"name":"Группа ВК"
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа"
 			}
 		],
-		"id":33,
-		"title":"Multi Page Chest",
+		"id":13,
+		"title":"Eat the Eggs",
 		"shouldOverride":true,
 		"tags":[
-			"箱子"
+			"\\&quot;Еда\\&quot;",
+			"\\&quot;Яйцо\\&quot;"
+		]
+	},
+	{
+		"description_short":"一键砍树！",
+		"version_name":"1.2",
+		"description_full":"用斧子或者类似的工具可以一键砍树！",
+		"links":[
+			{
+				"link":"https://vk.com/vlad.gr2027",
+				"name":"Developer"
+			}
+		],
+		"id":449,
+		"title":"一键砍树",
+		"shouldOverride":true,
+		"tags":[
+			"砍树"
 		]
 	},
 	{
@@ -2384,46 +2339,25 @@
 		]
 	},
 	{
-		"description_short":"这个模式在世界各地与铱。流星将下降",
-		"version_name":"2.3",
-		"description_full":"V2.3:\n-звук падения стал тише,\n-добавил комманду /IridiumMeteor, которая вызывает метеорит под игроком.\nV2.2:\n-теперь метеорит падает даже под водой,\n-шанс падения метеорита был понижен и теперь за 1 час падает от 1 до 2 метеоритов, но не меньше и не больше.\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nС этим модом в по всему миру будут падать метеориты с иридием, но поскольку это аддон, то иридий в метеоритах будет спавниться только, если у вас установлен такой мод, как Industrial Craft 2.",
+		"description_short":"添加新的时尚工具和铠甲。",
+		"version_name":"0.1",
+		"description_full":"RU: Мод добавляет новые инструменты и броню, которые создаются из ванильных предметов(алмазные вещи).\nEN: This mod adds new tools and armor, that are crafted from vanilla items (diamond items).",
 		"links":[
 			{
-				"link":"https://vk.com/mods.inner.core",
-				"name":"Группа разработчика в вк"
-			},
-			{
-				"link":"https://vk.com/id354069902",
-				"name":"Вк разработчика"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCZc_JIJR5FONwesz2iw_erA",
-				"name":"YouTube канал разработчика"
+				"link":"https://vk.com/vailinskiy",
+				"name":"Разработчик"
 			}
 		],
-		"id":229,
-		"title":"Iridium Meteors PE",
+		"id":253,
+		"title":"Tools+",
 		"shouldOverride":true,
 		"tags":[
-			"陨石",
-			"拓展"
-		]
-	},
-	{
-		"description_short":"时尚添加有用的东西",
-		"version_name":"0.6.2",
-		"description_full":"Items:\r\n\r\nAngel ring (Angel ring) - Allows you to fly like in a creative, for work it is enough to have in your inventory. If installed Baubles, then you can put in the slots for rings\r\n\r\nBuilder's wand (Builder wand) - Puts the blocks in the 7x7 zone\r\n\r\nMagnet (Magnet) - if it is in the inventory or in the slot for rings from Baubles, then all objects within a radius of 15 blocks will be attracted to the player.\r\n\r\nFlacon for souls - Allows you to capture mobs and release where you need (most of the mob data is saved)\r\n\r\nDescription of death - Appears after death and contains information about items\r\n\r\nWrench - Allows you to disconnect containers from the pipes (sit down and click on the pipe, and then on the container you want to disconnect)\r\n\r\nBlocks:\r\n\r\nExperience Storage (XP Storage) - Allows you to store experience\r\n\r\nWorld clock (World clock) - accelerates time when applying a redstone signal\r\n\r\nItem Collector - Collects items within a radius of 15 blocks and puts them in storage.\r\n\r\nExtraction pipe - extract items and transfer his to nearest container\r\n\r\nItem pipe - link extraction pipes\r\n\r\nStructures:\r\n\r\nExperience Reactor (XP Reactor) - Constructed from 3 XPStorage and 3 WorldClock around the diamond block (for the structure to be created it is necessary to press with a hammer)\r\n\r\nTeams:\r\n\r\n/utils get death_items [id] - Place under you a grave with things that were in the description of death with number id\r\n\r\nOther:\r\n\r\nAt death, a grave will appear in which your belongings will lie (it is turned off in configs)",
-		"links":[
-			{
-				"link":"https://vk.com/public179065827",
-				"name":"Group VK"
-			}
-		],
-		"id":338,
-		"title":"Utils+",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具"
+			"盔甲",
+			"设备",
+			"工具",
+			"高级工具",
+			"模组",
+			"武器"
 		]
 	},
 	{
@@ -2450,43 +2384,20 @@
 		]
 	},
 	{
-		"description_short":"死亡墓地现场增添墓碑。",
-		"version_name":"1.0.1",
-		"description_full":"死亡墓地现场增添墓碑。",
+		"description_short":"时尚添加有用的东西",
+		"version_name":"0.6.2",
+		"description_full":"Items:\r\n\r\nAngel ring (Angel ring) - Allows you to fly like in a creative, for work it is enough to have in your inventory. If installed Baubles, then you can put in the slots for rings\r\n\r\nBuilder's wand (Builder wand) - Puts the blocks in the 7x7 zone\r\n\r\nMagnet (Magnet) - if it is in the inventory or in the slot for rings from Baubles, then all objects within a radius of 15 blocks will be attracted to the player.\r\n\r\nFlacon for souls - Allows you to capture mobs and release where you need (most of the mob data is saved)\r\n\r\nDescription of death - Appears after death and contains information about items\r\n\r\nWrench - Allows you to disconnect containers from the pipes (sit down and click on the pipe, and then on the container you want to disconnect)\r\n\r\nBlocks:\r\n\r\nExperience Storage (XP Storage) - Allows you to store experience\r\n\r\nWorld clock (World clock) - accelerates time when applying a redstone signal\r\n\r\nItem Collector - Collects items within a radius of 15 blocks and puts them in storage.\r\n\r\nExtraction pipe - extract items and transfer his to nearest container\r\n\r\nItem pipe - link extraction pipes\r\n\r\nStructures:\r\n\r\nExperience Reactor (XP Reactor) - Constructed from 3 XPStorage and 3 WorldClock around the diamond block (for the structure to be created it is necessary to press with a hammer)\r\n\r\nTeams:\r\n\r\n/utils get death_items [id] - Place under you a grave with things that were in the description of death with number id\r\n\r\nOther:\r\n\r\nAt death, a grave will appear in which your belongings will lie (it is turned off in configs)",
 		"links":[
 			{
-				"link":"потом добавлю",
-				"name":"Автор"
+				"link":"https://vk.com/public179065827",
+				"name":"Group VK"
 			}
 		],
-		"id":118,
-		"title":"墓碑",
+		"id":338,
+		"title":"Utils+",
 		"shouldOverride":true,
 		"tags":[
-			"帮助",
-			"玩家",
-			"墓碑"
-		]
-	},
-	{
-		"description_short":"这个模组将允许你制造两套新的盔甲和工具:骨和黑曜石。前者介于金与铁之间，后者可与钻石相媲美。”。",
-		"version_name":"",
-		"description_full":"第六阶的Inner Core，这个模组将允许你制造两套新的盔甲和工具:骨和黑曜石。第一个将位于金和铁之间，第二个将相当于钻石。",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Группа"
-			}
-		],
-		"id":15,
-		"title":"第六阶",
-		"shouldOverride":true,
-		"tags":[
-			"\\&quot;Инструменты\\&quot;"
+			"实用工具"
 		]
 	},
 	{
@@ -2509,6 +2420,120 @@
 		"tags":[
 			"实用工具",
 			"家"
+		]
+	},
+	{
+		"description_short":"这个模式在世界各地与铱。流星将下降",
+		"version_name":"2.3",
+		"description_full":"V2.3:\n-звук падения стал тише,\n-добавил комманду /IridiumMeteor, которая вызывает метеорит под игроком.\nV2.2:\n-теперь метеорит падает даже под водой,\n-шанс падения метеорита был понижен и теперь за 1 час падает от 1 до 2 метеоритов, но не меньше и не больше.\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nС этим модом в по всему миру будут падать метеориты с иридием, но поскольку это аддон, то иридий в метеоритах будет спавниться только, если у вас установлен такой мод, как Industrial Craft 2.",
+		"links":[
+			{
+				"link":"https://vk.com/mods.inner.core",
+				"name":"Группа разработчика в вк"
+			},
+			{
+				"link":"https://vk.com/id354069902",
+				"name":"Вк разработчика"
+			},
+			{
+				"link":"https://www.youtube.com/channel/UCZc_JIJR5FONwesz2iw_erA",
+				"name":"YouTube канал разработчика"
+			}
+		],
+		"id":229,
+		"title":"Iridium Meteors PE",
+		"shouldOverride":true,
+		"tags":[
+			"陨石",
+			"拓展"
+		]
+	},
+	{
+		"description_short":"自动瞄准敌人。",
+		"version_name":"2.0",
+		"description_full":"自动瞄准敌人。",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":261,
+		"title":"瞄准辅助",
+		"shouldOverride":true,
+		"tags":[
+			"实用"
+		]
+	},
+	{
+		"description_short":"添加简单的附魔助手",
+		"version_name":"1.1",
+		"description_full":"添加简单的附魔助手",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":296,
+		"title":"简单附魔",
+		"shouldOverride":true,
+		"tags":[
+			"附魔"
+		]
+	},
+	{
+		"description_short":"你需要计算资源,但你想退出游戏?这个模式可以帮助你!",
+		"version_name":"",
+		"description_full":"模组添加计算器可以帮助您直接与数学游戏。",
+		"links":[
+			{
+				"link":"o",
+				"name":""
+			}
+		],
+		"id":72,
+		"title":"计算器 20!8",
+		"shouldOverride":true,
+		"tags":[
+			"计算器"
+		]
+	},
+	{
+		"description_short":"死亡墓地现场增添墓碑。",
+		"version_name":"1.0.1",
+		"description_full":"死亡墓地现场增添墓碑。",
+		"links":[
+			{
+				"link":"потом добавлю",
+				"name":"Автор"
+			}
+		],
+		"id":118,
+		"title":"墓碑",
+		"shouldOverride":true,
+		"tags":[
+			"帮助",
+			"玩家",
+			"墓碑"
+		]
+	},
+	{
+		"description_short":"这是一个模组，可以允许你在热离心机和冶炼矿石的过程中处理铱矿石。",
+		"version_name":"V0.1",
+		"description_full":"在未来，这个addon将允许加工来自不同mods的矿石，或来自相同的钻石、绿宝石、青金石或红石矿石。但到目前为止，只能加工铱。",
+		"links":[
+			{
+				"link":"",
+				"name":""
+			}
+		],
+		"id":251,
+		"title":"IC²中更多的矿石加工",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"矿石"
 		]
 	},
 	{
@@ -2541,73 +2566,24 @@
 		]
 	},
 	{
-		"description_short":"添加简单的附魔助手",
-		"version_name":"1.1",
-		"description_full":"添加简单的附魔助手",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":296,
-		"title":"简单附魔",
-		"shouldOverride":true,
-		"tags":[
-			"附魔"
-		]
-	},
-	{
-		"description_short":"自动瞄准敌人。",
-		"version_name":"2.0",
-		"description_full":"自动瞄准敌人。",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":261,
-		"title":"瞄准辅助",
-		"shouldOverride":true,
-		"tags":[
-			"实用"
-		]
-	},
-	{
-		"description_short":"你需要计算资源,但你想退出游戏?这个模式可以帮助你!",
+		"description_short":"这个模组将允许你制造两套新的盔甲和工具:骨和黑曜石。前者介于金与铁之间，后者可与钻石相媲美。”。",
 		"version_name":"",
-		"description_full":"模组添加计算器可以帮助您直接与数学游戏。",
+		"description_full":"第六阶的Inner Core，这个模组将允许你制造两套新的盔甲和工具:骨和黑曜石。第一个将位于金和铁之间，第二个将相当于钻石。",
 		"links":[
 			{
-				"link":"o",
-				"name":""
-			}
-		],
-		"id":72,
-		"title":"计算器 20!8",
-		"shouldOverride":true,
-		"tags":[
-			"计算器"
-		]
-	},
-	{
-		"description_short":"尝试新的。",
-		"version_name":"6.0 Beta",
-		"description_full":"神圣的口袋Minecraft RPG。",
-		"links":[
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Разработчик"
+			},
 			{
-				"link":"https://vk.com/an_corporation",
+				"link":"https://vk.com/modsforinnercore",
 				"name":"Группа"
 			}
 		],
-		"id":53,
-		"title":"Divine Rpg Pocket",
+		"id":15,
+		"title":"第六阶",
 		"shouldOverride":true,
 		"tags":[
-			"材料",
-			"工具",
-			"矿石"
+			"\\&quot;Инструменты\\&quot;"
 		]
 	},
 	{
@@ -2651,20 +2627,21 @@
 		]
 	},
 	{
-		"description_short":"这是一个模组，可以允许你在热离心机和冶炼矿石的过程中处理铱矿石。",
-		"version_name":"V0.1",
-		"description_full":"在未来，这个addon将允许加工来自不同mods的矿石，或来自相同的钻石、绿宝石、青金石或红石矿石。但到目前为止，只能加工铱。",
+		"description_short":"尝试新的。",
+		"version_name":"6.0 Beta",
+		"description_full":"神圣的口袋Minecraft RPG。",
 		"links":[
 			{
-				"link":"",
-				"name":""
+				"link":"https://vk.com/an_corporation",
+				"name":"Группа"
 			}
 		],
-		"id":251,
-		"title":"IC²中更多的矿石加工",
+		"id":53,
+		"title":"Divine Rpg Pocket",
 		"shouldOverride":true,
 		"tags":[
-			"科技",
+			"材料",
+			"工具",
 			"矿石"
 		]
 	},
@@ -2755,6 +2732,44 @@
 		]
 	},
 	{
+		"description_short":"枪械mod。",
+		"version_name":"1.1",
+		"description_full":"本模组添加了一些枪支。",
+		"links":[
+			{
+				"link":"https://wiki.mineprogramming.org/index.php/InnerCore/Mods/WolfGunsMod",
+				"name":"WiKi"
+			},
+			{
+				"link":"https://vk.com/topic-80513593_40486535",
+				"name":"Feedback"
+			}
+		],
+		"id":397,
+		"title":"WolfGunsMod",
+		"shouldOverride":true,
+		"tags":[
+			"手枪",
+			"枪",
+			"武器"
+		]
+	},
+	{
+		"description_short":"这个mod添加多工具和盔甲",
+		"version_name":"1.4.1",
+		"description_full":"这个模组添加了更多的盔甲与效果，更好的金刚石工具和更多的基本工具",
+		"links":[
+			{
+				"link":"https://vk.com/id427883401",
+				"name":"Vk"
+			}
+		],
+		"id":465,
+		"title":"MultiCraft",
+		"shouldOverride":true,
+		"tags":[]
+	},
+	{
 		"description_short":"很多块压缩成一个。",
 		"version_name":"1.0",
 		"description_full":"The original port of addon \\Additional Compression\\.\n\nThis mod adds compressed blocks to Minecraft. They save a lot of space in inventory and chests. Example of crafting blocks show on screenshot.\n\nЭто оригинальный порт дополнения \\Additional Compression\\. \nМодификация добавляет сжатые блоки в игру. Они позволяют сэкономить кучу места в инвентаре и сундуках. Пример крафта блоков показан на скриншоте.",
@@ -2794,45 +2809,25 @@
 		]
 	},
 	{
-		"description_short":"这个mod添加多工具和盔甲",
-		"version_name":"1.4.1",
-		"description_full":"这个模组添加了更多的盔甲与效果，更好的金刚石工具和更多的基本工具",
+		"description_short":"时尚和超自然东西。添加超自然",
+		"version_name":"v9 RitualsUpdate",
+		"description_full":"时尚和超自然的东西添加超自然的;超自然剧集&quot \\\\\\&quot ;гравит瀑布\\并从SCP。",
 		"links":[
 			{
-				"link":"https://vk.com/id427883401",
-				"name":"Vk"
+				"link":"https://vk.com/paranormalbyltymess",
+				"name":"Группа в ВК"
 			}
 		],
-		"id":465,
-		"title":"MultiCraft",
-		"shouldOverride":true,
-		"tags":[]
-	},
-	{
-		"description_short":"比钻石!",
-		"version_name":"1.0",
-		"description_full":"粉色铠甲和майнкрафтаМод工具添加到名为Jazziumмайнкрафт新矿。她只能在地狱,找到她的скрафт都行,铠甲和工具刀。最终得到的特征像钻石。最重要的不是什么样子",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"Автор Вк"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"Группа Вк"
-			}
-		],
-		"id":363,
-		"title":"Jazzium Mod",
+		"id":179,
+		"title":"Paranormal",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			" ",
-			"IC2",
-			"工具",
-			"矿石",
-			"工业时代2",
-			"挖掘"
+			"SCP",
+			"超常",
+			"超自然",
+			"魔法",
+			"怪诞小镇",
+			"异常"
 		]
 	},
 	{
@@ -2855,28 +2850,6 @@
 		"tags":[
 			"魔法",
 			"维度"
-		]
-	},
-	{
-		"description_short":"时尚和超自然东西。添加超自然",
-		"version_name":"v9 RitualsUpdate",
-		"description_full":"时尚和超自然的东西添加超自然的;超自然剧集&quot \\\\\\&quot ;гравит瀑布\\并从SCP。",
-		"links":[
-			{
-				"link":"https://vk.com/paranormalbyltymess",
-				"name":"Группа в ВК"
-			}
-		],
-		"id":179,
-		"title":"Paranormal",
-		"shouldOverride":true,
-		"tags":[
-			"SCP",
-			"超常",
-			"超自然",
-			"魔法",
-			"怪诞小镇",
-			"异常"
 		]
 	},
 	{
@@ -2906,6 +2879,21 @@
 		]
 	},
 	{
+		"description_short":"这个mod翡翠项补充道。",
+		"version_name":"1.0",
+		"description_full":"Данныймоддобавляетизумрудныевмайнкрафтвещи。",
+		"links":"[]",
+		"id":188,
+		"title":"Emerald Mod",
+		"shouldOverride":true,
+		"tags":[
+			"设备",
+			"工具",
+			"绿宝石",
+			"武器"
+		]
+	},
+	{
 		"description_short":"飞,喝血!",
 		"version_name":"0.1",
 		"description_full":"这个mod将添加勾引和blood-hunger",
@@ -2925,18 +2913,30 @@
 		]
 	},
 	{
-		"description_short":"这个mod翡翠项补充道。",
+		"description_short":"比钻石!",
 		"version_name":"1.0",
-		"description_full":"Данныймоддобавляетизумрудныевмайнкрафтвещи。",
-		"links":"[]",
-		"id":188,
-		"title":"Emerald Mod",
+		"description_full":"粉色铠甲和майнкрафтаМод工具添加到名为Jazziumмайнкрафт新矿。她只能在地狱,找到她的скрафт都行,铠甲和工具刀。最终得到的特征像钻石。最重要的不是什么样子",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"Автор Вк"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"Группа Вк"
+			}
+		],
+		"id":363,
+		"title":"Jazzium Mod",
 		"shouldOverride":true,
 		"tags":[
-			"设备",
+			"盔甲",
+			" ",
+			"IC2",
 			"工具",
-			"绿宝石",
-			"武器"
+			"矿石",
+			"工业时代2",
+			"挖掘"
 		]
 	},
 	{
@@ -2976,23 +2976,6 @@
 		]
 	},
 	{
-		"description_short":"Vanilla + +",
-		"version_name":"Beta 0.2",
-		"description_full":"Vanilla + +",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UCatLWgs_vgycJfzs3ClVtBA",
-				"name":"https"
-			}
-		],
-		"id":167,
-		"title":"Vanilla++",
-		"shouldOverride":true,
-		"tags":[
-			"拓展"
-		]
-	},
-	{
 		"description_short":"这个mod添加去月球旅行的能力。",
 		"version_name":"0.8",
 		"description_full":"从PC移植。  （原文：Marvelous Moon Mod）。\n 这个mod可以让你建造一个航天飞船，飞向月球定居。\n\n 特征：\n -月球维度。\n -[仅限PE]陨石坑。\n -氧气系统（WIP）。 月球上没有氧气，为了不死，您需要穿着太空服。\n -重力系统（WIP）。 玩家跌落较慢。\n -氧气发生器。 创建一个半径为5个块的气泡。\n\n 该mod将随着时间的推移扩展。\n 90％稳定，完全适合生存。",
@@ -3019,22 +3002,20 @@
 		]
 	},
 	{
-		"description_short":"模组说不同的装饰,衣服和食物。",
-		"version_name":"1.2",
-		"description_full":"模组说不同的装饰,衣服和食物。",
+		"description_short":"Vanilla + +",
+		"version_name":"Beta 0.2",
+		"description_full":"Vanilla + +",
 		"links":[
 			{
-				"link":"//vk.com/mironpopov",
-				"name":"VK https"
+				"link":"//www.youtube.com/channel/UCatLWgs_vgycJfzs3ClVtBA",
+				"name":"https"
 			}
 		],
-		"id":259,
-		"title":"Mo'decorations",
+		"id":167,
+		"title":"Vanilla++",
 		"shouldOverride":true,
 		"tags":[
-			"食物",
-			"装饰",
-			"衣服"
+			"拓展"
 		]
 	},
 	{
@@ -3079,118 +3060,22 @@
 		]
 	},
 	{
-		"description_short":"A automation add-on for Useful Machine.一个无中生有自动化拓展。",
-		"version_name":"1.3",
-		"description_full":"A automation add-on for Useful Machine.\nIt depends on Useful Machine.\n一个无中生有自动化拓展。\n它需要和无中生有一起运行。",
+		"description_short":"模组说不同的装饰,衣服和食物。",
+		"version_name":"1.2",
+		"description_full":"模组说不同的装饰,衣服和食物。",
 		"links":[
 			{
-				"link":"//weibo.com/u/5762974935",
-				"name":"http"
+				"link":"//vk.com/mironpopov",
+				"name":"VK https"
 			}
 		],
-		"id":249,
-		"title":"Useful Machine Tech",
+		"id":259,
+		"title":"Mo'decorations",
 		"shouldOverride":true,
 		"tags":[
-			"无中生有科技",
-			"无中生有",
-			"自动化",
-			"无中生有自动化"
-		]
-	},
-	{
-		"description_short":"神奇的事物和其他精彩内容",
-		"version_name":"1.5",
-		"description_full":"神奇的事物和其他精彩内容",
-		"links":[
-			{
-				"link":"https://vk.com/public179065827",
-				"name":"Group"
-			}
-		],
-		"id":412,
-		"title":"Magic Mod",
-		"shouldOverride":true,
-		"tags":[
-			"魔法"
-		]
-	},
-	{
-		"description_short":"添加8机器类似于感应炉。",
-		"version_name":"2.0",
-		"description_full":"ICPE插件",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
-			},
-			{
-				"link":"https://minecraft.curseforge.com/projects/advanced-machines",
-				"name":"Original Mod"
-			}
-		],
-		"id":337,
-		"title":"Advanced Machines",
-		"shouldOverride":true,
-		"tags":[
-			"工业",
-			"拓展"
-		]
-	},
-	{
-		"description_short":"玩家可以通过树叶夹。",
-		"version_name":"1.0",
-		"description_full":"玩家可以通过树叶夹。",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":256,
-		"title":"Air Leave",
-		"shouldOverride":true,
-		"tags":[
-			"系统"
-		]
-	},
-	{
-		"description_short":"这个箱子шмот添加与时尚",
-		"version_name":"1.0",
-		"description_full":"这个时尚的шмот添加不同的箱子,",
-		"links":[
-			{
-				"link":"https://vk.com/id428581466",
-				"name":"Создатель Мода"
-			}
-		],
-		"id":304,
-		"title":"LootChest",
-		"shouldOverride":true,
-		"tags":[
-			"箱子",
-			"物品",
-			"战利品箱",
-			"战利品"
-		]
-	},
-	{
-		"description_short":"获得巨大能量模和邮件不仅、武器、铠甲、工具和机制。",
-		"version_name":"0.7 beta",
-		"description_full":"Мод на различные солнечные панели, а так же квантовый генератор.\nВ моде будут присутствовать и другие блоки, в следующих обновлениях.\nВ планах: некоторые механизмы которых ещё не было в иннер коре, новые предметы, возможно броня, оружие и инструменты.\n\nБольшинство текстур пренадлежат создателям модов: AdvancedSolarPanel и GravitationSuit.\nКод пренадлежит создателю мода IndustrialCraft² Жеке Смирнову.",
-		"links":[
-			{
-				"link":"https://vk.com/moreenergymcpe",
-				"name":"Группа в ВК"
-			}
-		],
-		"id":307,
-		"title":"VoidEra",
-		"shouldOverride":true,
-		"tags":[
-			"исследования.",
-			"神秘学",
-			"工业"
+			"食物",
+			"装饰",
+			"衣服"
 		]
 	},
 	{
@@ -3218,26 +3103,118 @@
 		]
 	},
 	{
-		"description_short":"机确保突变",
+		"description_short":"A automation add-on for Useful Machine.一个无中生有自动化拓展。",
+		"version_name":"1.3",
+		"description_full":"A automation add-on for Useful Machine.\nIt depends on Useful Machine.\n一个无中生有自动化拓展。\n它需要和无中生有一起运行。",
+		"links":[
+			{
+				"link":"//weibo.com/u/5762974935",
+				"name":"http"
+			}
+		],
+		"id":249,
+		"title":"Useful Machine Tech",
+		"shouldOverride":true,
+		"tags":[
+			"无中生有科技",
+			"无中生有",
+			"自动化",
+			"无中生有自动化"
+		]
+	},
+	{
+		"description_short":"添加8机器类似于感应炉。",
 		"version_name":"2.0",
-		"description_full":"这是消防工程插件。",
+		"description_full":"ICPE插件",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			},
+			{
+				"link":"https://minecraft.curseforge.com/projects/advanced-machines",
+				"name":"Original Mod"
+			}
+		],
+		"id":337,
+		"title":"Advanced Machines",
+		"shouldOverride":true,
+		"tags":[
+			"工业",
+			"拓展"
+		]
+	},
+	{
+		"description_short":"神奇的事物和其他精彩内容",
+		"version_name":"1.5",
+		"description_full":"神奇的事物和其他精彩内容",
+		"links":[
+			{
+				"link":"https://vk.com/public179065827",
+				"name":"Group"
+			}
+		],
+		"id":412,
+		"title":"Magic Mod",
+		"shouldOverride":true,
+		"tags":[
+			"魔法"
+		]
+	},
+	{
+		"description_short":"玩家可以通过树叶夹。",
+		"version_name":"1.0",
+		"description_full":"玩家可以通过树叶夹。",
 		"links":[
 			{
 				"link":"//vk.com/pockettech",
 				"name":"https"
-			},
-			{
-				"link":"//bdew.net/gendustry/",
-				"name":"https"
 			}
 		],
-		"id":58,
-		"title":"Gendustry",
+		"id":256,
+		"title":"Air Leave",
 		"shouldOverride":true,
 		"tags":[
-			"RF",
-			"拓展",
-			"林业"
+			"系统"
+		]
+	},
+	{
+		"description_short":"获得巨大能量模和邮件不仅、武器、铠甲、工具和机制。",
+		"version_name":"0.7 beta",
+		"description_full":"Мод на различные солнечные панели, а так же квантовый генератор.\nВ моде будут присутствовать и другие блоки, в следующих обновлениях.\nВ планах: некоторые механизмы которых ещё не было в иннер коре, новые предметы, возможно броня, оружие и инструменты.\n\nБольшинство текстур пренадлежат создателям модов: AdvancedSolarPanel и GravitationSuit.\nКод пренадлежит создателю мода IndustrialCraft² Жеке Смирнову.",
+		"links":[
+			{
+				"link":"https://vk.com/moreenergymcpe",
+				"name":"Группа в ВК"
+			}
+		],
+		"id":307,
+		"title":"VoidEra",
+		"shouldOverride":true,
+		"tags":[
+			"исследования.",
+			"神秘学",
+			"工业"
+		]
+	},
+	{
+		"description_short":"这个箱子шмот添加与时尚",
+		"version_name":"1.0",
+		"description_full":"这个时尚的шмот添加不同的箱子,",
+		"links":[
+			{
+				"link":"https://vk.com/id428581466",
+				"name":"Создатель Мода"
+			}
+		],
+		"id":304,
+		"title":"LootChest",
+		"shouldOverride":true,
+		"tags":[
+			"箱子",
+			"物品",
+			"战利品箱",
+			"战利品"
 		]
 	},
 	{
@@ -3298,29 +3275,26 @@
 		]
 	},
 	{
-		"description_short":"原始的核心是一种生存模组关注早期游戏机制,并使世界更加困难",
-		"version_name":"0.4",
-		"description_full":"PrimalCore is a survival mod with focus on early game mechanics, primitive technology, and making the world a harder and less forgiving place.The default configuration effects many of the first steps a player will take, such as replacing wooden and stone tools with flaked flint, changing the harvesting and crafting for items such as wooden logs, planks, and slabs to require the use of tools, and adding new threats and resources to the world in the form of worldgen and monsters. Every major feature can be configured or disabled, compatibility is a primary focus, feedback on how well we play with other mods is greatly appreciated!",
+		"description_short":"机确保突变",
+		"version_name":"2.0",
+		"description_full":"这是消防工程插件。",
 		"links":[
 			{
-				"link":"https://vk.com/toncho1",
-				"name":"vk"
+				"link":"//vk.com/pockettech",
+				"name":"https"
 			},
 			{
-				"link":"https://vk.com/primal_core",
-				"name":"group"
-			},
-			{
-				"link":"https://www.youtube.com/playlist?list=PLnhQGONBTf7GBkZjtEqVL91JgGK5ePPTd",
-				"name":"guides"
+				"link":"//bdew.net/gendustry/",
+				"name":"https"
 			}
 		],
-		"id":186,
-		"title":"Primal Core",
+		"id":58,
+		"title":"Gendustry",
 		"shouldOverride":true,
 		"tags":[
-			"现实",
-			"设备"
+			"RF",
+			"拓展",
+			"林业"
 		]
 	},
 	{
@@ -3369,6 +3343,32 @@
 		]
 	},
 	{
+		"description_short":"原始的核心是一种生存模组关注早期游戏机制,并使世界更加困难",
+		"version_name":"0.4",
+		"description_full":"PrimalCore is a survival mod with focus on early game mechanics, primitive technology, and making the world a harder and less forgiving place.The default configuration effects many of the first steps a player will take, such as replacing wooden and stone tools with flaked flint, changing the harvesting and crafting for items such as wooden logs, planks, and slabs to require the use of tools, and adding new threats and resources to the world in the form of worldgen and monsters. Every major feature can be configured or disabled, compatibility is a primary focus, feedback on how well we play with other mods is greatly appreciated!",
+		"links":[
+			{
+				"link":"https://vk.com/toncho1",
+				"name":"vk"
+			},
+			{
+				"link":"https://vk.com/primal_core",
+				"name":"group"
+			},
+			{
+				"link":"https://www.youtube.com/playlist?list=PLnhQGONBTf7GBkZjtEqVL91JgGK5ePPTd",
+				"name":"guides"
+			}
+		],
+		"id":186,
+		"title":"Primal Core",
+		"shouldOverride":true,
+		"tags":[
+			"现实",
+			"设备"
+		]
+	},
+	{
 		"description_short":"修改数据添加各种矿石粉,按",
 		"version_name":"",
 		"description_full":"[]Essence Powder Inner Core",
@@ -3387,23 +3387,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"复刻"
-		]
-	},
-	{
-		"description_short":"你可以只存储一项几乎无穷。",
-		"version_name":"1.0",
-		"description_full":"你可以只存储一项几乎无穷。",
-		"links":[
-			{
-				"link":"https://vk.com/club171704577",
-				"name":"DaiDai"
-			}
-		],
-		"id":298,
-		"title":"Infinity Chest",
-		"shouldOverride":true,
-		"tags":[
-			"箱子"
 		]
 	},
 	{
@@ -3447,6 +3430,23 @@
 		]
 	},
 	{
+		"description_short":"你可以只存储一项几乎无穷。",
+		"version_name":"1.0",
+		"description_full":"你可以只存储一项几乎无穷。",
+		"links":[
+			{
+				"link":"https://vk.com/club171704577",
+				"name":"DaiDai"
+			}
+		],
+		"id":298,
+		"title":"Infinity Chest",
+		"shouldOverride":true,
+		"tags":[
+			"箱子"
+		]
+	},
+	{
 		"description_short":"添加5种游戏模式晶体。",
 		"version_name":"",
 		"description_full":"添加5种游戏模式和工具。其中晶体有剑和长枪把50×3 3。这个事情也很难卡夫钻石紧",
@@ -3467,65 +3467,6 @@
 			"'Кристаллы'",
 			"'Инструменты'",
 			"'Максим Даниллов'"
-		]
-	},
-	{
-		"description_short":"工业Mod包。",
-		"version_name":"1.2",
-		"description_full":"这个组装包含许多插件。这里是一个列表:",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UC681PRDdWAS7oRt30_HaubQ",
-				"name":"https"
-			}
-		],
-		"id":383,
-		"title":"Industrialization World",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"全局",
-			"整合包",
-			"矿石"
-		]
-	},
-	{
-		"description_short":"转移模式的中土世界MCPE",
-		"version_name":"0.0.2",
-		"description_full":"转移模式的中土世界MCPE",
-		"links":[
-			{
-				"link":"https://lotrminecraftmod.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%B4_%22%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86%22_%D0%B4%D0%BB%D1%8F_Minecraft",
-				"name":"Вики ПК мода"
-			}
-		],
-		"id":309,
-		"title":"Lord of the Rings PE",
-		"shouldOverride":true,
-		"tags":[
-			"魔法",
-			"LotR"
-		]
-	},
-	{
-		"description_short":"包括世界创、宝石和食谱为各种工具、盔甲和装饰块",
-		"version_name":"2019.08.06",
-		"description_full":"# MinecraftPE.AnotherGemsMod\n- By FredHappyface\n\nNew in 2019.08.06\n- Lamps and Inverted Lamps \n\nThis mod includes some world gen, gems with various properties and recipes for various tools and armour. Adds some decoration blocks that can be crafted from the gems too: block of gem and bricks. This is a first stab at a MinecraftPE mod and is based on Minecraft.AnotherGemsMod https://github.com/FredHappyface/Minecraft.AnotherGemsMod\n\n\n## Crafting Recipes \n\nCrafting recipes are as in the Java Edition",
-		"links":[
-			{
-				"link":"https://github.com/FredHappyface/MinecraftPE.AnotherGemsMod",
-				"name":"GitHub"
-			}
-		],
-		"id":421,
-		"title":"Another Gems Mod PE",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"工具",
-			"装饰",
-			"矿石",
-			"资源"
 		]
 	},
 	{
@@ -3550,24 +3491,44 @@
 		]
 	},
 	{
-		"description_short":"最佳的整合",
-		"version_name":"B4",
-		"description_full":"这个Mod增加了一切方便你进行空岛生存的物品",
+		"description_short":"工业Mod包。",
+		"version_name":"1.2",
+		"description_full":"这个组装包含许多插件。这里是一个列表:",
 		"links":[
 			{
-				"link":"https://vk.com/modcreate",
-				"name":"Мы в ВКонтакте"
-			},
-			{
-				"link":"https://vk.com/modcreate",
-				"name":"We are in Vk"
+				"link":"//www.youtube.com/channel/UC681PRDdWAS7oRt30_HaubQ",
+				"name":"https"
 			}
 		],
-		"id":410,
-		"title":"EX TECH",
+		"id":383,
+		"title":"Industrialization World",
 		"shouldOverride":true,
 		"tags":[
-			"空岛生存"
+			"科技",
+			"全局",
+			"整合包",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"包括世界创、宝石和食谱为各种工具、盔甲和装饰块",
+		"version_name":"2019.08.06",
+		"description_full":"# MinecraftPE.AnotherGemsMod\n- By FredHappyface\n\nNew in 2019.08.06\n- Lamps and Inverted Lamps \n\nThis mod includes some world gen, gems with various properties and recipes for various tools and armour. Adds some decoration blocks that can be crafted from the gems too: block of gem and bricks. This is a first stab at a MinecraftPE mod and is based on Minecraft.AnotherGemsMod https://github.com/FredHappyface/Minecraft.AnotherGemsMod\n\n\n## Crafting Recipes \n\nCrafting recipes are as in the Java Edition",
+		"links":[
+			{
+				"link":"https://github.com/FredHappyface/MinecraftPE.AnotherGemsMod",
+				"name":"GitHub"
+			}
+		],
+		"id":421,
+		"title":"Another Gems Mod PE",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"工具",
+			"装饰",
+			"矿石",
+			"资源"
 		]
 	},
 	{
@@ -3589,6 +3550,42 @@
 		"shouldOverride":true,
 		"tags":[
 			"音效"
+		]
+	},
+	{
+		"description_short":"转移模式的中土世界MCPE",
+		"version_name":"0.0.2",
+		"description_full":"转移模式的中土世界MCPE",
+		"links":[
+			{
+				"link":"https://lotrminecraftmod.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%B4_%22%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86%22_%D0%B4%D0%BB%D1%8F_Minecraft",
+				"name":"Вики ПК мода"
+			}
+		],
+		"id":309,
+		"title":"Lord of the Rings PE",
+		"shouldOverride":true,
+		"tags":[
+			"魔法",
+			"LotR"
+		]
+	},
+	{
+		"description_short":"модЭтот:добовляет沃простыелифтыmod .在:它elevator common",
+		"version_name":"1.0",
+		"description_full":"Этотмоддобовляетпростые沃лифты:",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
+				"name":"https"
+			}
+		],
+		"id":290,
+		"title":"ElevatorMod",
+		"shouldOverride":true,
+		"tags":[
+			"电梯模组",
+			"电梯"
 		]
 	},
 	{
@@ -3622,6 +3619,27 @@
 		]
 	},
 	{
+		"description_short":"最佳的整合",
+		"version_name":"B4",
+		"description_full":"这个Mod增加了一切方便你进行空岛生存的物品",
+		"links":[
+			{
+				"link":"https://vk.com/modcreate",
+				"name":"Мы в ВКонтакте"
+			},
+			{
+				"link":"https://vk.com/modcreate",
+				"name":"We are in Vk"
+			}
+		],
+		"id":410,
+		"title":"EX TECH",
+		"shouldOverride":true,
+		"tags":[
+			"空岛生存"
+		]
+	},
+	{
 		"description_short":"给我一杯咖啡。赶快!",
 		"version_name":"1.1.0",
 		"description_full":"CoffeeWorkshop Pocket Edition ICmod is transplanted from CoffeeWorkShop mod Java Edition,the authors of the Java Edition are 射命丸政 and 梨木利亚;This mod is made in China by 惊悚humter and Pvhu!Welcome to play!Author Pvhu's Email:pvpaste@meowcat.org.This mod is copyright, do not distribute.",
@@ -3647,24 +3665,6 @@
 			"植物",
 			"机器",
 			"食物"
-		]
-	},
-	{
-		"description_short":"модЭтот:добовляет沃простыелифтыmod .在:它elevator common",
-		"version_name":"1.0",
-		"description_full":"Этотмоддобовляетпростые沃лифты:",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
-				"name":"https"
-			}
-		],
-		"id":290,
-		"title":"ElevatorMod",
-		"shouldOverride":true,
-		"tags":[
-			"电梯模组",
-			"电梯"
 		]
 	},
 	{
@@ -3722,29 +3722,21 @@
 		]
 	},
 	{
-		"description_short":"美孚搬运瓶",
-		"version_name":"",
-		"description_full":"特别添加数据模式&quot \\\\瓶灵魂;деражт能够调动内心多数。另外还有2阿英这瓶Ectoplasm blend和灵魂。",
+		"description_short":"添加两个新模水平铁铠甲。",
+		"version_name":"0.1",
+		"description_full":"添加两个新模水平铁铠甲。",
 		"links":[
 			{
-				"link":"https://vk.com/toncho1",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/pepeic",
-				"name":"Группа"
+				"link":"https://vk.com/id373600694",
+				"name":"Разработчик"
 			}
 		],
-		"id":20,
-		"title":"SoulFlasks PE",
+		"id":73,
+		"title":"Plate Mail PE",
 		"shouldOverride":true,
 		"tags":[
-			"交通工具",
-			"烧瓶",
-			"魔法",
-			"灵魂",
-			"大师球",
-			"灵魂监狱"
+			"盔甲",
+			"铁"
 		]
 	},
 	{
@@ -3765,21 +3757,20 @@
 		]
 	},
 	{
-		"description_short":"添加两个新模水平铁铠甲。",
-		"version_name":"0.1",
-		"description_full":"添加两个新模水平铁铠甲。",
+		"description_short":".",
+		"version_name":"1.1",
+		"description_full":".",
 		"links":[
 			{
-				"link":"https://vk.com/id373600694",
-				"name":"Разработчик"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":73,
-		"title":"Plate Mail PE",
+		"id":479,
+		"title":"幸运方块",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"铁"
+			"幸运方块"
 		]
 	},
 	{
@@ -3823,58 +3814,29 @@
 		]
 	},
 	{
-		"description_short":"方便的陷阱。",
-		"version_name":"1.0",
-		"description_full":"葡萄树陷阱是一块可以通过像空气下降,但被认为是实心地板由生物路径控制。它发现它的主要用在生物的陷阱,让长时间滴到怪物将自然路径。",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":257,
-		"title":"Vine Trap",
-		"shouldOverride":true,
-		"tags":[
-			"实用"
-		]
-	},
-	{
-		"description_short":"添加时尚新型矿石,从中可以使工具、武器和盔甲。",
+		"description_short":"美孚搬运瓶",
 		"version_name":"",
-		"description_full":"Xenonite Inner Core[]",
+		"description_full":"特别添加数据模式&quot \\\\瓶灵魂;деражт能够调动内心多数。另外还有2阿英这瓶Ectoplasm blend和灵魂。",
 		"links":[
 			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
+				"link":"https://vk.com/toncho1",
+				"name":"Автор"
 			},
 			{
-				"link":"https://vk.com/modsforinnercore",
+				"link":"https://vk.com/pepeic",
 				"name":"Группа"
 			}
 		],
-		"id":18,
-		"title":"Xenonite",
+		"id":20,
+		"title":"SoulFlasks PE",
 		"shouldOverride":true,
 		"tags":[
-			"\\&quot;Три руды\\&quot;"
-		]
-	},
-	{
-		"description_short":".",
-		"version_name":"1.1",
-		"description_full":".",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":479,
-		"title":"幸运方块",
-		"shouldOverride":true,
-		"tags":[
-			"幸运方块"
+			"交通工具",
+			"烧瓶",
+			"魔法",
+			"灵魂",
+			"大师球",
+			"灵魂监狱"
 		]
 	},
 	{
@@ -3912,6 +3874,23 @@
 		]
 	},
 	{
+		"description_short":"方便的陷阱。",
+		"version_name":"1.0",
+		"description_full":"葡萄树陷阱是一块可以通过像空气下降,但被认为是实心地板由生物路径控制。它发现它的主要用在生物的陷阱,让长时间滴到怪物将自然路径。",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":257,
+		"title":"Vine Trap",
+		"shouldOverride":true,
+		"tags":[
+			"实用"
+		]
+	},
+	{
 		"description_short":"时尚的добовля棍子伤害(9),但是很重工艺。",
 		"version_name":"",
 		"description_full":"时尚的добовля棍子伤害(9),但是很重工艺。",
@@ -3933,22 +3912,24 @@
 		]
 	},
 	{
-		"description_short":"你不想寻找спаунер僵尸或骨骼,那么欢迎你加入我们",
-		"version_name":"Уже вторая",
-		"description_full":"你不想寻找спаунер僵尸或骨骼,恐怕只有спаунер发现蜘蛛的话,欢迎加入我们",
+		"description_short":"添加时尚新型矿石,从中可以使工具、武器和盔甲。",
+		"version_name":"",
+		"description_full":"Xenonite Inner Core[]",
 		"links":[
 			{
-				"link":"//www.youtube.com/channel/UCKkyLUD4GKb8qzJf4FHyWXg",
-				"name":"https"
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа"
 			}
 		],
-		"id":248,
-		"title":"крафт Спаунера",
+		"id":18,
+		"title":"Xenonite",
 		"shouldOverride":true,
 		"tags":[
-			"合成生物",
-			"Teenjus",
-			"合成刷怪箱"
+			"\\&quot;Три руды\\&quot;"
 		]
 	},
 	{
@@ -3966,6 +3947,25 @@
 		"shouldOverride":true,
 		"tags":[
 			"工具"
+		]
+	},
+	{
+		"description_short":"你不想寻找спаунер僵尸或骨骼,那么欢迎你加入我们",
+		"version_name":"Уже вторая",
+		"description_full":"你不想寻找спаунер僵尸或骨骼,恐怕只有спаунер发现蜘蛛的话,欢迎加入我们",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UCKkyLUD4GKb8qzJf4FHyWXg",
+				"name":"https"
+			}
+		],
+		"id":248,
+		"title":"крафт Спаунера",
+		"shouldOverride":true,
+		"tags":[
+			"合成生物",
+			"Teenjus",
+			"合成刷怪箱"
 		]
 	},
 	{
@@ -4005,6 +4005,38 @@
 		]
 	},
 	{
+		"description_short":"时尚печеньков添加矿石,肝下!",
+		"version_name":"",
+		"description_full":"Мод добавляет печеньковую руду,с которой выпадает печенье!\n\nMod adds cookie ore, with which the cookie falls!",
+		"links":"[]",
+		"id":109,
+		"title":"CookieOreMod",
+		"shouldOverride":true,
+		"tags":[
+			" ",
+			"曲奇",
+			"矿石",
+			"模组"
+		]
+	},
+	{
+		"description_short":"时尚添加药箱等。",
+		"version_name":"1.0",
+		"description_full":"时尚添加药箱等。",
+		"links":[
+			{
+				"link":"//vk.com/mironpopov",
+				"name":"https"
+			}
+		],
+		"id":267,
+		"title":"First-aid kit",
+		"shouldOverride":true,
+		"tags":[
+			"设备"
+		]
+	},
+	{
 		"description_short":"模组,添加很多科目装甲等。",
 		"version_name":"v4",
 		"description_full":"Way to the Light -模组添加大量物品,铠甲、工具等。",
@@ -4036,21 +4068,6 @@
 		]
 	},
 	{
-		"description_short":"时尚печеньков添加矿石,肝下!",
-		"version_name":"",
-		"description_full":"Мод добавляет печеньковую руду,с которой выпадает печенье!\n\nMod adds cookie ore, with which the cookie falls!",
-		"links":"[]",
-		"id":109,
-		"title":"CookieOreMod",
-		"shouldOverride":true,
-		"tags":[
-			" ",
-			"曲奇",
-			"矿石",
-			"模组"
-		]
-	},
-	{
 		"description_short":"模组:工业、construcao ferramentas。Tec Mod e嗯Mod工业com基地核心。",
 		"version_name":"1.3.1",
 		"description_full":"Esse E um mod técnico e de construção.\n\nEnergia usada : EU, Pode ser convertido para RF\n\n.Interface clássica (Mod API)\n\nBlocos\n.Concreto\n.Sofás\n.Tabuas \n.Lâmpadas\n.etc\n\nMáquinas\n\n.Painéis Solar (8 leveis diferentes)\n.Multiplicador de minérios\n.Fornalhas\n.Cabos\n.Conversor de Energia\n.Machine Blocks \n.Utra Bateria\n.ModAPI\n.etc\n\n*INPORTANTE*\nAntes de atualizar faça backup da pasta mod e do seus mundos\n\nVocê pode saber mais sobre a ModAPI em https://m.vk.com/id470935011",
@@ -4079,23 +4096,6 @@
 		]
 	},
 	{
-		"description_short":"通过收益递减mod鼓励饮食品种。",
-		"version_name":"1.0",
-		"description_full":"通过收益递减mod鼓励饮食品种。",
-		"links":[
-			{
-				"link":"https://minecraft.curseforge.com/projects/the-spice-of-life",
-				"name":"PC"
-			}
-		],
-		"id":379,
-		"title":"Spice of Life",
-		"shouldOverride":true,
-		"tags":[
-			"食物"
-		]
-	},
-	{
 		"description_short":"这个mod提供箱子的石、鹅卵石、安山岩,闪长岩和花岗岩。",
 		"version_name":"1.0.0",
 		"description_full":"你曾经在箱子需要的解决方案,但你不该有任何木头吗?",
@@ -4110,23 +4110,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"石头生存"
-		]
-	},
-	{
-		"description_short":"时尚添加药箱等。",
-		"version_name":"1.0",
-		"description_full":"时尚添加药箱等。",
-		"links":[
-			{
-				"link":"//vk.com/mironpopov",
-				"name":"https"
-			}
-		],
-		"id":267,
-		"title":"First-aid kit",
-		"shouldOverride":true,
-		"tags":[
-			"设备"
 		]
 	},
 	{
@@ -4180,6 +4163,42 @@
 		]
 	},
 	{
+		"description_short":"添加许多新的动物和植物。",
+		"version_name":"0.2",
+		"description_full":"添加许多新的动物和植物。将不断更新改造(每2 - 3天)。",
+		"links":[
+			{
+				"link":"//vk.com/mironpopov",
+				"name":"https"
+			}
+		],
+		"id":386,
+		"title":"Animals and Plants",
+		"shouldOverride":true,
+		"tags":[
+			"植物",
+			"生物",
+			"维度"
+		]
+	},
+	{
+		"description_short":"通过收益递减mod鼓励饮食品种。",
+		"version_name":"1.0",
+		"description_full":"通过收益递减mod鼓励饮食品种。",
+		"links":[
+			{
+				"link":"https://minecraft.curseforge.com/projects/the-spice-of-life",
+				"name":"PC"
+			}
+		],
+		"id":379,
+		"title":"Spice of Life",
+		"shouldOverride":true,
+		"tags":[
+			"食物"
+		]
+	},
+	{
 		"description_short":"更多的工艺",
 		"version_name":"",
 		"description_full":"工艺品,工艺品和工艺",
@@ -4222,22 +4241,20 @@
 		]
 	},
 	{
-		"description_short":"添加许多新的动物和植物。",
-		"version_name":"0.2",
-		"description_full":"添加许多新的动物和植物。将不断更新改造(每2 - 3天)。",
+		"description_short":"时尚的水晶添加灵魂可以скрафт强大的工具",
+		"version_name":"",
+		"description_full":"你学会填写翡翠龙的呼吸,现在你可以скрафт强大的工具",
 		"links":[
 			{
-				"link":"//vk.com/mironpopov",
-				"name":"https"
+				"link":"https://vk.com/jlong2000",
+				"name":"Автор"
 			}
 		],
-		"id":386,
-		"title":"Animals and Plants",
+		"id":70,
+		"title":"Soul Master Craft",
 		"shouldOverride":true,
 		"tags":[
-			"植物",
-			"生物",
-			"维度"
+			"设备"
 		]
 	},
 	{
@@ -4259,20 +4276,20 @@
 		]
 	},
 	{
-		"description_short":"时尚的水晶添加灵魂可以скрафт强大的工具",
-		"version_name":"",
-		"description_full":"你学会填写翡翠龙的呼吸,现在你可以скрафт强大的工具",
+		"description_short":"列出了所有配方",
+		"version_name":"3.1",
+		"description_full":"[如何使用]\n在打开的物品栏界面点击R键来显示一个所有物品的列表\n长按显示当前背包内物品的一个列表\n\n(物品)\n单击: 配方\n长按: 用途\n\n(返回按钮)\n单击: 返回上一页\n长按: 返回物品列表页\n\n[配置]\n在配置文件里可以更改每页现实的物品槽数。\n\n\n~~支持RecipeType~~\n\n[原版]\n- 工作台\n- 熔炉\n- 酿造台\n\n[林业PE]\n- 蜜蜂产物\n- 蜜蜂变种\n- 木工机\n- 离心机\n- 热电子加工台",
 		"links":[
 			{
-				"link":"https://vk.com/jlong2000",
-				"name":"Автор"
+				"link":"https://vk.com/pockettech",
+				"name":"VK"
 			}
 		],
-		"id":70,
-		"title":"Soul Master Craft",
+		"id":455,
+		"title":"合成配方查看器",
 		"shouldOverride":true,
 		"tags":[
-			"设备"
+			"配方"
 		]
 	},
 	{
@@ -4291,23 +4308,6 @@
 		"tags":[
 			"农业",
 			"作物"
-		]
-	},
-	{
-		"description_short":"列出了所有配方",
-		"version_name":"3.1",
-		"description_full":"[如何使用]\n在打开的物品栏界面点击R键来显示一个所有物品的列表\n长按显示当前背包内物品的一个列表\n\n(物品)\n单击: 配方\n长按: 用途\n\n(返回按钮)\n单击: 返回上一页\n长按: 返回物品列表页\n\n[配置]\n在配置文件里可以更改每页现实的物品槽数。\n\n\n~~支持RecipeType~~\n\n[原版]\n- 工作台\n- 熔炉\n- 酿造台\n\n[林业PE]\n- 蜜蜂产物\n- 蜜蜂变种\n- 木工机\n- 离心机\n- 热电子加工台",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"VK"
-			}
-		],
-		"id":455,
-		"title":"合成配方查看器",
-		"shouldOverride":true,
-		"tags":[
-			"配方"
 		]
 	},
 	{
@@ -4335,24 +4335,6 @@
 			"RPG",
 			"矿石",
 			"武器"
-		]
-	},
-	{
-		"description_short":"菜谱保存在纸上。快速的制作。",
-		"version_name":"1.2",
-		"description_full":"菜谱保存在纸上。",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":182,
-		"title":"Recipe Blueprint",
-		"shouldOverride":true,
-		"tags":[
-			"实用",
-			"合成"
 		]
 	},
 	{
@@ -4398,6 +4380,24 @@
 		]
 	},
 	{
+		"description_short":"菜谱保存在纸上。快速的制作。",
+		"version_name":"1.2",
+		"description_full":"菜谱保存在纸上。",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":182,
+		"title":"Recipe Blueprint",
+		"shouldOverride":true,
+		"tags":[
+			"实用",
+			"合成"
+		]
+	},
+	{
 		"description_short":"Outlands добавляет новый мир",
 		"version_name":"v2",
 		"description_full":"添加新的外部世界Outlands地球",
@@ -4417,27 +4417,6 @@
 			"宇宙",
 			"维度",
 			"世界"
-		]
-	},
-	{
-		"description_short":"модэтот:добавляет沃крафтадскихзвёзд及add .在:它nether star mod",
-		"version_name":"1.0",
-		"description_full":"модэтот:добавляет沃крафтадскихзвёзд",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
-				"name":"https"
-			}
-		],
-		"id":291,
-		"title":"NetherStarCrafting",
-		"shouldOverride":true,
-		"tags":[
-			"合成",
-			"下界",
-			"下界之星",
-			"下界之星合成",
-			"星"
 		]
 	},
 	{
@@ -4479,6 +4458,27 @@
 		"tags":[
 			"实用",
 			"合成"
+		]
+	},
+	{
+		"description_short":"модэтот:добавляет沃крафтадскихзвёзд及add .在:它nether star mod",
+		"version_name":"1.0",
+		"description_full":"модэтот:добавляет沃крафтадскихзвёзд",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
+				"name":"https"
+			}
+		],
+		"id":291,
+		"title":"NetherStarCrafting",
+		"shouldOverride":true,
+		"tags":[
+			"合成",
+			"下界",
+			"下界之星",
+			"下界之星合成",
+			"星"
 		]
 	},
 	{
@@ -4544,27 +4544,6 @@
 		]
 	},
 	{
-		"description_short":"数据显示坐标模轴向玩家XYZ。",
-		"version_name":"1.1",
-		"description_full":"数据显示坐标模轴向玩家和XYZ冲突与其他模式按钮。",
-		"links":[
-			{
-				"link":"https://2ch.hk",
-				"name":"Группа ВК"
-			}
-		],
-		"id":185,
-		"title":"Coordinates Viewer",
-		"shouldOverride":true,
-		"tags":[
-			"实用",
-			"辅助",
-			"XYZ",
-			"坐标",
-			"拓展"
-		]
-	},
-	{
 		"description_short":"模组将添加神奇的魔法和仪式",
 		"version_name":"Beta 1.1",
 		"description_full":"魔法仪式将赋予控制Minecraft世界的力量，咒语将成为对抗对手的致命武器，召唤和复活的生物将成为您坚不可摧的保护者。 魔术艺术世界将把所有这些添加到您的游戏中。",
@@ -4590,6 +4569,27 @@
 		]
 	},
 	{
+		"description_short":"数据显示坐标模轴向玩家XYZ。",
+		"version_name":"1.1",
+		"description_full":"数据显示坐标模轴向玩家和XYZ冲突与其他模式按钮。",
+		"links":[
+			{
+				"link":"https://2ch.hk",
+				"name":"Группа ВК"
+			}
+		],
+		"id":185,
+		"title":"Coordinates Viewer",
+		"shouldOverride":true,
+		"tags":[
+			"实用",
+			"辅助",
+			"XYZ",
+			"坐标",
+			"拓展"
+		]
+	},
+	{
 		"description_short":"其实灵感来自老兵工厂1.12.2,给游戏增加了几个武器。",
 		"version_name":"1.2.5",
 		"description_full":"请阅读所有!\n实际上是受到老兵工厂1.12.2的启发，在游戏中加入了一些武器。\n预计更新:\n1.1 Bug修复/重整平衡性。✓\n1.2将绿宝石作为原材料，删除《我的世界》原版剑的配方。✓\n1.3 将黑曜石作为原材料。×\n1.4将火焰棒作为原材料。×\n1.5更多武器类型。×\n1.6 NSRS更新(不再是简单的挥剑)。×\n1.7 Mod兼容性×\n1.8 Yeet更新(可投掷武器)×\n金罗盘是用来搜索水和粘土中的黄金的物品\n武器的制作方法:\n木:\n像以前的做法，但使用砂纸，燧石磨刀石，和基本的连接部分。\n石头:\n在炉中冶炼圆石以获得石头。\n在炉中熔炼石头以获得熔化的石头。\n用一块泥砖把石头冷却。(一起合成)。\n用砂纸擦干净冷却的石头。(一起合成)。\n然后用一些喷灯、砂纸和部件打磨器，合成刀片和钉子来制作零件。\n铁、金、钻石、绿宝石:\n像石头，但你必须使用先进的连接部分和铁磨刀石。",
@@ -4606,6 +4606,24 @@
 			"远古兵工厂",
 			"工具",
 			"武器"
+		]
+	},
+	{
+		"description_short":"数据添加到水凝胶майнкрафт时尚,这种水会滋润垄",
+		"version_name":"",
+		"description_full":"数据添加到水凝胶майнкрафт时尚,这种水会滋润垄",
+		"links":[
+			{
+				"link":"https://vk.com/club145555766",
+				"name":"Группа разработчика в ВК"
+			}
+		],
+		"id":94,
+		"title":"Hydrogel PE",
+		"shouldOverride":true,
+		"tags":[
+			"SWcorp",
+			"机械"
 		]
 	},
 	{
@@ -4628,24 +4646,6 @@
 		]
 	},
 	{
-		"description_short":"数据添加到水凝胶майнкрафт时尚,这种水会滋润垄",
-		"version_name":"",
-		"description_full":"数据添加到水凝胶майнкрафт时尚,这种水会滋润垄",
-		"links":[
-			{
-				"link":"https://vk.com/club145555766",
-				"name":"Группа разработчика в ВК"
-			}
-		],
-		"id":94,
-		"title":"Hydrogel PE",
-		"shouldOverride":true,
-		"tags":[
-			"SWcorp",
-			"机械"
-		]
-	},
-	{
 		"description_short":"Мод добавляет простой крафт книг и бумаги! Mod adds a simple kraft of books and paper!",
 		"version_name":"",
 		"description_full":"英国人。Моддобавляетпростойкрафткнигибумаги!",
@@ -4659,63 +4659,6 @@
 			"书",
 			"纸",
 			"简单"
-		]
-	},
-	{
-		"description_short":"攻击实体时显示粒子。",
-		"version_name":"1.0",
-		"description_full":"攻击实体时显示粒子。",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
-			}
-		],
-		"id":415,
-		"title":"Heart Particle",
-		"shouldOverride":true,
-		"tags":[
-			"颗粒"
-		]
-	},
-	{
-		"description_short":"这是一个容易组装的工业生存。",
-		"version_name":"0.1.0",
-		"description_full":"这是一个容易组装的工业生存。包括工业时代,林业,红石力量等等，由Dio_brando和Alexander制作。",
-		"links":[
-			{
-				"link":"//m.vk.com/id551148559",
-				"name":"https"
-			}
-		],
-		"id":452,
-		"title":"终极ICPE+",
-		"shouldOverride":true,
-		"tags":[
-			"机器",
-			"整合包",
-			"矿石",
-			"模组包",
-			"工业"
-		]
-	},
-	{
-		"description_short":"时尚礼品世界出现,加上他们可以踢不同的事情。",
-		"version_name":"v1",
-		"description_full":"Present Craft添加礼品出现在世界的各个科目可以剜武器和食物有关新年和圣诞节。同样有工具、剑和铠甲的冰。",
-		"links":[
-			{
-				"link":"https://vk.com/arkgroup",
-				"name":"Группа в ВК"
-			}
-		],
-		"id":312,
-		"title":"PresentCraft",
-		"shouldOverride":true,
-		"tags":[
-			"圣诞",
-			"新年",
-			"设备"
 		]
 	},
 	{
@@ -4740,6 +4683,27 @@
 		]
 	},
 	{
+		"description_short":"这是一个容易组装的工业生存。",
+		"version_name":"0.1.0",
+		"description_full":"这是一个容易组装的工业生存。包括工业时代,林业,红石力量等等，由Dio_brando和Alexander制作。",
+		"links":[
+			{
+				"link":"//m.vk.com/id551148559",
+				"name":"https"
+			}
+		],
+		"id":452,
+		"title":"终极ICPE+",
+		"shouldOverride":true,
+		"tags":[
+			"机器",
+			"整合包",
+			"矿石",
+			"模组包",
+			"工业"
+		]
+	},
+	{
 		"description_short":"迷人的制作表格",
 		"version_name":"1.1",
 		"description_full":"迷人的制作表格",
@@ -4754,6 +4718,23 @@
 		"shouldOverride":true,
 		"tags":[
 			"附魔"
+		]
+	},
+	{
+		"description_short":"攻击实体时显示粒子。",
+		"version_name":"1.0",
+		"description_full":"攻击实体时显示粒子。",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			}
+		],
+		"id":415,
+		"title":"Heart Particle",
+		"shouldOverride":true,
+		"tags":[
+			"颗粒"
 		]
 	},
 	{
@@ -4785,6 +4766,23 @@
 			"恐怖",
 			"装饰",
 			"FNAF"
+		]
+	},
+	{
+		"description_short":"大家最喜欢的pcmod的移植版",
+		"version_name":"1.4",
+		"description_full":"这款mod是每个人最喜欢和著名pcmod的移植版，它几乎与所有已知的mod相匹配，如HiTech、TechnoMagic。",
+		"links":[
+			{
+				"link":"//vk.com/modcreate",
+				"name":"Мы в вк - https"
+			}
+		],
+		"id":442,
+		"title":"Applied Energistics 2",
+		"shouldOverride":true,
+		"tags":[
+			"AE2"
 		]
 	},
 	{
@@ -4828,33 +4826,22 @@
 		]
 	},
 	{
-		"description_short":"通过添加时尚明星1 2 3 4 5 6 7кравтlvl这个明星可以继续这种食物和物品",
-		"version_name":"0.3",
-		"description_full":"这个模式与星星和星星添加甲1 2 3 4 5 6 7левел这个明星可以кравт食物、用品等时尚灾难进一步测试。",
+		"description_short":"时尚礼品世界出现,加上他们可以踢不同的事情。",
+		"version_name":"v1",
+		"description_full":"Present Craft添加礼品出现在世界的各个科目可以剜武器和食物有关新年和圣诞节。同样有工具、剑和铠甲的冰。",
 		"links":[
 			{
-				"link":"https://m.youtube.com/channel/UChNRo7sBIYeHgX6w0kNYI1A",
-				"name":"Ютюб_канал_разраба"
-			},
-			{
-				"link":"https://youtu.be/CtalkJdDee8",
-				"name":"Гайд"
-			},
-			{
-				"link":"https://vk.com/jekabonya",
-				"name":"АвторВК"
-			},
-			{
-				"link":"https://discord.gg/aDDe9s8",
-				"name":"Discord сервир"
+				"link":"https://vk.com/arkgroup",
+				"name":"Группа в ВК"
 			}
 		],
-		"id":175,
-		"title":"HelpStar",
+		"id":312,
+		"title":"PresentCraft",
 		"shouldOverride":true,
 		"tags":[
-			"魔法",
-			"全局"
+			"圣诞",
+			"新年",
+			"设备"
 		]
 	},
 	{
@@ -4898,41 +4885,33 @@
 		]
 	},
 	{
-		"description_short":"大家最喜欢的pcmod的移植版",
-		"version_name":"1.4",
-		"description_full":"这款mod是每个人最喜欢和著名pcmod的移植版，它几乎与所有已知的mod相匹配，如HiTech、TechnoMagic。",
+		"description_short":"通过添加时尚明星1 2 3 4 5 6 7кравтlvl这个明星可以继续这种食物和物品",
+		"version_name":"0.3",
+		"description_full":"这个模式与星星和星星添加甲1 2 3 4 5 6 7левел这个明星可以кравт食物、用品等时尚灾难进一步测试。",
 		"links":[
 			{
-				"link":"//vk.com/modcreate",
-				"name":"Мы в вк - https"
-			}
-		],
-		"id":442,
-		"title":"Applied Energistics 2",
-		"shouldOverride":true,
-		"tags":[
-			"AE2"
-		]
-	},
-	{
-		"description_short":"魔法,灵力和其他…",
-		"version_name":"0.6.2 Beta",
-		"description_full":"Mod拥有9种灵力，每一种都提供几种强大的护身符。 护符是允许玩家使用咒语的物品。 要使用护身符，您将必须使用它所属的灵力。 接触灵力，与他们进行交易，获得青睐并利用精神力量。",
-		"links":[
-			{
-				"link":"vk.com/toxes_foxes",
-				"name":"ToxesFoxes"
+				"link":"https://m.youtube.com/channel/UChNRo7sBIYeHgX6w0kNYI1A",
+				"name":"Ютюб_канал_разраба"
 			},
 			{
-				"link":"vk.com/tmm_corporation",
-				"name":"TooManyMods Corporation"
+				"link":"https://youtu.be/CtalkJdDee8",
+				"name":"Гайд"
+			},
+			{
+				"link":"https://vk.com/jekabonya",
+				"name":"АвторВК"
+			},
+			{
+				"link":"https://discord.gg/aDDe9s8",
+				"name":"Discord сервир"
 			}
 		],
-		"id":420,
-		"title":"Divine Favor",
+		"id":175,
+		"title":"HelpStar",
 		"shouldOverride":true,
 		"tags":[
-			"魔法"
+			"魔法",
+			"全局"
 		]
 	},
 	{
@@ -4959,22 +4938,24 @@
 		]
 	},
 	{
-		"description_short":"原始技术-原始核心插件,这将使游戏更加困难",
-		"version_name":"1.0",
-		"description_full":"原始技术-原始核心插件,这将使游戏更加困难",
+		"description_short":"魔法,灵力和其他…",
+		"version_name":"0.6.2 Beta",
+		"description_full":"Mod拥有9种灵力，每一种都提供几种强大的护身符。 护符是允许玩家使用咒语的物品。 要使用护身符，您将必须使用它所属的灵力。 接触灵力，与他们进行交易，获得青睐并利用精神力量。",
 		"links":[
 			{
-				"link":"https://vk.com/primal_core",
-				"name":"vk"
+				"link":"vk.com/toxes_foxes",
+				"name":"ToxesFoxes"
+			},
+			{
+				"link":"vk.com/tmm_corporation",
+				"name":"TooManyMods Corporation"
 			}
 		],
-		"id":289,
-		"title":"Primal Tech",
+		"id":420,
+		"title":"Divine Favor",
 		"shouldOverride":true,
 		"tags":[
-			"原始核心",
-			"拓展",
-			"SevTech"
+			"魔法"
 		]
 	},
 	{
@@ -5001,41 +4982,6 @@
 		]
 	},
 	{
-		"description_short":"这个模式指令添加新的中国。",
-		"version_name":"v.0.1",
-		"description_full":"这个模式在你的世界майнкрафт添加新的指令集和有用的。",
-		"links":[
-			{
-				"link":"https://vk.com/id428581466",
-				"name":"Разраб"
-			}
-		],
-		"id":313,
-		"title":"KitMod",
-		"shouldOverride":true,
-		"tags":[
-			"工具箱",
-			"工具箱模组"
-		]
-	},
-	{
-		"description_short":"模组间科技线和创造性交互的很好的一个整合",
-		"version_name":"1",
-		"description_full":"模组间科技线和创造性交互的很好的一个整合。\n该整合包是为#pack_challenge挑战特别制作的！ \n会在将来得到补充，并使其变得更加丰富。",
-		"links":[
-			{
-				"link":"https://vk.com/savenkons",
-				"name":"Разработчик"
-			}
-		],
-		"id":286,
-		"title":"无限进化模组整合包",
-		"shouldOverride":true,
-		"tags":[
-			"整合包"
-		]
-	},
-	{
 		"description_short":"这个模式添加很多东西!",
 		"version_name":"",
 		"description_full":"这个模式添加很多东西!",
@@ -5058,6 +5004,24 @@
 		]
 	},
 	{
+		"description_short":"这个模式指令添加新的中国。",
+		"version_name":"v.0.1",
+		"description_full":"这个模式在你的世界майнкрафт添加新的指令集和有用的。",
+		"links":[
+			{
+				"link":"https://vk.com/id428581466",
+				"name":"Разраб"
+			}
+		],
+		"id":313,
+		"title":"KitMod",
+		"shouldOverride":true,
+		"tags":[
+			"工具箱",
+			"工具箱模组"
+		]
+	},
+	{
 		"description_short":"给那些没有食物的树添加一些食物。",
 		"version_name":"1.0",
 		"description_full":"给那些没有食物的树添加了食物。，例如，橡树的食物是苹果，丛林树的食物是可可，但现在有了这个Mod:\n桦树的食物是橙子,\n云杉树的食物是坚果\n金合欢数有金合欢树的种子\n,\n深色橡木有罗马苹果。\n1.0:测试版/。✓\n1.1:移除制作配方\n食物从叶子上掉落下来",
@@ -5074,6 +5038,42 @@
 			"树上食物",
 			"食物",
 			"变种"
+		]
+	},
+	{
+		"description_short":"原始技术-原始核心插件,这将使游戏更加困难",
+		"version_name":"1.0",
+		"description_full":"原始技术-原始核心插件,这将使游戏更加困难",
+		"links":[
+			{
+				"link":"https://vk.com/primal_core",
+				"name":"vk"
+			}
+		],
+		"id":289,
+		"title":"Primal Tech",
+		"shouldOverride":true,
+		"tags":[
+			"原始核心",
+			"拓展",
+			"SevTech"
+		]
+	},
+	{
+		"description_short":"模组间科技线和创造性交互的很好的一个整合",
+		"version_name":"1",
+		"description_full":"模组间科技线和创造性交互的很好的一个整合。\n该整合包是为#pack_challenge挑战特别制作的！ \n会在将来得到补充，并使其变得更加丰富。",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Разработчик"
+			}
+		],
+		"id":286,
+		"title":"无限进化模组整合包",
+		"shouldOverride":true,
+		"tags":[
+			"整合包"
 		]
 	},
 	{
@@ -5117,29 +5117,6 @@
 		]
 	},
 	{
-		"description_short":"30 +美丽的服装!",
-		"version_name":"1.0",
-		"description_full":"这个mod添加了30种美丽的服装。注意！所有服装仅创造可见。",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"Автор Вк"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"Группа Вк"
-			}
-		],
-		"id":392,
-		"title":"Costumes",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			" ",
-			"服饰"
-		]
-	},
-	{
 		"description_short":"现实的开始!",
 		"version_name":"1.2",
 		"description_full":"现实的方式开始您的生存世界!\n建议游玩:\n另一个口渴模组\n农村模组 PE\n和\n兵工厂重铸",
@@ -5163,6 +5140,65 @@
 		"tags":[
 			"工具",
 			"武器"
+		]
+	},
+	{
+		"description_short":"30 +美丽的服装!",
+		"version_name":"1.0",
+		"description_full":"这个mod添加了30种美丽的服装。注意！所有服装仅创造可见。",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"Автор Вк"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"Группа Вк"
+			}
+		],
+		"id":392,
+		"title":"Costumes",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			" ",
+			"服饰"
+		]
+	},
+	{
+		"description_short":"这个模组添加了两个世界",
+		"version_name":"Beta 0.4",
+		"description_full":"这个mod会增加两个世界，这是我的第一个mod。\nBeta 0.2 \n加了盖特的书 修复bug\nBeta 0.3\n添加了boss,装甲和工具 添加беджутер \nBeta 0.4\n修复bug",
+		"links":[
+			{
+				"link":"https://vk.com/club186544580",
+				"name":"Vk"
+			}
+		],
+		"id":444,
+		"title":"维度",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"设备",
+			"维度"
+		]
+	},
+	{
+		"description_short":"真空项目",
+		"version_name":"1.2",
+		"description_full":"吸引遥远的项目和经验Orb下降。",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":36,
+		"title":"Pickup Widely",
+		"shouldOverride":true,
+		"tags":[
+			"系统"
 		]
 	},
 	{
@@ -5191,39 +5227,30 @@
 		]
 	},
 	{
-		"description_short":"真空项目",
-		"version_name":"1.2",
-		"description_full":"吸引遥远的项目和经验Orb下降。",
+		"description_short":"有关添加魔法符文",
+		"version_name":"v2",
+		"description_full":"有关添加魔法符文",
 		"links":[
 			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":36,
-		"title":"Pickup Widely",
-		"shouldOverride":true,
-		"tags":[
-			"系统"
-		]
-	},
-	{
-		"description_short":"这个模组添加了两个世界",
-		"version_name":"Beta 0.4",
-		"description_full":"这个mod会增加两个世界，这是我的第一个mod。\nBeta 0.2 \n加了盖特的书 修复bug\nBeta 0.3\n添加了boss,装甲和工具 添加беджутер \nBeta 0.4\n修复bug",
-		"links":[
+				"link":"https://vk.com/runicle_inner_core",
+				"name":"Группа в ВК"
+			},
 			{
-				"link":"https://vk.com/club186544580",
-				"name":"Vk"
+				"link":"https://vk.com/id422454972",
+				"name":"Автор идеи, что положил началу Руниклу"
+			},
+			{
+				"link":"https://vk.com/ark_jedenbog",
+				"name":"Разработчик, текстурщик и автор почти всех идей Руникла 2"
 			}
 		],
-		"id":444,
-		"title":"维度",
+		"id":317,
+		"title":"Runicle 2",
 		"shouldOverride":true,
 		"tags":[
-			"全局",
+			"魔法",
 			"设备",
-			"维度"
+			"符文"
 		]
 	},
 	{
@@ -5268,30 +5295,20 @@
 		]
 	},
 	{
-		"description_short":"有关添加魔法符文",
-		"version_name":"v2",
-		"description_full":"有关添加魔法符文",
+		"description_short":"不能堆积砂",
+		"version_name":"1.2",
+		"description_full":"滑坡发生在掉落、建造和破坏的时候。",
 		"links":[
 			{
-				"link":"https://vk.com/runicle_inner_core",
-				"name":"Группа в ВК"
-			},
-			{
-				"link":"https://vk.com/id422454972",
-				"name":"Автор идеи, что положил началу Руниклу"
-			},
-			{
-				"link":"https://vk.com/ark_jedenbog",
-				"name":"Разработчик, текстурщик и автор почти всех идей Руникла 2"
+				"link":"https: //vk.com/pockettech",
+				"name":"Группа ВК"
 			}
 		],
-		"id":317,
-		"title":"Runicle 2",
+		"id":38,
+		"title":"Landslide Mod",
 		"shouldOverride":true,
 		"tags":[
-			"魔法",
-			"设备",
-			"符文"
+			"系统"
 		]
 	},
 	{
@@ -5315,20 +5332,22 @@
 		]
 	},
 	{
-		"description_short":"不能堆积砂",
-		"version_name":"1.2",
-		"description_full":"滑坡发生在掉落、建造和破坏的时候。",
+		"description_short":"-离子工艺-增加与修改了新的矿石，工具，能源。-",
+		"version_name":"2.0",
+		"description_full":"离子工艺-增加与修改了新的矿石，工具，能源。",
 		"links":[
 			{
-				"link":"https: //vk.com/pockettech",
-				"name":"Группа ВК"
+				"link":"//vk.com/ionic_craft",
+				"name":"Группа ВКонтакте https"
 			}
 		],
-		"id":38,
-		"title":"Landslide Mod",
+		"id":436,
+		"title":"Ionic craft",
 		"shouldOverride":true,
 		"tags":[
-			"系统"
+			"能量",
+			"矿石",
+			"模组"
 		]
 	},
 	{
@@ -5378,71 +5397,6 @@
 		]
 	},
 	{
-		"description_short":"-离子工艺-增加与修改了新的矿石，工具，能源。-",
-		"version_name":"2.0",
-		"description_full":"离子工艺-增加与修改了新的矿石，工具，能源。",
-		"links":[
-			{
-				"link":"//vk.com/ionic_craft",
-				"name":"Группа ВКонтакте https"
-			}
-		],
-		"id":436,
-		"title":"Ionic craft",
-		"shouldOverride":true,
-		"tags":[
-			"能量",
-			"矿石",
-			"模组"
-		]
-	},
-	{
-		"description_short":"(8/64/512)规格的太阳能头盔与太阳能板",
-		"version_name":"1.5",
-		"description_full":"这个mod会在你的游戏中添加8/64/512规格的太阳能板，它也会加入带有太阳能板的头盔",
-		"links":[
-			{
-				"link":"https://vk.com/comboarmors",
-				"name":"группа мода"
-			},
-			{
-				"link":"https://icmods.mineprogramming.org/mod.php?id=409",
-				"name":"Combo Armors"
-			}
-		],
-		"id":429,
-		"title":"Compact Solar Array",
-		"shouldOverride":true,
-		"tags":[
-			"阵列",
-			"能量",
-			"压缩",
-			"太阳能",
-			"压缩太阳能阵列",
-			"太阳能发电机",
-			"IC2",
-			"拓展",
-			"板"
-		]
-	},
-	{
-		"description_short":"效率和增加皮肤的铠甲。",
-		"version_name":"V1.0",
-		"description_full":"安装后将每个数据模式的效率下降块皮肤。从这可以скрафт皮革盔甲,使耐火,穿上全网络。但这些铠甲-强度减去,因为皮革等。",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":246,
-		"title":"Ghast Skin Armor",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲"
-		]
-	},
-	{
 		"description_short":"装饰方块!",
 		"version_name":"1.2",
 		"description_full":"装饰方块!多达 120种! ! !",
@@ -5480,6 +5434,52 @@
 		"shouldOverride":true,
 		"tags":[
 			"工具"
+		]
+	},
+	{
+		"description_short":"我的视频Finos Play。1)添加两个新模块(2)新事物。",
+		"version_name":"Alfa 0.0.5",
+		"description_full":"我的视频Finos Play。如果在网站找到很多有趣的。",
+		"links":[
+			{
+				"link":"//m.vk.com/public179790222?from=groups",
+				"name":"Группа разроботчика-https"
+			}
+		],
+		"id":347,
+		"title":"Zombie Survival",
+		"shouldOverride":true,
+		"tags":[
+			"Finosplay"
+		]
+	},
+	{
+		"description_short":"(8/64/512)规格的太阳能头盔与太阳能板",
+		"version_name":"1.5",
+		"description_full":"这个mod会在你的游戏中添加8/64/512规格的太阳能板，它也会加入带有太阳能板的头盔",
+		"links":[
+			{
+				"link":"https://vk.com/comboarmors",
+				"name":"группа мода"
+			},
+			{
+				"link":"https://icmods.mineprogramming.org/mod.php?id=409",
+				"name":"Combo Armors"
+			}
+		],
+		"id":429,
+		"title":"Compact Solar Array",
+		"shouldOverride":true,
+		"tags":[
+			"阵列",
+			"能量",
+			"压缩",
+			"太阳能",
+			"压缩太阳能阵列",
+			"太阳能发电机",
+			"IC2",
+			"拓展",
+			"板"
 		]
 	},
 	{
@@ -5532,38 +5532,20 @@
 		]
 	},
 	{
-		"description_short":"游戏模式多样性незерекс或没有。目前已完成但不играбел。",
-		"version_name":"1.0.4",
-		"description_full":"添加结构,是目前装饰装修的建筑物能够康华。",
+		"description_short":"效率和增加皮肤的铠甲。",
+		"version_name":"V1.0",
+		"description_full":"安装后将每个数据模式的效率下降块皮肤。从这可以скрафт皮革盔甲,使耐火,穿上全网络。但这些铠甲-强度减去,因为皮革等。",
 		"links":[
 			{
-				"link":"https://vk.com/club158998461",
-				"name":"Group"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":285,
-		"title":"AuI addon(for NetherEX)",
+		"id":246,
+		"title":"Ghast Skin Armor",
 		"shouldOverride":true,
 		"tags":[
-			"矿石",
-			"武器"
-		]
-	},
-	{
-		"description_short":"我的视频Finos Play。1)添加两个新模块(2)新事物。",
-		"version_name":"Alfa 0.0.5",
-		"description_full":"我的视频Finos Play。如果在网站找到很多有趣的。",
-		"links":[
-			{
-				"link":"//m.vk.com/public179790222?from=groups",
-				"name":"Группа разроботчика-https"
-			}
-		],
-		"id":347,
-		"title":"Zombie Survival",
-		"shouldOverride":true,
-		"tags":[
-			"Finosplay"
+			"盔甲"
 		]
 	},
 	{
@@ -5589,21 +5571,21 @@
 		]
 	},
 	{
-		"description_short":"\"我的简单和著名的矿物质",
-		"version_name":"3.0",
-		"description_full":"这个mod的移植由啤酒Xndr Gr8st的pc版本。这个mod的移植是由Haa D。只是简单的矿石2,我打算做其他模组和插件的简单的矿石,尽在其中。模组由新的minecraft简单的矿石",
+		"description_short":"游戏模式多样性незерекс或没有。目前已完成但不играбел。",
+		"version_name":"1.0.4",
+		"description_full":"添加结构,是目前装饰装修的建筑物能够康华。",
 		"links":[
 			{
-				"link":"https://vk.com/id504995667",
-				"name":"VK"
+				"link":"https://vk.com/club158998461",
+				"name":"Group"
 			}
 		],
-		"id":366,
-		"title":"Simples Ores PE",
+		"id":285,
+		"title":"AuI addon(for NetherEX)",
 		"shouldOverride":true,
 		"tags":[
-			"工具",
-			"矿石"
+			"矿石",
+			"武器"
 		]
 	},
 	{
@@ -5649,6 +5631,24 @@
 		]
 	},
 	{
+		"description_short":"\"我的简单和著名的矿物质",
+		"version_name":"3.0",
+		"description_full":"这个mod的移植由啤酒Xndr Gr8st的pc版本。这个mod的移植是由Haa D。只是简单的矿石2,我打算做其他模组和插件的简单的矿石,尽在其中。模组由新的minecraft简单的矿石",
+		"links":[
+			{
+				"link":"https://vk.com/id504995667",
+				"name":"VK"
+			}
+		],
+		"id":366,
+		"title":"Simples Ores PE",
+		"shouldOverride":true,
+		"tags":[
+			"工具",
+			"矿石"
+		]
+	},
+	{
 		"description_short":"方块轮廓",
 		"version_name":"1.0",
 		"description_full":"(配置)\n分辨率:数值越大，线越细。\n颜色:黑色，蓝色，青色，深灰色，灰色，绿色，浅灰色，品红，红色，白色，黄色",
@@ -5663,6 +5663,23 @@
 		"shouldOverride":true,
 		"tags":[
 			"系统"
+		]
+	},
+	{
+		"description_short":"添加新的苹果",
+		"version_name":"1.1.01",
+		"description_full":"这个模组添加了苹果的新种类：铁，钻石，红石，绿宝石，青金石，石英。",
+		"links":[
+			{
+				"link":"https://www.youtube.com/channel/UCj_HWK-CmX68r6qoykvbriA",
+				"name":"Канал"
+			}
+		],
+		"id":463,
+		"title":"更多苹果",
+		"shouldOverride":true,
+		"tags":[
+			"食物"
 		]
 	},
 	{
@@ -5681,23 +5698,6 @@
 		"tags":[
 			"SWcorp",
 			"机械"
-		]
-	},
-	{
-		"description_short":"添加新的苹果",
-		"version_name":"1.1.01",
-		"description_full":"这个模组添加了苹果的新种类：铁，钻石，红石，绿宝石，青金石，石英。",
-		"links":[
-			{
-				"link":"https://www.youtube.com/channel/UCj_HWK-CmX68r6qoykvbriA",
-				"name":"Канал"
-			}
-		],
-		"id":463,
-		"title":"更多苹果",
-		"shouldOverride":true,
-		"tags":[
-			"食物"
 		]
 	},
 	{
@@ -5787,24 +5787,6 @@
 		]
 	},
 	{
-		"description_short":"给我最喜欢的YouTuber的mod。",
-		"version_name":"1.1!",
-		"description_full":"专用于Temtatork：D\n简单模组\n\n\n （PD：我终于可以接受萤幕了！！！）",
-		"links":[
-			{
-				"link":"o.",
-				"name":""
-			}
-		],
-		"id":401,
-		"title":"Temtatork Mod",
-		"shouldOverride":true,
-		"tags":[
-			"工具",
-			"矿石"
-		]
-	},
-	{
 		"description_short":"添加许多新的时尚和锭块添加工具和铠甲不久",
 		"version_name":"0.1.1",
 		"description_full":"添加许多新的时尚和锭块增加很快。工具和铠甲",
@@ -5846,6 +5828,27 @@
 		]
 	},
 	{
+		"description_short":"冶金",
+		"version_name":"0.2.1f2",
+		"description_full":"一个非官方的冶金PC移植，增加了大量的矿石和设备。",
+		"links":[
+			{
+				"link":"https://vk.com/aced.pilot",
+				"name":"aced"
+			}
+		],
+		"id":466,
+		"title":"冶金：重铸",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"物品",
+			"设备",
+			"矿石",
+			"金属"
+		]
+	},
+	{
 		"description_short":"这个Mod增加了一些机制，使生存复杂化并且使 Minecraft 更真实。",
 		"version_name":"0.0.1",
 		"description_full":"这个Mod会添加很多东西到游戏中，此Mod与群峦传说非常相似，因为作者收到群峦传说的启发。",
@@ -5861,6 +5864,24 @@
 		"tags":[
 			"科技",
 			"全局",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"给我最喜欢的YouTuber的mod。",
+		"version_name":"1.1!",
+		"description_full":"专用于Temtatork：D\n简单模组\n\n\n （PD：我终于可以接受萤幕了！！！）",
+		"links":[
+			{
+				"link":"o.",
+				"name":""
+			}
+		],
+		"id":401,
+		"title":"Temtatork Mod",
+		"shouldOverride":true,
+		"tags":[
+			"工具",
 			"矿石"
 		]
 	},
@@ -5882,24 +5903,61 @@
 		]
 	},
 	{
-		"description_short":"冶金",
-		"version_name":"0.2.1f2",
-		"description_full":"一个非官方的冶金PC移植，增加了大量的矿石和设备。",
+		"description_short":"Global mod for the entire series of games S. T. A. L. K. E. R. for Minecraft: Pocket Edition.\n一个让玩家进入《潜行者》系列的MCPE的全局Mod",
+		"version_name":"0.0.6 CB",
+		"description_full":"Global mod for the entire series of games S. T. A. L. K. E. R. for Minecraft: Pocket Edition.\n一个《潜行者》全系列的Mod的MCPE版本\n\nShould have been.\n感谢以下测试人员:\n- Кирилл Купава (https://vk.com/id280281674)\n- Антон Амосенков (https://vk.com/id473936238)\n- Артём Летов (https://vk.com/id494472035)\n- Артем Грицко (https://vk.com/id417351298)\n- Витя Ачуров (https://vk.com/id465885303)\n- Дмитрий Курин (https://vk.com/id185278139)\n\nCode: 80LK (https://vk.com/id93821471)\nTextures: Алексей Павлов (https://vk.com/id392426232)",
 		"links":[
 			{
-				"link":"https://vk.com/aced.pilot",
-				"name":"aced"
+				"link":"https://vk.com/wolf___team",
+				"name":"WolfTeam"
 			}
 		],
-		"id":466,
-		"title":"冶金：重铸",
+		"id":495,
+		"title":"S.T.A.L.K.E.R.",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"潜行者",
+			"武器"
+		]
+	},
+	{
+		"description_short":"这是Minecraft中最受欢迎的资源包。 现在，我们支持IC2矿石纹理。.",
+		"version_name":"1.2",
+		"description_full":"这是Minecraft中最受欢迎的资源包。 现在我们支持IC2矿石纹理.\r\n快与你的朋友分享这个mod!\r\n\r\nSize - 19mb",
+		"links":[
+			{
+				"link":"https://vk.com/id462794943",
+				"name":"VK"
+			}
+		],
+		"id":493,
+		"title":"原版高清 32x32 PE",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"装饰",
+			"拓展"
+		]
+	},
+	{
+		"description_short":"提供了额外的工具,装甲和装饰块基于原版方块",
+		"version_name":"2019.08.09",
+		"description_full":"＃Minecraft.VanillaUtils\n -由FredHappyface\n\n 发行日2019.08.09\n 提供基于香草块的其他工具，装甲和装饰块。 以及一些生活质量功能，例如简单的trans变和精心制作的食谱\n\n ＃＃ 特征：\n 此mod包括许多香草块（例如羊毛）的砖块形式。 参见下面的每个块/项目的不同类型的列表。 添加彩色玻璃\n\n ###工具和装甲\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n\n ###灯\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n 铁\n -金\n -钻石\n -煤\n -木炭\n -绿宝石\n\n\n ＃＃＃ 砖块\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n -泥土\n -玻璃\n - 红石\n -各种彩色羊毛\n -玻璃\n -各种彩色玻璃\n\n\n ##合成方式\n\n 制作配方与Java版中的相同",
+		"links":[
+			{
+				"link":"https://github.com/FredHappyface/MinecraftPE.VanillaUtils",
+				"name":"GitHub"
+			}
+		],
+		"id":422,
+		"title":"Vanilla Utils PE",
 		"shouldOverride":true,
 		"tags":[
 			"盔甲",
-			"物品",
-			"设备",
-			"矿石",
-			"金属"
+			"魔法",
+			"工具",
+			"装饰"
 		]
 	},
 	{
@@ -5923,22 +5981,22 @@
 		]
 	},
 	{
-		"description_short":"Global mod for the entire series of games S. T. A. L. K. E. R. for Minecraft: Pocket Edition.\n一个让玩家进入《潜行者》系列的MCPE的全局Mod",
-		"version_name":"0.0.6 CB",
-		"description_full":"Global mod for the entire series of games S. T. A. L. K. E. R. for Minecraft: Pocket Edition.\n一个《潜行者》全系列的Mod的MCPE版本\n\nShould have been.\n感谢以下测试人员:\n- Кирилл Купава (https://vk.com/id280281674)\n- Антон Амосенков (https://vk.com/id473936238)\n- Артём Летов (https://vk.com/id494472035)\n- Артем Грицко (https://vk.com/id417351298)\n- Витя Ачуров (https://vk.com/id465885303)\n- Дмитрий Курин (https://vk.com/id185278139)\n\nCode: 80LK (https://vk.com/id93821471)\nTextures: Алексей Павлов (https://vk.com/id392426232)",
+		"description_short":"使用此Mod添加实用的物品！",
+		"version_name":"4.0!",
+		"description_full":"使用经过改良的粘土进行加工，制作工具，准备坩埚，粉碎岩石和建造机器！\r\n\r\n请查看更新日志，以了解如何获取无法制造的东西。",
 		"links":[
 			{
-				"link":"https://vk.com/wolf___team",
-				"name":"WolfTeam"
+				"link":"0",
+				"name":""
 			}
 		],
-		"id":495,
-		"title":"S.T.A.L.K.E.R.",
+		"id":377,
+		"title":"Primitive Technology",
 		"shouldOverride":true,
 		"tags":[
-			"全局",
-			"潜行者",
-			"武器"
+			"科技",
+			"合成",
+			"工具"
 		]
 	},
 	{
@@ -5964,83 +6022,63 @@
 		]
 	},
 	{
-		"description_short":"提供了额外的工具,装甲和装饰块基于原版方块",
-		"version_name":"2019.08.09",
-		"description_full":"＃Minecraft.VanillaUtils\n -由FredHappyface\n\n 发行日2019.08.09\n 提供基于香草块的其他工具，装甲和装饰块。 以及一些生活质量功能，例如简单的trans变和精心制作的食谱\n\n ＃＃ 特征：\n 此mod包括许多香草块（例如羊毛）的砖块形式。 参见下面的每个块/项目的不同类型的列表。 添加彩色玻璃\n\n ###工具和装甲\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n\n ###灯\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n 铁\n -金\n -钻石\n -煤\n -木炭\n -绿宝石\n\n\n ＃＃＃ 砖块\n -花岗岩\n -闪长岩\n -青金石\n -萤石\n -泥土\n -玻璃\n - 红石\n -各种彩色羊毛\n -玻璃\n -各种彩色玻璃\n\n\n ##合成方式\n\n 制作配方与Java版中的相同",
+		"description_short":"光版的关注公司技术包",
+		"version_name":"1.1",
+		"description_full":"无modpack Tech pack_chalendge # for achievments and recipes比较隐晦。",
 		"links":[
 			{
-				"link":"https://github.com/FredHappyface/MinecraftPE.VanillaUtils",
-				"name":"GitHub"
+				"link":"https://vk.com/belk_dima",
+				"name":"Автор"
 			}
 		],
-		"id":422,
-		"title":"Vanilla Utils PE",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"魔法",
-			"工具",
-			"装饰"
-		]
-	},
-	{
-		"description_short":"这是Minecraft中最受欢迎的资源包。 现在，我们支持IC2矿石纹理。.",
-		"version_name":"1.2",
-		"description_full":"这是Minecraft中最受欢迎的资源包。 现在我们支持IC2矿石纹理.\r\n快与你的朋友分享这个mod!\r\n\r\nSize - 19mb",
-		"links":[
-			{
-				"link":"https://vk.com/id462794943",
-				"name":"VK"
-			}
-		],
-		"id":493,
-		"title":"原版高清 32x32 PE",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"装饰",
-			"拓展"
-		]
-	},
-	{
-		"description_short":"使用此Mod添加实用的物品！",
-		"version_name":"4.0!",
-		"description_full":"使用经过改良的粘土进行加工，制作工具，准备坩埚，粉碎岩石和建造机器！\r\n\r\n请查看更新日志，以了解如何获取无法制造的东西。",
-		"links":[
-			{
-				"link":"0",
-				"name":""
-			}
-		],
-		"id":377,
-		"title":"Primitive Technology",
+		"id":288,
+		"title":"Focus Inc. Technologies Light",
 		"shouldOverride":true,
 		"tags":[
 			"科技",
-			"合成",
-			"工具"
+			"整合包",
+			"包挑战"
 		]
 	},
 	{
-		"description_short":"在HUD中添加口渴值、脱水效果和饮水瓶。",
-		"version_name":"1.4.1",
-		"description_full":"这个真实的mod添加口渴条。水位可以通过饮用水瓶(+5)或用手在水中轻触(+2)来恢复。脱水会在3天内到来，但是跑步、采矿和在太阳下的高温生物群落中会加速脱水。脱水会逐渐产生负面影响，开始是运动缓慢，然后是虚弱，最后是失明和伤害玩家。",
+		"description_short":"Просто мод Ops-mod",
+		"version_name":"1.0",
+		"description_full":"Просто мод Ops-mod",
 		"links":[
 			{
-				"link":"https://vk.com/vlad.gr2027",
-				"name":"Developer"
-			},
-			{
-				"link":"https://vk.com/innercore_mods",
-				"name":"My Community"
+				"link":"https://www.youtube.com/channel/UCozPCDFs9nIVhxB-cjQ9xTQ",
+				"name":"Мой канал"
 			}
 		],
-		"id":461,
-		"title":"另一个口渴模组",
+		"id":208,
+		"title":"Ops-mod",
 		"shouldOverride":true,
 		"tags":[
-			"现实",
-			"口渴"
+			"OP"
+		]
+	},
+	{
+		"description_short":"MOD添加粉尘以制造盔甲，武器和工具",
+		"version_name":"beta 0.2",
+		"description_full":"mod添加了粉尘以制作盔甲，武器和工具!\n在未来会添加更多的物品哦!\nBeta 0.2 更新:\n添加:\n用来制作盔甲，工具和武器的红色钻石矿。\n修复:\n1.\n您可以用9根骨头制成大骨头（用来制作盔甲，武器和放置物）\n2.\n大骨头可能会从骷髅身上掉落，大约70％\\",
+		"links":[
+			{
+				"link":"https://vk.com/id507003972",
+				"name":"ВК"
+			},
+			{
+				"link":"https://vk.com/club183968404",
+				"name":"Группа мода"
+			}
+		],
+		"id":407,
+		"title":"Fantastic craft",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"设备",
+			"矿石",
+			"武器"
 		]
 	},
 	{
@@ -6088,27 +6126,25 @@
 		]
 	},
 	{
-		"description_short":"MOD添加粉尘以制造盔甲，武器和工具",
-		"version_name":"beta 0.2",
-		"description_full":"mod添加了粉尘以制作盔甲，武器和工具!\n在未来会添加更多的物品哦!\nBeta 0.2 更新:\n添加:\n用来制作盔甲，工具和武器的红色钻石矿。\n修复:\n1.\n您可以用9根骨头制成大骨头（用来制作盔甲，武器和放置物）\n2.\n大骨头可能会从骷髅身上掉落，大约70％\\",
+		"description_short":"在HUD中添加口渴值、脱水效果和饮水瓶。",
+		"version_name":"1.4.1",
+		"description_full":"这个真实的mod添加口渴条。水位可以通过饮用水瓶(+5)或用手在水中轻触(+2)来恢复。脱水会在3天内到来，但是跑步、采矿和在太阳下的高温生物群落中会加速脱水。脱水会逐渐产生负面影响，开始是运动缓慢，然后是虚弱，最后是失明和伤害玩家。",
 		"links":[
 			{
-				"link":"https://vk.com/id507003972",
-				"name":"ВК"
+				"link":"https://vk.com/vlad.gr2027",
+				"name":"Developer"
 			},
 			{
-				"link":"https://vk.com/club183968404",
-				"name":"Группа мода"
+				"link":"https://vk.com/innercore_mods",
+				"name":"My Community"
 			}
 		],
-		"id":407,
-		"title":"Fantastic craft",
+		"id":461,
+		"title":"另一个口渴模组",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"设备",
-			"矿石",
-			"武器"
+			"现实",
+			"口渴"
 		]
 	},
 	{
@@ -6127,30 +6163,6 @@
 		"tags":[
 			"设备",
 			"模组"
-		]
-	},
-	{
-		"description_short":"-更多桶-",
-		"version_name":"1.1.1.1",
-		"description_full":"PC MOD移植为IC MOD-木桶- 27个插槽-钢桶- 54个插槽-金桶- 81个插槽-钻石桶- 104个插槽-黑曜石桶- 104个插槽 -水晶桶- 104个槽(透明)",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"♛Автор Вк"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"♛Группа Вк"
-			}
-		],
-		"id":435,
-		"title":"♛Iron Barrel♛",
-		"shouldOverride":true,
-		"tags":[
-			"箱子",
-			" ",
-			"木桶",
-			"存储物品"
 		]
 	},
 	{
@@ -6175,6 +6187,23 @@
 		]
 	},
 	{
+		"description_short":"它会改变一些原版纹理",
+		"version_name":"1.0",
+		"description_full":"它会改变一些原版纹理",
+		"links":[
+			{
+				"link":"https://vk.com/club18654458",
+				"name":"Vk"
+			}
+		],
+		"id":448,
+		"title":"资源包",
+		"shouldOverride":true,
+		"tags":[
+			"材质"
+		]
+	},
+	{
 		"description_short":"新的矿石和宝石,可以用于装饰,甚至合金工具。",
 		"version_name":"1.1.0 major",
 		"description_full":"This mod is adding new ores and new stones to your world.\nOres\n-Copper : a metal that can be used for making bronze, brass and copper blocks\n-Zinc : a metal that can be used for making brass.\n-Tin : a metal that can be used for making bronze.\n-Salt: Substance that makes your food more delicious.\n-Titanium: Strong metal for hard glass and tools better than diamond.\n-Bismuth: Metal for decorative purposes\n-Lithium: Metal that can be used for batteries, lamps and more electric stuff.\nStones\n-Slate, Blue Slate, Dacite, Limestone, Komatiite and Greywacke\n-Basalt can be used for tools.\nMaterials\n-Ocre\n-Ivory\n-Brass\n-Bronze\n\nAll ores and stones generate randomly.",
@@ -6191,42 +6220,6 @@
 			"工具",
 			"矿石",
 			"装饰"
-		]
-	},
-	{
-		"description_short":"光版的关注公司技术包",
-		"version_name":"1.1",
-		"description_full":"无modpack Tech pack_chalendge # for achievments and recipes比较隐晦。",
-		"links":[
-			{
-				"link":"https://vk.com/belk_dima",
-				"name":"Автор"
-			}
-		],
-		"id":288,
-		"title":"Focus Inc. Technologies Light",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"整合包",
-			"包挑战"
-		]
-	},
-	{
-		"description_short":"Просто мод Ops-mod",
-		"version_name":"1.0",
-		"description_full":"Просто мод Ops-mod",
-		"links":[
-			{
-				"link":"https://www.youtube.com/channel/UCozPCDFs9nIVhxB-cjQ9xTQ",
-				"name":"Мой канал"
-			}
-		],
-		"id":208,
-		"title":"Ops-mod",
-		"shouldOverride":true,
-		"tags":[
-			"OP"
 		]
 	},
 	{
@@ -6251,52 +6244,6 @@
 		]
 	},
 	{
-		"description_short":"它会改变一些原版纹理",
-		"version_name":"1.0",
-		"description_full":"它会改变一些原版纹理",
-		"links":[
-			{
-				"link":"https://vk.com/club18654458",
-				"name":"Vk"
-			}
-		],
-		"id":448,
-		"title":"资源包",
-		"shouldOverride":true,
-		"tags":[
-			"材质"
-		]
-	},
-	{
-		"description_short":"没有格雷的WFA工业科学的简化版本。",
-		"version_name":"in dev 0.2",
-		"description_full":"与完整mod的唯一区别是没有荞麦和成就 而已！ 并且滞后时间更少：W\n在Develop 0.2中：\n修正了mod并似乎以某种方式神奇地消除了不通过mod bowser下载mod的错误（但这并不完全准确）",
-		"links":[
-			{
-				"link":"https://vk.com/vova_miron228",
-				"name":"Вк разраба"
-			},
-			{
-				"link":"https://vk.com/public171684774",
-				"name":"Группа сборок"
-			}
-		],
-		"id":398,
-		"title":"WFA Industrial Science Lite",
-		"shouldOverride":true,
-		"tags":[
-			"高科技WFA",
-			"全局",
-			"WFA",
-			"精简版",
-			"整合包",
-			"工业科学",
-			"模组包",
-			"工业",
-			"林业"
-		]
-	},
-	{
 		"description_short":"移植的食物从PC +模组",
 		"version_name":"0.14.0 And Higher",
 		"description_full":"这个mod移植的食物加上MCPE模组",
@@ -6314,6 +6261,30 @@
 			"官方 InnerCore 模组",
 			"食物",
 			"工具"
+		]
+	},
+	{
+		"description_short":"-更多桶-",
+		"version_name":"1.1.1.1",
+		"description_full":"PC MOD移植为IC MOD-木桶- 27个插槽-钢桶- 54个插槽-金桶- 81个插槽-钻石桶- 104个插槽-黑曜石桶- 104个插槽 -水晶桶- 104个槽(透明)",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"♛Автор Вк"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"♛Группа Вк"
+			}
+		],
+		"id":435,
+		"title":"♛Iron Barrel♛",
+		"shouldOverride":true,
+		"tags":[
+			"箱子",
+			" ",
+			"木桶",
+			"存储物品"
 		]
 	},
 	{
@@ -6361,6 +6332,35 @@
 			"设备",
 			"传送门",
 			"维度"
+		]
+	},
+	{
+		"description_short":"没有格雷的WFA工业科学的简化版本。",
+		"version_name":"in dev 0.2",
+		"description_full":"与完整mod的唯一区别是没有荞麦和成就 而已！ 并且滞后时间更少：W\n在Develop 0.2中：\n修正了mod并似乎以某种方式神奇地消除了不通过mod bowser下载mod的错误（但这并不完全准确）",
+		"links":[
+			{
+				"link":"https://vk.com/vova_miron228",
+				"name":"Вк разраба"
+			},
+			{
+				"link":"https://vk.com/public171684774",
+				"name":"Группа сборок"
+			}
+		],
+		"id":398,
+		"title":"WFA Industrial Science Lite",
+		"shouldOverride":true,
+		"tags":[
+			"高科技WFA",
+			"全局",
+			"WFA",
+			"精简版",
+			"整合包",
+			"工业科学",
+			"模组包",
+			"工业",
+			"林业"
 		]
 	},
 	{
@@ -6442,23 +6442,21 @@
 		]
 	},
 	{
-		"description_short":"真正的幸存者将3种指标添加到游戏(能源、排泄、口渴)。",
-		"version_name":"1.1",
-		"description_full":"真正的幸存者将增加3个指标的游戏(能量，排泄，口渴)。\n\n-能量:所需睡眠的能量指标，当为15%时，增加缓慢效果，0%增加失明效果。\n-排泄:如果排泄指标为零，则会对你增加中毒效果。\n口渴:现在为了生存，你不仅要吃东西，还要喝水。当口渴指数为0%时，中毒效果会叠加在你身上。",
+		"description_short":"添加一个结构!",
+		"version_name":"1.0",
+		"description_full":"添加了著名的结构从督伊德教的工艺但是战利品支持原始技术模组!",
 		"links":[
 			{
-				"link":"https://vk.com/id235887284",
-				"name":"Автор"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":454,
-		"title":"真正的幸存者",
+		"id":382,
+		"title":"Primitive Structure",
 		"shouldOverride":true,
 		"tags":[
-			"Inner Core",
-			"生存",
-			"指示器",
-			"MCPE"
+			"实用工具",
+			"拓展"
 		]
 	},
 	{
@@ -6479,24 +6477,6 @@
 			"无中生有",
 			"工具",
 			"空岛生存"
-		]
-	},
-	{
-		"description_short":"添加一个结构!",
-		"version_name":"1.0",
-		"description_full":"添加了著名的结构从督伊德教的工艺但是战利品支持原始技术模组!",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":382,
-		"title":"Primitive Structure",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"拓展"
 		]
 	},
 	{
@@ -6521,22 +6501,23 @@
 		]
 	},
 	{
-		"description_short":"这个Mod将最新版MC的工具加入到该版本中。",
-		"version_name":"Version 1.0",
-		"description_full":"这个Mod增加了 Netherite 护甲和工具。 要制作它们，您必须挖掘 Ancient Debris 。 它们将出现在下界，很难找到和挖掘。 一旦找到它们，您就可以熔化它们，并用它和黄金制作 Netherite 锭。 您就可以使用它们来升级钻石套装，以提供更高的保护和攻击。\n由于某些原因，这些功能将与原版不同，但会在下一个版本中修改。\nEmail:1467847035@qq.com",
+		"description_short":"真正的幸存者将3种指标添加到游戏(能源、排泄、口渴)。",
+		"version_name":"1.1",
+		"description_full":"真正的幸存者将增加3个指标的游戏(能量，排泄，口渴)。\n\n-能量:所需睡眠的能量指标，当为15%时，增加缓慢效果，0%增加失明效果。\n-排泄:如果排泄指标为零，则会对你增加中毒效果。\n口渴:现在为了生存，你不仅要吃东西，还要喝水。当口渴指数为0%时，中毒效果会叠加在你身上。",
 		"links":[
 			{
-				"link":"http://sighttp.qq.com/authd?IDKEY=74b4358ce6963d589ca055edac42ccf4a3ec3e7532760fbc\\&quot;",
-				"name":"QQ"
+				"link":"https://vk.com/id235887284",
+				"name":"Автор"
 			}
 		],
-		"id":485,
-		"title":"Netherite Tools [Netherite 工具]",
+		"id":454,
+		"title":"真正的幸存者",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"下界",
-			"工具"
+			"Inner Core",
+			"生存",
+			"指示器",
+			"MCPE"
 		]
 	},
 	{
@@ -6556,6 +6537,68 @@
 			"饰品",
 			"实用工具",
 			"工具"
+		]
+	},
+	{
+		"description_short":"现在您站在熔岩上会有生命危险。",
+		"version_name":"1.0",
+		"description_full":"现在您站在熔岩上会有生命危险。",
+		"links":[
+			{
+				"link":"https://vk.com/id354069902",
+				"name":"VK"
+			},
+			{
+				"link":"https://vk.com/mods.inner.core",
+				"name":"Group in VK"
+			}
+		],
+		"id":458,
+		"title":"岩浆模组",
+		"shouldOverride":true,
+		"tags":[
+			"岩浆"
+		]
+	},
+	{
+		"description_short":"这个Mod将最新版MC的工具加入到该版本中。",
+		"version_name":"Version 1.0",
+		"description_full":"这个Mod增加了 Netherite 护甲和工具。 要制作它们，您必须挖掘 Ancient Debris 。 它们将出现在下界，很难找到和挖掘。 一旦找到它们，您就可以熔化它们，并用它和黄金制作 Netherite 锭。 您就可以使用它们来升级钻石套装，以提供更高的保护和攻击。\n由于某些原因，这些功能将与原版不同，但会在下一个版本中修改。\nEmail:1467847035@qq.com",
+		"links":[
+			{
+				"link":"http://sighttp.qq.com/authd?IDKEY=74b4358ce6963d589ca055edac42ccf4a3ec3e7532760fbc\\&quot;",
+				"name":"QQ"
+			}
+		],
+		"id":485,
+		"title":"Netherite Tools [Netherite 工具]",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"下界",
+			"工具"
+		]
+	},
+	{
+		"description_short":"EnergyTech是一个独立的科技mod,灵感源自于IC和GT.",
+		"version_name":"2.10.0",
+		"description_full":"如果EnergyTech不支持您的语言，欢迎在Git中添加您的语言。",
+		"links":[
+			{
+				"link":"https://vk.com/energy_tech",
+				"name":"vk"
+			},
+			{
+				"link":"https://github.com/fourblockstudio/EnergyTech/wiki",
+				"name":"wiki"
+			}
+		],
+		"id":478,
+		"title":"EnergyTech [能源科技]",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"矿石"
 		]
 	},
 	{
@@ -6615,46 +6658,62 @@
 		]
 	},
 	{
-		"description_short":"EnergyTech是一个独立的科技mod,灵感源自于IC和GT.",
-		"version_name":"2.10.0",
-		"description_full":"如果EnergyTech不支持您的语言，欢迎在Git中添加您的语言。",
+		"description_short":"提高一些Folliage。",
+		"version_name":"1.0",
+		"description_full":"增强了Folliage Minecraft纹理变化很快,更多类型的草和花,叶子低图形支持",
 		"links":[
 			{
-				"link":"https://vk.com/energy_tech",
-				"name":"vk"
-			},
-			{
-				"link":"https://github.com/fourblockstudio/EnergyTech/wiki",
-				"name":"wiki"
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"YT||https"
 			}
 		],
-		"id":478,
-		"title":"EnergyTech [能源科技]",
+		"id":475,
+		"title":"Other Folliage [其他 Folliage]",
 		"shouldOverride":true,
 		"tags":[
-			"科技",
-			"矿石"
+			"更好的",
+			"材质包",
+			"树叶"
 		]
 	},
 	{
-		"description_short":"现在您站在熔岩上会有生命危险。",
+		"description_short":"一个不改变InnerCore但能提高它体验的材质包",
 		"version_name":"1.0",
-		"description_full":"现在您站在熔岩上会有生命危险。",
+		"description_full":"一个不改变InnerCore但能提高它体验的材质包",
 		"links":[
 			{
-				"link":"https://vk.com/id354069902",
-				"name":"VK"
-			},
-			{
-				"link":"https://vk.com/mods.inner.core",
-				"name":"Group in VK"
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"YT||https"
 			}
 		],
-		"id":458,
-		"title":"岩浆模组",
+		"id":490,
+		"title":"新的纹理包",
 		"shouldOverride":true,
 		"tags":[
-			"岩浆"
+			"更新的",
+			"材质包"
+		]
+	},
+	{
+		"description_short":"添加了许多看起来像Minecraft原版的食物！",
+		"version_name":"1.0",
+		"description_full":"添加了许多看起来像Minecraft原版的食物！这些是种植Minecraft作物的新动力:D",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"YT||https"
+			},
+			{
+				"link":"//m.youtube.com/watch?v=mlGOIiGFG-M",
+				"name":"Review||https"
+			}
+		],
+		"id":483,
+		"title":"更好的农业",
+		"shouldOverride":true,
+		"tags":[
+			"原版Minecraft",
+			"食物"
 		]
 	},
 	{
@@ -6693,84 +6752,20 @@
 		]
 	},
 	{
-		"description_short":"添加了许多看起来像Minecraft原版的食物！",
+		"description_short":".",
 		"version_name":"1.0",
-		"description_full":"添加了许多看起来像Minecraft原版的食物！这些是种植Minecraft作物的新动力:D",
+		"description_full":".",
 		"links":[
 			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
-				"name":"YT||https"
-			},
-			{
-				"link":"//m.youtube.com/watch?v=mlGOIiGFG-M",
-				"name":"Review||https"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":483,
-		"title":"更好的农业",
+		"id":500,
+		"title":"Magic Clover",
 		"shouldOverride":true,
 		"tags":[
-			"原版Minecraft",
-			"食物"
-		]
-	},
-	{
-		"description_short":"提高一些Folliage。",
-		"version_name":"1.0",
-		"description_full":"增强了Folliage Minecraft纹理变化很快,更多类型的草和花,叶子低图形支持",
-		"links":[
-			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
-				"name":"YT||https"
-			}
-		],
-		"id":475,
-		"title":"Other Folliage [其他 Folliage]",
-		"shouldOverride":true,
-		"tags":[
-			"更好的",
-			"材质包",
-			"树叶"
-		]
-	},
-	{
-		"description_short":"一个不改变InnerCore但能提高它体验的材质包",
-		"version_name":"1.0",
-		"description_full":"一个不改变InnerCore但能提高它体验的材质包",
-		"links":[
-			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
-				"name":"YT||https"
-			}
-		],
-		"id":490,
-		"title":"新的纹理包",
-		"shouldOverride":true,
-		"tags":[
-			"更新的",
-			"材质包"
-		]
-	},
-	{
-		"description_short":"Adds More Special Potions! [添加更多特殊的药水！]",
-		"version_name":"0.8",
-		"description_full":"添加更多的特殊的药水！这个Mod仍在测试阶段，请在我的YT频道下留言，以便我能方便地看到留言。",
-		"links":[
-			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q/feed",
-				"name":"YT||https"
-			},
-			{
-				"link":"//m.youtube.com/watch?v=6wrHSi3tEHE",
-				"name":"Video||https"
-			}
-		],
-		"id":496,
-		"title":"Brew Revolution Beta [酿造革命 Beta]",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"药水"
+			"lucky"
 		]
 	},
 	{
@@ -6797,23 +6792,6 @@
 		]
 	},
 	{
-		"description_short":".",
-		"version_name":"1.0",
-		"description_full":".",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":500,
-		"title":"Magic Clover",
-		"shouldOverride":false,
-		"tags":[
-			"lucky"
-		]
-	},
-	{
 		"description_short":"Eat you flesh!",
 		"version_name":"build 1",
 		"description_full":"Craft knife and cut off you flesh!",
@@ -6825,10 +6803,32 @@
 		],
 		"id":499,
 		"title":"Cannibalism",
-		"shouldOverride":false,
+		"shouldOverride":true,
 		"tags":[
 			"食物",
 			"eat"
+		]
+	},
+	{
+		"description_short":"Adds More Special Potions! [添加更多特殊的药水！]",
+		"version_name":"0.8",
+		"description_full":"添加更多的特殊的药水！这个Mod仍在测试阶段，请在我的YT频道下留言，以便我能方便地看到留言。",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q/feed",
+				"name":"YT||https"
+			},
+			{
+				"link":"//m.youtube.com/watch?v=6wrHSi3tEHE",
+				"name":"Video||https"
+			}
+		],
+		"id":496,
+		"title":"Brew Revolution Beta [酿造革命 Beta]",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"药水"
 		]
 	}
 ]
