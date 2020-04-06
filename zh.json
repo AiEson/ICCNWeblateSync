@@ -1,26 +1,5 @@
 [
 	{
-		"description_short":"This mod adds four backpacks",
-		"version_name":"1.1",
-		"description_full":"This mod adds four backpacks:\r\n\r\nBasic [36 slots]\r\nIron [54 slots]\r\nGold [72 slots]\r\nDiamond [128 slots]",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"VK Group"
-			},
-			{
-				"link":"https//vk.com/abdulla000n",
-				"name":"Abdulla Nagmetdulla"
-			}
-		],
-		"id":52,
-		"title":"Iron Backpacks",
-		"shouldOverride":true,
-		"tags":[
-			"背包"
-		]
-	},
-	{
 		"description_short":"Machines, electricity, power tools and armor",
 		"version_name":"2.1.1",
 		"description_full":"This is it. IC2 Experimental for MC:PE. This mod adds industrial manufacturing (metalurgy, mining, electrical engineering). There are new devices, powerful items and machines in this mod",
@@ -56,6 +35,97 @@
 		]
 	},
 	{
+		"description_short":"This mod adds four backpacks",
+		"version_name":"1.1",
+		"description_full":"This mod adds four backpacks:\r\n\r\nBasic [36 slots]\r\nIron [54 slots]\r\nGold [72 slots]\r\nDiamond [128 slots]",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"VK Group"
+			},
+			{
+				"link":"https//vk.com/abdulla000n",
+				"name":"Abdulla Nagmetdulla"
+			}
+		],
+		"id":52,
+		"title":"Iron Backpacks",
+		"shouldOverride":true,
+		"tags":[
+			"背包"
+		]
+	},
+	{
+		"description_short":"Iron Chests mod adds a variety of new chests to the game",
+		"version_name":"",
+		"description_full":"This mod adds a variety of new chests to the game in addition to iron chests. All are better than vanilla chests in that they have more capacity (up to 108 slots!) and can be placed next to each other.\r\n\r\nWHAT IS ADDED: \r\n\r\n- Iron chest - 54 slots\r\n- Golden chest - 81 slots\r\n- Diamond chest - 108 slots\r\n- Obsidian chest - 108 slots (blast resistant)\r\n- Crystal chest - 108 slots (transparent)\r\n\r\n- Upgrades for all the chests\r\n\r\nIF IndustrialCraft PE IS INSTALLED:\r\n\r\n- Copper chest - 45 slots\r\n- Tin chest - 54 slots\r\n- Bronze chest - 54 slots (exclusive) \r\n- Steel chest - 72 slots (blast resistant)",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"VK Group"
+			},
+			{
+				"link":"https://ftbwiki.org/Iron_Chests",
+				"name":"Quick Guide"
+			}
+		],
+		"id":47,
+		"title":"Iron Chests",
+		"shouldOverride":true,
+		"tags":[
+			"箱子",
+			"更多箱子"
+		]
+	},
+	{
+		"description_short":"Port of the Forestry for MinecraftPE",
+		"version_name":"preRelease-6.4",
+		"description_full":"Port of the Forestry for MinecraftPE, adding a lot of machines, items and mechanics.",
+		"links":[
+			{
+				"link":"https://vk.com/ddcompany2015",
+				"name":"Author"
+			},
+			{
+				"link":"https://vk.com/forestry_pe",
+				"name":"Group"
+			}
+		],
+		"id":6,
+		"title":"ForestryPE",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"全局",
+			"红石通量",
+			"基因工程",
+			"RF",
+			"背包",
+			"工具",
+			"矿石",
+			"机械",
+			"装饰",
+			"养蜂"
+		]
+	},
+	{
+		"description_short":"This mod adds Lucky Block to the game. =)",
+		"version_name":"",
+		"description_full":"This mod adds Lucky Blocks with some cool things :)",
+		"links":[
+			{
+				"link":"http://vk.com/kosy4kov",
+				"name":"Author"
+			}
+		],
+		"id":62,
+		"title":"Lucky Cube",
+		"shouldOverride":true,
+		"tags":[
+			"幸运方块"
+		]
+	},
+	{
 		"description_short":"A mod that adds some furniture to the game",
 		"version_name":"1.3.0",
 		"description_full":"Mod adding wooden and stone furniture, lights and much more. It is made not only to decorate your house, but also to be practical, for example you can cook food on the stove, and hand lamps to illuminate your dark cellars. In the mod there are 50 different types of furniture. Do not forget to subscribe to the group! Distribute only with reference to the source.\r\n\r\nThanks for the translation:\r\n-Xiaolong Li\r\n-Niku Jagajaga\r\n-Mateus Lima-Nascimento\r\n-Sinochem Group",
@@ -79,28 +149,6 @@
 		"tags":[
 			"方块",
 			"装饰"
-		]
-	},
-	{
-		"description_short":"Iron Chests mod adds a variety of new chests to the game",
-		"version_name":"",
-		"description_full":"This mod adds a variety of new chests to the game in addition to iron chests. All are better than vanilla chests in that they have more capacity (up to 108 slots!) and can be placed next to each other.\r\n\r\nWHAT IS ADDED: \r\n\r\n- Iron chest - 54 slots\r\n- Golden chest - 81 slots\r\n- Diamond chest - 108 slots\r\n- Obsidian chest - 108 slots (blast resistant)\r\n- Crystal chest - 108 slots (transparent)\r\n\r\n- Upgrades for all the chests\r\n\r\nIF IndustrialCraft PE IS INSTALLED:\r\n\r\n- Copper chest - 45 slots\r\n- Tin chest - 54 slots\r\n- Bronze chest - 54 slots (exclusive) \r\n- Steel chest - 72 slots (blast resistant)",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"VK Group"
-			},
-			{
-				"link":"https://ftbwiki.org/Iron_Chests",
-				"name":"Quick Guide"
-			}
-		],
-		"id":47,
-		"title":"Iron Chests",
-		"shouldOverride":true,
-		"tags":[
-			"箱子",
-			"更多箱子"
 		]
 	},
 	{
@@ -138,37 +186,6 @@
 		]
 	},
 	{
-		"description_short":"Port of the Forestry for MinecraftPE",
-		"version_name":"preRelease-6.4",
-		"description_full":"Port of the Forestry for MinecraftPE, adding a lot of machines, items and mechanics.",
-		"links":[
-			{
-				"link":"https://vk.com/ddcompany2015",
-				"name":"Author"
-			},
-			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Group"
-			}
-		],
-		"id":6,
-		"title":"ForestryPE",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"全局",
-			"红石通量",
-			"基因工程",
-			"RF",
-			"背包",
-			"工具",
-			"矿石",
-			"机械",
-			"装饰",
-			"养蜂"
-		]
-	},
-	{
 		"description_short":"This mod adds some decorative blocks that can vary your buildings",
 		"version_name":"",
 		"description_full":"This mod adds a lot of decorative blocks that can vary your buildings. There are 11 variations of stone blocks,one of them is lamps. Every variation has also 16 colors (like wool has), and a mechanism that allows to paint those blocks (188 blocks in general).",
@@ -187,41 +204,112 @@
 		]
 	},
 	{
-		"description_short":"Hammer and Excavator",
-		"version_name":"2.2",
-		"description_full":"This mod adds in hammers and excavators.\r\n\r\nIndustrialCraft PE, Forestry PE,\r\nThermalExpansion PE, and AlTech's \r\nmaterial is supported.",
+		"description_short":"This mod adds five new types of furnaces",
+		"version_name":"",
+		"description_full":"More Furnaces [Inner Core]\r\n\r\nThis mod adds five new types of furnaces with different smelting speed.",
 		"links":[
 			{
-				"link":"https://vk.com/pockettech",
-				"name":"VK"
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Developer"
 			},
 			{
-				"link":"http://www.9minecraft.net/sparks-hammers-mod/",
-				"name":"Wiki(PC)"
+				"link":"https://vk.com/modsforinnercore",
+				"name":"VK Group"
 			}
 		],
-		"id":142,
-		"title":"Sparks Hammers",
+		"id":9,
+		"title":"More Furnaces",
 		"shouldOverride":true,
 		"tags":[
-			"工具"
+			"熔炉"
 		]
 	},
 	{
-		"description_short":"This mod adds Lucky Block to the game. =)",
-		"version_name":"",
-		"description_full":"This mod adds Lucky Blocks with some cool things :)",
+		"description_short":"A variety of minecraft dungeons, but that's not all",
+		"version_name":"2.5.1",
+		"description_full":"This modification introduces several types of new ores and everything that comes out of them(tools, etc...). This mod has something that was not yet in any \\&quot;ore\\&quot; mod for InnerCore, namely: beautiful appearance of textures, the total number of ores is not one, as it usually happens, all tools have their own strengths and weaknesses, In addition, this mod also has its own industry, even if at the moment it is not so large and somewhat similar to industrial craft, but still ahead, currently\r\nCurrently in fashion there is:\r\n5 types of ores;\r\nSolar panels taken from the SolarExpansion mod, but generating EU energy instead of RF.\r\nThere are several other types of mechanisms that can be found in the guide book if you have GuideAPI installed.",
 		"links":[
 			{
-				"link":"http://vk.com/kosy4kov",
+				"link":"https://vk.com/id202359321",
+				"name":"creator"
+			}
+		],
+		"id":59,
+		"title":"Ores mod",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"工具",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"Аn advanced space dimension mod for MCPE. Addon for industrial craft 2 !",
+		"version_name":"0.3.1.1",
+		"description_full":"The best mode for planets-dimensions in MCPE. This is an addon for Industrial craft2! Without it does not work!\r\nPlayable, but there are some bugs (uncritical, so you can get to the moon and the station).",
+		"links":[
+			{
+				"link":"https://m.vk.com/pavel_bazarev",
+				"name":"Developer"
+			},
+			{
+				"link":"https://m.vk.com/mrmineppist",
+				"name":"Group"
+			}
+		],
+		"id":126,
+		"title":"GalactiSpace",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"行星",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"Many new species of plants and trees!",
+		"version_name":"2.4.5",
+		"description_full":"This mod will add many new types of food and various plant species. With this mod, you won't definitely die of hunger. Bushes will be generated in different biomes, all over the world. You can collect or break them and get a few different fruits or vegetables. Exploring the world, you will also find trees where fruits grow. Collect the seeds, breaking the grass, plowing the land or remaking the fruit vegetables. Create the most delicious dishes.\r\n\r\nNow there is a good reason to engage in farming. Have your best experience with Minecraft!",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
 				"name":"Author"
 			}
 		],
-		"id":62,
-		"title":"Lucky Cube",
+		"id":24,
+		"title":"Harvest Craft PE",
 		"shouldOverride":true,
 		"tags":[
-			"幸运方块"
+			"作物",
+			"丰收工艺",
+			"狩猎",
+			"收获",
+			"潘马斯",
+			"MCPE",
+			"HC PE",
+			"丰收",
+			"植物",
+			"树",
+			"Inner Core",
+			"农场"
+		]
+	},
+	{
+		"description_short":"Mod adds new swords and armor crafted from vanilla items to vary the game.",
+		"version_name":"1.1.0",
+		"description_full":"UPDATE 1.1 CORRECTION CRAFTS AND COLOR NAMES WITH SWORDS.\r\n\r\nWith this mod you can create improved swords from blocks iron, for example, as well as armor made of wood, stone and nether stone.",
+		"links":[
+			{
+				"link":"https://2ch.hk",
+				"name":"Группа с модами"
+			}
+		],
+		"id":82,
+		"title":"Advanced Combat",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"武器"
 		]
 	},
 	{
@@ -259,115 +347,61 @@
 		]
 	},
 	{
-		"description_short":"A variety of minecraft dungeons, but that's not all",
-		"version_name":"2.5.1",
-		"description_full":"This modification introduces several types of new ores and everything that comes out of them(tools, etc...). This mod has something that was not yet in any \\&quot;ore\\&quot; mod for InnerCore, namely: beautiful appearance of textures, the total number of ores is not one, as it usually happens, all tools have their own strengths and weaknesses, In addition, this mod also has its own industry, even if at the moment it is not so large and somewhat similar to industrial craft, but still ahead, currently\r\nCurrently in fashion there is:\r\n5 types of ores;\r\nSolar panels taken from the SolarExpansion mod, but generating EU energy instead of RF.\r\nThere are several other types of mechanisms that can be found in the guide book if you have GuideAPI installed.",
+		"description_short":"GuideAPI – мод-библиотека для создания гайд-книг",
+		"version_name":"release 3",
+		"description_full":"GuideAPI – мод-библиотека, предоставляющая большие возможности для создания игровых документаций",
 		"links":[
 			{
-				"link":"https://vk.com/id202359321",
-				"name":"creator"
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в ВК"
 			}
 		],
-		"id":59,
-		"title":"Ores mod",
+		"id":39,
+		"title":"GuideAPI",
 		"shouldOverride":true,
 		"tags":[
-			"科技",
-			"工具",
-			"矿石"
+			"库",
+			"书",
+			"说明书",
+			"指南书",
+			"指南"
 		]
 	},
 	{
-		"description_short":"Many new species of plants and trees!",
-		"version_name":"2.4.5",
-		"description_full":"This mod will add many new types of food and various plant species. With this mod, you won't definitely die of hunger. Bushes will be generated in different biomes, all over the world. You can collect or break them and get a few different fruits or vegetables. Exploring the world, you will also find trees where fruits grow. Collect the seeds, breaking the grass, plowing the land or remaking the fruit vegetables. Create the most delicious dishes.\r\n\r\nNow there is a good reason to engage in farming. Have your best experience with Minecraft!",
+		"description_short":"Adds redstoun tools. + steel.",
+		"version_name":"",
+		"description_full":"Adds redstoun tools. + steel.",
 		"links":[
 			{
-				"link":"https://vk.com/savenkons",
-				"name":"Author"
+				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
+				"name":"My YouTube"
 			}
 		],
-		"id":24,
-		"title":"Harvest Craft PE",
+		"id":83,
+		"title":"Ender craft",
 		"shouldOverride":true,
 		"tags":[
-			"作物",
-			"丰收工艺",
-			"狩猎",
-			"收获",
-			"潘马斯",
-			"MCPE",
-			"HC PE",
-			"丰收",
-			"植物",
-			"树",
-			"Inner Core",
-			"农场"
+			"工具"
 		]
 	},
 	{
-		"description_short":"Этот мод добавит в ваш мир кровавые ритуалы, новое оруж",
-		"version_name":"1.0.2",
-		"description_full":"С помощью этого мода вы станете настоящим властителем мира! Вы сможете использовать особые инструменты, питающиеся кровью ваших врагов, сигилы меняющие мир, как вам заблагорассудится, жертвенный алтарь, на котором вы сможете вознести дань кровавому богу, шары хранящие вашу кровь, и кровь ваших врагов!",
+		"description_short":"SurviCraft/OreSpawn Is Another Mod I Am Porting To InnerCore",
+		"version_name":"0.14.1 And Higher",
+		"description_full":"surviCraft is Orespawn In MCPE That adds new weapons and armor And mobs And Items into your agme to enhancer The Game A Lot Like The PC Orespawn! Sorry There Will Be No Official Logo Until Further Notice!",
 		"links":[
 			{
-				"link":"https://vk.com/slenderpe",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/medievalcraft_mod",
-				"name":"Группа"
+				"link":"//mcpebox.com/ore-spawn-mod/",
+				"name":"https"
 			}
 		],
-		"id":43,
-		"title":"Blood Magic",
-		"shouldOverride":true,
-		"tags":[
-			"血",
-			"魔法",
-			"全局",
-			"设备"
-		]
-	},
-	{
-		"description_short":"Аn advanced space dimension mod for MCPE. Addon for industrial craft 2 !",
-		"version_name":"0.3.1.1",
-		"description_full":"The best mode for planets-dimensions in MCPE. This is an addon for Industrial craft2! Without it does not work!\r\nPlayable, but there are some bugs (uncritical, so you can get to the moon and the station).",
-		"links":[
-			{
-				"link":"https://m.vk.com/pavel_bazarev",
-				"name":"Developer"
-			},
-			{
-				"link":"https://m.vk.com/mrmineppist",
-				"name":"Group"
-			}
-		],
-		"id":126,
-		"title":"GalactiSpace",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"行星",
-			"矿石"
-		]
-	},
-	{
-		"description_short":"Mod adds new swords and armor crafted from vanilla items to vary the game.",
-		"version_name":"1.1.0",
-		"description_full":"UPDATE 1.1 CORRECTION CRAFTS AND COLOR NAMES WITH SWORDS.\r\n\r\nWith this mod you can create improved swords from blocks iron, for example, as well as armor made of wood, stone and nether stone.",
-		"links":[
-			{
-				"link":"https://2ch.hk",
-				"name":"Группа с модами"
-			}
-		],
-		"id":82,
-		"title":"Advanced Combat",
+		"id":349,
+		"title":"SurviCraft/OreSpawn",
 		"shouldOverride":true,
 		"tags":[
 			"盔甲",
-			"武器"
+			"武器和物品！",
+			"全局",
+			"官方 InnerCore 模组"
 		]
 	},
 	{
@@ -399,6 +433,124 @@
 		]
 	},
 	{
+		"description_short":"Этот мод добавит в ваш мир кровавые ритуалы, новое оруж",
+		"version_name":"1.0.2",
+		"description_full":"С помощью этого мода вы станете настоящим властителем мира! Вы сможете использовать особые инструменты, питающиеся кровью ваших врагов, сигилы меняющие мир, как вам заблагорассудится, жертвенный алтарь, на котором вы сможете вознести дань кровавому богу, шары хранящие вашу кровь, и кровь ваших врагов!",
+		"links":[
+			{
+				"link":"https://vk.com/slenderpe",
+				"name":"Автор"
+			},
+			{
+				"link":"https://vk.com/medievalcraft_mod",
+				"name":"Группа"
+			}
+		],
+		"id":43,
+		"title":"Blood Magic",
+		"shouldOverride":true,
+		"tags":[
+			"血",
+			"魔法",
+			"全局",
+			"设备"
+		]
+	},
+	{
+		"description_short":"Сумки с интересным лутом, только рандом, только хардкор)",
+		"version_name":"",
+		"description_full":"Убивать мобов станет намного интереснее — теперь с плохих существ выпадают прикольные сумки, при использовании которых выпадает различный лут или эффекты. Их несколько видов\r\nОбычная — выпадает из мобов с шансом 1/3. Выпадают в основном ненужные вещи\r\nНеобычная — выпадает из мобов с шансом  1/10. Также крафтится из 9 обычных. Выпадают в основном обычные вещи\r\nРедкая — крафтится из 9 необычных. Выпадают в основном хорошие вещи\r\nЭпичная — крафтится из 9 редких. Выпадают только эффекты, рекомендуется использовать перед походом в данж/сражением\r\nЛегендарная — не крафтится, выпадает из мобов с шансом 1%. Выпадают в основном очень хорошие вещи, однако может разлиться лава, как повезет.\r\nТакже объявляю челлендж — в сумках спрятаны головы мобов, и если соберете всех, вы молодцы;) Только это нелегко, 2 головы в легендарной (!) сумке. Остальные придется искать вам где-то...",
+		"links":[
+			{
+				"link":"https://vk.com/malex2",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://www.youtube.com/channel/UCB-SWb7JkH1KkyeUzvr0LPw",
+				"name":"Канал разработчика"
+			}
+		],
+		"id":138,
+		"title":"Loot Bags",
+		"shouldOverride":true,
+		"tags":[
+			"RPG"
+		]
+	},
+	{
+		"description_short":"Добавляет переносное устройство создания порталов из игры Portal.",
+		"version_name":"1.1",
+		"description_full":"Этот мод позволит вам заполучить очень редкий инструмент- переносное устройство создания порталов. Устройство работает аналогично устройству из игры Portal. Для создания порталов используйте синюю и оранжевую кнопки над шкалой опыта.",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Автор в VK"
+			}
+		],
+		"id":399,
+		"title":"Portal Gun",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"工具"
+		]
+	},
+	{
+		"description_short":"Этот мод позволит упростить перемещение по уже изведанным местностям.",
+		"version_name":"",
+		"description_full":"Этот мод позволит упростить перемещение по уже изведанным местностям. Мы сможете создавать точки на карте на которые можно будет телепортироваться.",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Разработчик"
+			}
+		],
+		"id":80,
+		"title":"Waypoints",
+		"shouldOverride":true,
+		"tags":[
+			"保存",
+			"物品栏"
+		]
+	},
+	{
+		"description_short":"Мод добавляет в вашу игру погодный дефлектор.",
+		"version_name":"",
+		"description_full":"Мод добавляет в вашу игру погодный дефлектор. Работает на энергии Ender IO.",
+		"links":[
+			{
+				"link":"https://vk.com/an_corporation",
+				"name":"Группа"
+			}
+		],
+		"id":50,
+		"title":"Weather Deflector",
+		"shouldOverride":true,
+		"tags":[
+			"天气",
+			"机器"
+		]
+	},
+	{
+		"description_short":"Мод добавляет генерацию блоков с предметами из IC2.",
+		"version_name":"",
+		"description_full":"Мод добавляет генерацию блоков с предметами из IC2.",
+		"links":[
+			{
+				"link":"http://vk.com/kosy4kov",
+				"name":"Author"
+			}
+		],
+		"id":64,
+		"title":"LuckyCube IC",
+		"shouldOverride":true,
+		"tags":[
+			"\\&quot;LuckyCube\\&quot;",
+			"'IC 2\\&quot;",
+			"\\&quot;Lucky Block\\&quot;"
+		]
+	},
+	{
 		"description_short":"In this mod I added more armors...I make regular updates...",
 		"version_name":"",
 		"description_full":"In this mod I added more armors...I make regular updates...\r\n[v1.1.0 Alpha]\r\n- More armors added\r\n- Bug fix\r\n[v1.1.0]:\r\n- Bug fix...\r\n- More armors....\r\n[v1.0.0]:\r\n- Slime Armor\r\n- Dirt Armor\r\n- Stone Armor\r\n- Cobblestone Armor\r\n- Snow Armor....",
@@ -426,42 +578,22 @@
 		]
 	},
 	{
-		"description_short":"Сумки с интересным лутом, только рандом, только хардкор)",
+		"description_short":"мод-библиотека для регистрации фенечек",
 		"version_name":"",
-		"description_full":"Убивать мобов станет намного интереснее — теперь с плохих существ выпадают прикольные сумки, при использовании которых выпадает различный лут или эффекты. Их несколько видов\r\nОбычная — выпадает из мобов с шансом 1/3. Выпадают в основном ненужные вещи\r\nНеобычная — выпадает из мобов с шансом  1/10. Также крафтится из 9 обычных. Выпадают в основном обычные вещи\r\nРедкая — крафтится из 9 необычных. Выпадают в основном хорошие вещи\r\nЭпичная — крафтится из 9 редких. Выпадают только эффекты, рекомендуется использовать перед походом в данж/сражением\r\nЛегендарная — не крафтится, выпадает из мобов с шансом 1%. Выпадают в основном очень хорошие вещи, однако может разлиться лава, как повезет.\r\nТакже объявляю челлендж — в сумках спрятаны головы мобов, и если соберете всех, вы молодцы;) Только это нелегко, 2 головы в легендарной (!) сумке. Остальные придется искать вам где-то...",
+		"description_full":"мод-библиотека для регистрации фенечек",
 		"links":[
 			{
-				"link":"https://vk.com/malex2",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCB-SWb7JkH1KkyeUzvr0LPw",
-				"name":"Канал разработчика"
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в вк"
 			}
 		],
-		"id":138,
-		"title":"Loot Bags",
+		"id":152,
+		"title":"Baubles",
 		"shouldOverride":true,
 		"tags":[
-			"RPG"
-		]
-	},
-	{
-		"description_short":"Мод добавляет в игру новый инструмент под названием Па",
-		"version_name":"",
-		"description_full":"[Paxels beta 1 - Мульти инструменты]\r\nМод добавляет в игру новый инструмент под названием Паксель. Он сочетает в себе функции кирки, лопаты и топора.\r\nThis mod adds paxels or multi tools and have the role of shovel, pickaxe, axe.",
-		"links":[
-			{
-				"link":"https://vk.com/an_corporation",
-				"name":"Группа"
-			}
-		],
-		"id":49,
-		"title":"Paxels",
-		"shouldOverride":true,
-		"tags":[
-			"全能工具",
-			"工具"
+			"库",
+			"腰带",
+			"戒指"
 		]
 	},
 	{
@@ -486,6 +618,27 @@
 		]
 	},
 	{
+		"description_short":"Hammer and Excavator",
+		"version_name":"2.2",
+		"description_full":"This mod adds in hammers and excavators.\r\n\r\nIndustrialCraft PE, Forestry PE,\r\nThermalExpansion PE, and AlTech's \r\nmaterial is supported.",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"VK"
+			},
+			{
+				"link":"http://www.9minecraft.net/sparks-hammers-mod/",
+				"name":"Wiki(PC)"
+			}
+		],
+		"id":142,
+		"title":"Sparks Hammers",
+		"shouldOverride":true,
+		"tags":[
+			"工具"
+		]
+	},
+	{
 		"description_short":"This mod adds a small sidebar showing current armor damage when getting hurt",
 		"version_name":"1.0",
 		"description_full":"Finally I've finished working at MP-ArmorStatus mod.\r\nI believe, the result is pretty cool. This mod adds a small sidebar that appears when damaging armor. This helps to get to know if the armor is going to break and doesn't disturb you while playing.",
@@ -504,156 +657,21 @@
 		]
 	},
 	{
-		"description_short":"SurviCraft/OreSpawn Is Another Mod I Am Porting To InnerCore",
-		"version_name":"0.14.1 And Higher",
-		"description_full":"surviCraft is Orespawn In MCPE That adds new weapons and armor And mobs And Items into your agme to enhancer The Game A Lot Like The PC Orespawn! Sorry There Will Be No Official Logo Until Further Notice!",
-		"links":[
-			{
-				"link":"//mcpebox.com/ore-spawn-mod/",
-				"name":"https"
-			}
-		],
-		"id":349,
-		"title":"SurviCraft/OreSpawn",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"武器和物品！",
-			"全局",
-			"官方 InnerCore 模组"
-		]
-	},
-	{
-		"description_short":"Добавляет переносное устройство создания порталов из игры Portal.",
-		"version_name":"1.1",
-		"description_full":"Этот мод позволит вам заполучить очень редкий инструмент- переносное устройство создания порталов. Устройство работает аналогично устройству из игры Portal. Для создания порталов используйте синюю и оранжевую кнопки над шкалой опыта.",
-		"links":[
-			{
-				"link":"https://vk.com/savenkons",
-				"name":"Автор в VK"
-			}
-		],
-		"id":399,
-		"title":"Portal Gun",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"工具"
-		]
-	},
-	{
-		"description_short":"Мод добавляет генерацию блоков с предметами из IC2.",
+		"description_short":"Мод добавляет в игру новый инструмент под названием Па",
 		"version_name":"",
-		"description_full":"Мод добавляет генерацию блоков с предметами из IC2.",
-		"links":[
-			{
-				"link":"http://vk.com/kosy4kov",
-				"name":"Author"
-			}
-		],
-		"id":64,
-		"title":"LuckyCube IC",
-		"shouldOverride":true,
-		"tags":[
-			"\\&quot;LuckyCube\\&quot;",
-			"'IC 2\\&quot;",
-			"\\&quot;Lucky Block\\&quot;"
-		]
-	},
-	{
-		"description_short":"Adds redstoun tools. + steel.",
-		"version_name":"",
-		"description_full":"Adds redstoun tools. + steel.",
-		"links":[
-			{
-				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
-				"name":"My YouTube"
-			}
-		],
-		"id":83,
-		"title":"Ender craft",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
-		"description_short":"This mod adds five new types of furnaces",
-		"version_name":"",
-		"description_full":"More Furnaces [Inner Core]\r\n\r\nThis mod adds five new types of furnaces with different smelting speed.",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Developer"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"VK Group"
-			}
-		],
-		"id":9,
-		"title":"More Furnaces",
-		"shouldOverride":true,
-		"tags":[
-			"熔炉"
-		]
-	},
-	{
-		"description_short":"Мод добавляет в вашу игру погодный дефлектор.",
-		"version_name":"",
-		"description_full":"Мод добавляет в вашу игру погодный дефлектор. Работает на энергии Ender IO.",
+		"description_full":"[Paxels beta 1 - Мульти инструменты]\r\nМод добавляет в игру новый инструмент под названием Паксель. Он сочетает в себе функции кирки, лопаты и топора.\r\nThis mod adds paxels or multi tools and have the role of shovel, pickaxe, axe.",
 		"links":[
 			{
 				"link":"https://vk.com/an_corporation",
 				"name":"Группа"
 			}
 		],
-		"id":50,
-		"title":"Weather Deflector",
+		"id":49,
+		"title":"Paxels",
 		"shouldOverride":true,
 		"tags":[
-			"天气",
-			"机器"
-		]
-	},
-	{
-		"description_short":"GuideAPI – мод-библиотека для создания гайд-книг",
-		"version_name":"release 3",
-		"description_full":"GuideAPI – мод-библиотека, предоставляющая большие возможности для создания игровых документаций",
-		"links":[
-			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в ВК"
-			}
-		],
-		"id":39,
-		"title":"GuideAPI",
-		"shouldOverride":true,
-		"tags":[
-			"库",
-			"书",
-			"说明书",
-			"指南书",
-			"指南"
-		]
-	},
-	{
-		"description_short":"мод-библиотека для регистрации фенечек",
-		"version_name":"",
-		"description_full":"мод-библиотека для регистрации фенечек",
-		"links":[
-			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в вк"
-			}
-		],
-		"id":152,
-		"title":"Baubles",
-		"shouldOverride":true,
-		"tags":[
-			"库",
-			"腰带",
-			"戒指"
+			"全能工具",
+			"工具"
 		]
 	},
 	{
@@ -696,21 +714,25 @@
 		]
 	},
 	{
-		"description_short":"Этот мод позволит упростить перемещение по уже изведанным местностям.",
+		"description_short":"Данный мод добавляет разные руды, предметы и многое другое.",
 		"version_name":"",
-		"description_full":"Этот мод позволит упростить перемещение по уже изведанным местностям. Мы сможете создавать точки на карте на которые можно будет телепортироваться.",
+		"description_full":"Данный мод добавляет разные руды, предметы и многое другое.",
 		"links":[
 			{
-				"link":"https://vk.com/savenkons",
+				"link":"https://vk.com/zayne.youtube",
 				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Моя группа"
 			}
 		],
-		"id":80,
-		"title":"Waypoints",
+		"id":116,
+		"title":"Kronite Mod",
 		"shouldOverride":true,
 		"tags":[
-			"保存",
-			"物品栏"
+			"物品",
+			"矿石"
 		]
 	},
 	{
@@ -744,28 +766,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"工具"
-		]
-	},
-	{
-		"description_short":"Данный мод добавляет разные руды, предметы и многое другое.",
-		"version_name":"",
-		"description_full":"Данный мод добавляет разные руды, предметы и многое другое.",
-		"links":[
-			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Моя группа"
-			}
-		],
-		"id":116,
-		"title":"Kronite Mod",
-		"shouldOverride":true,
-		"tags":[
-			"物品",
-			"矿石"
 		]
 	},
 	{
@@ -833,24 +833,24 @@
 		]
 	},
 	{
-		"description_short":"Ender IO is a full-sized tech-mod.",
+		"description_short":"Adds new trees that can grow ores.",
 		"version_name":"1.0",
-		"description_full":"Ender IO is a full-sized tech-mod.",
+		"description_full":"Adds new trees that can grow ores.",
 		"links":[
 			{
-				"link":"https://vk.com/ender_io_pe",
-				"name":"vk"
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			},
+			{
+				"link":"//www.9minecraft.net/treeores-mod/",
+				"name":"http"
 			}
 		],
-		"id":266,
-		"title":"Ender IO",
+		"id":294,
+		"title":"Tree Ores",
 		"shouldOverride":true,
 		"tags":[
-			"全局",
-			"红石通量",
-			"RF",
-			"设备",
-			"管道"
+			"树"
 		]
 	},
 	{
@@ -873,24 +873,24 @@
 		]
 	},
 	{
-		"description_short":"Adds new trees that can grow ores.",
+		"description_short":"Ender IO is a full-sized tech-mod.",
 		"version_name":"1.0",
-		"description_full":"Adds new trees that can grow ores.",
+		"description_full":"Ender IO is a full-sized tech-mod.",
 		"links":[
 			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			},
-			{
-				"link":"//www.9minecraft.net/treeores-mod/",
-				"name":"http"
+				"link":"https://vk.com/ender_io_pe",
+				"name":"vk"
 			}
 		],
-		"id":294,
-		"title":"Tree Ores",
+		"id":266,
+		"title":"Ender IO",
 		"shouldOverride":true,
 		"tags":[
-			"树"
+			"全局",
+			"红石通量",
+			"RF",
+			"设备",
+			"管道"
 		]
 	},
 	{
@@ -912,32 +912,6 @@
 			"套装",
 			"服装",
 			"服饰"
-		]
-	},
-	{
-		"description_short":"Порт одноимённого мода для карманной версии Minecraft",
-		"version_name":"",
-		"description_full":"Порт одноимённого мода для карманной версии Minecraft, добавляющего множество механизмов.",
-		"links":[
-			{
-				"link":"https://vk.com/ddcompany2015",
-				"name":"Автор мода"
-			},
-			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Группа в вк"
-			}
-		],
-		"id":66,
-		"title":"Thermal Expansion PE",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"风景",
-			"RF",
-			"设备",
-			"矿石",
-			"机械"
 		]
 	},
 	{
@@ -991,6 +965,68 @@
 		]
 	},
 	{
+		"description_short":"Порт одноимённого мода для карманной версии Minecraft",
+		"version_name":"",
+		"description_full":"Порт одноимённого мода для карманной версии Minecraft, добавляющего множество механизмов.",
+		"links":[
+			{
+				"link":"https://vk.com/ddcompany2015",
+				"name":"Автор мода"
+			},
+			{
+				"link":"https://vk.com/forestry_pe",
+				"name":"Группа в вк"
+			}
+		],
+		"id":66,
+		"title":"Thermal Expansion PE",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"风景",
+			"RF",
+			"设备",
+			"矿石",
+			"机械"
+		]
+	},
+	{
+		"description_short":"RU: Мод добавляет рецепты яиц призыва существ.  ENG: Maud adds recipes to the call of creatures",
+		"version_name":"",
+		"description_full":"RU: Мод добавляет рецепты яиц призыва существ.\r\nENG: Maud adds recipes to the call of creatures",
+		"links":[
+			{
+				"link":"https://vk.com/kosy4kov",
+				"name":"Author"
+			}
+		],
+		"id":60,
+		"title":"SkyBlock Eggs",
+		"shouldOverride":true,
+		"tags":[
+			"\\&quot;SkyBlock\\&quot;",
+			"\\&quot;Craft\\&quot;",
+			"\\&quot;Eggs\\&quot;"
+		]
+	},
+	{
+		"description_short":"Аддон добавляет новые буры",
+		"version_name":"V1.1",
+		"description_full":"Аддон добавляет железный, бронзовый и золотой бур на тот случай, если вы слишком ленивый, что бы скрафтить алмазный бур.",
+		"links":[
+			{
+				"link":"",
+				"name":""
+			}
+		],
+		"id":205,
+		"title":"Mo'Drill",
+		"shouldOverride":true,
+		"tags":[
+			"科技"
+		]
+	},
+	{
 		"description_short":"This mod will add multiple types of swords",
 		"version_name":"Mobs update",
 		"description_full":"This mod will add multiple types of swords, most of them can be combined.",
@@ -1027,42 +1063,6 @@
 			"机器",
 			"能量",
 			"太阳能发电机"
-		]
-	},
-	{
-		"description_short":"Аддон добавляет новые буры",
-		"version_name":"V1.1",
-		"description_full":"Аддон добавляет железный, бронзовый и золотой бур на тот случай, если вы слишком ленивый, что бы скрафтить алмазный бур.",
-		"links":[
-			{
-				"link":"",
-				"name":""
-			}
-		],
-		"id":205,
-		"title":"Mo'Drill",
-		"shouldOverride":true,
-		"tags":[
-			"科技"
-		]
-	},
-	{
-		"description_short":"RU: Мод добавляет рецепты яиц призыва существ.  ENG: Maud adds recipes to the call of creatures",
-		"version_name":"",
-		"description_full":"RU: Мод добавляет рецепты яиц призыва существ.\r\nENG: Maud adds recipes to the call of creatures",
-		"links":[
-			{
-				"link":"https://vk.com/kosy4kov",
-				"name":"Author"
-			}
-		],
-		"id":60,
-		"title":"SkyBlock Eggs",
-		"shouldOverride":true,
-		"tags":[
-			"\\&quot;SkyBlock\\&quot;",
-			"\\&quot;Craft\\&quot;",
-			"\\&quot;Eggs\\&quot;"
 		]
 	},
 	{
@@ -1117,6 +1117,23 @@
 		]
 	},
 	{
+		"description_short":"Slanted!",
+		"version_name":"1.0",
+		"description_full":"add Slopes",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":329,
+		"title":"Slopes",
+		"shouldOverride":true,
+		"tags":[
+			"方块"
+		]
+	},
+	{
 		"description_short":"Port old mod from 0.15 version",
 		"version_name":"1.1",
 		"description_full":"Долгожданный для многих мод на миникарту. В моде присутствует меню для настройки, активирующееся при долгом тапе, карта пещер, радар мобов и многое другое.",
@@ -1153,6 +1170,25 @@
 		]
 	},
 	{
+		"description_short":"Новые апгрейды для ICPE",
+		"version_name":"Первая",
+		"description_full":"Этот аддон добаляет новые агрейды:\r\n-компенсатор энергии\r\nНовые скоро...",
+		"links":[
+			{
+				"link":"https://vk.com/theneterin",
+				"name":"Автор мода"
+			}
+		],
+		"id":244,
+		"title":"Upgrade+",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"工业时代",
+			"IC2"
+		]
+	},
+	{
 		"description_short":"Ender Storage - yдобное хранилище предметов майнкрафте.",
 		"version_name":"",
 		"description_full":"Рюкзак Края.\r\nРюкзак Края очень полезен тем, что когда мы положим в него вещь, то мы её вряд ли потеряем. Вот, допустим, вы накопали кучу алмазов и для того, чтобы их не потерять, их можно положить в Рюкзак Края. Если мы сгорим в лаве, то мы можем скрафтить ещё один Рюкзак Края, и наши алмазы будут в нём!\r\nСундук Края.\r\nВ обычном minecraft'e абсолютно все Сундуки Края объединены в одно хранилище. Но данный мод изменяет крафт Сундука Края и, заодно, меняет его текстуру. С данным модом можно скрафтить несколько Сундуков Края и объединить их в несколько разных хранилищ! Как это сделать? А очень просто. Нужно поставить сундук, и с помощью цветной шерсти поменять его цвет, и тогда у вас появится несколько систем сундуков, это весьма полезно. Однако, при разрушении сундук теряет свой цвет, будьте внимательны :)",
@@ -1173,78 +1209,6 @@
 			"设备",
 			"工具",
 			"存储"
-		]
-	},
-	{
-		"description_short":"Slanted!",
-		"version_name":"1.0",
-		"description_full":"add Slopes",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":329,
-		"title":"Slopes",
-		"shouldOverride":true,
-		"tags":[
-			"方块"
-		]
-	},
-	{
-		"description_short":"Новые апгрейды для ICPE",
-		"version_name":"Первая",
-		"description_full":"Этот аддон добаляет новые агрейды:\r\n-компенсатор энергии\r\nНовые скоро...",
-		"links":[
-			{
-				"link":"https://vk.com/theneterin",
-				"name":"Автор мода"
-			}
-		],
-		"id":244,
-		"title":"Upgrade+",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"工业时代",
-			"IC2"
-		]
-	},
-	{
-		"description_short":"Open beta of InnerCore's ModBrowser",
-		"version_name":"1.0",
-		"description_full":"Open beta of InnerCore's ModBrowser. Install and update regulary this mod to have the best experience of browsing mods with Inner Core ever!\r\nWhat's new:\r\n- ajax images loading (great speed improvement)\r\n- displaying update time and downloads\r\n- displaying screenshots\r\n- displaying comments\r\n- special icons for mod packs and V.I.P. mods",
-		"links":[
-			{
-				"link":"https://vk.com/mineprogramming",
-				"name":"VK Group"
-			}
-		],
-		"id":301,
-		"title":"ModBrowser Beta",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"模组浏览器",
-			"模组"
-		]
-	},
-	{
-		"description_short":"Convert RF to EU or EU to RF",
-		"version_name":"0.7",
-		"description_full":"Mod will add blocks that will help you with mods like IndustrialCraft, Mekanism, Thermal Expansion and other mods with energy!",
-		"links":[
-			{
-				"link":"https://vk.com/toncho1",
-				"name":"Автор"
-			}
-		],
-		"id":171,
-		"title":"Flux Networks",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具"
 		]
 	},
 	{
@@ -1291,27 +1255,74 @@
 		]
 	},
 	{
-		"description_short":"Convenient storage drawer",
+		"description_short":"Open beta of InnerCore's ModBrowser",
 		"version_name":"1.0",
-		"description_full":"Thanks to these boxes, you can conveniently store blocks or objects of the same type without restrictions. The top of the drawer displays the item stored in it. This option can be disabled in the configuration of the file.",
+		"description_full":"Open beta of InnerCore's ModBrowser. Install and update regulary this mod to have the best experience of browsing mods with Inner Core ever!\r\nWhat's new:\r\n- ajax images loading (great speed improvement)\r\n- displaying update time and downloads\r\n- displaying screenshots\r\n- displaying comments\r\n- special icons for mod packs and V.I.P. mods",
 		"links":[
 			{
-				"link":"https://vk.com/id235887284",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/topic-162533778_37787637",
-				"name":"Нашли баги"
+				"link":"https://vk.com/mineprogramming",
+				"name":"VK Group"
 			}
 		],
-		"id":280,
-		"title":"Storage Drawers",
+		"id":301,
+		"title":"ModBrowser Beta",
 		"shouldOverride":true,
 		"tags":[
-			"箱子",
-			"抽屉",
-			"Mister_Sky",
-			"存储"
+			"实用工具",
+			"模组浏览器",
+			"模组"
+		]
+	},
+	{
+		"description_short":"Add power tools",
+		"version_name":"",
+		"description_full":"Add power tools",
+		"links":[
+			{
+				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
+				"name":"Канал автора"
+			}
+		],
+		"id":92,
+		"title":"Power tools",
+		"shouldOverride":true,
+		"tags":[
+			"工具"
+		]
+	},
+	{
+		"description_short":"Convert RF to EU or EU to RF",
+		"version_name":"0.7",
+		"description_full":"Mod will add blocks that will help you with mods like IndustrialCraft, Mekanism, Thermal Expansion and other mods with energy!",
+		"links":[
+			{
+				"link":"https://vk.com/toncho1",
+				"name":"Автор"
+			}
+		],
+		"id":171,
+		"title":"Flux Networks",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具"
+		]
+	},
+	{
+		"description_short":"Fast ore mining.",
+		"version_name":"1.2",
+		"description_full":"A mod to help mine veins of ores by mining blocks of the same type in a chain reaction. Supports mods ores and tools.",
+		"links":[
+			{
+				"link":"https://vk.com/vlad.gr2018",
+				"name":"Автор"
+			}
+		],
+		"id":274,
+		"title":"VeinMiner",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"挖掘"
 		]
 	},
 	{
@@ -1333,61 +1344,27 @@
 		]
 	},
 	{
-		"description_short":"Add power tools",
-		"version_name":"",
-		"description_full":"Add power tools",
+		"description_short":"Convenient storage drawer",
+		"version_name":"1.0",
+		"description_full":"Thanks to these boxes, you can conveniently store blocks or objects of the same type without restrictions. The top of the drawer displays the item stored in it. This option can be disabled in the configuration of the file.",
 		"links":[
 			{
-				"link":"https://www.youtube.com/channel/UCilql5ngGtc1cBK4QfTufyQ",
-				"name":"Канал автора"
-			}
-		],
-		"id":92,
-		"title":"Power tools",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
-		"description_short":"Крафт яиц призыва!",
-		"version_name":"",
-		"description_full":"Данный мод позволит вам скарафтить яйца призыва мобов в Майнкрафте!",
-		"links":[
-			{
-				"link":"https://vk.com/id273430250",
-				"name":"Автор Вк"
+				"link":"https://vk.com/id235887284",
+				"name":"Автор"
 			},
 			{
-				"link":"https://vk.com/club159701830",
-				"name":"Группа Вк"
+				"link":"https://vk.com/topic-162533778_37787637",
+				"name":"Нашли баги"
 			}
 		],
-		"id":74,
-		"title":"MobsCraft",
+		"id":280,
+		"title":"Storage Drawers",
 		"shouldOverride":true,
 		"tags":[
-			"合成",
-			"生物",
-			"蛋"
-		]
-	},
-	{
-		"description_short":"Fast ore mining.",
-		"version_name":"1.2",
-		"description_full":"A mod to help mine veins of ores by mining blocks of the same type in a chain reaction. Supports mods ores and tools.",
-		"links":[
-			{
-				"link":"https://vk.com/vlad.gr2018",
-				"name":"Автор"
-			}
-		],
-		"id":274,
-		"title":"VeinMiner",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"挖掘"
+			"箱子",
+			"抽屉",
+			"Mister_Sky",
+			"存储"
 		]
 	},
 	{
@@ -1434,6 +1411,29 @@
 		]
 	},
 	{
+		"description_short":"Крафт яиц призыва!",
+		"version_name":"",
+		"description_full":"Данный мод позволит вам скарафтить яйца призыва мобов в Майнкрафте!",
+		"links":[
+			{
+				"link":"https://vk.com/id273430250",
+				"name":"Автор Вк"
+			},
+			{
+				"link":"https://vk.com/club159701830",
+				"name":"Группа Вк"
+			}
+		],
+		"id":74,
+		"title":"MobsCraft",
+		"shouldOverride":true,
+		"tags":[
+			"合成",
+			"生物",
+			"蛋"
+		]
+	},
+	{
 		"description_short":"Мод добавит в вашу игру: новые зелья,  магию,  новые цели игры.",
 		"version_name":"0.1.1",
 		"description_full":"Мод добавит в вашу игру: новые зелья,  магию,  новые цели игры.",
@@ -1448,23 +1448,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"魔法"
-		]
-	},
-	{
-		"description_short":"Addon of Roost",
-		"version_name":"2.1",
-		"description_full":"This is Addon of Roost mod.\r\nPlease install Roost.",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":318,
-		"title":"Chicken Addons",
-		"shouldOverride":true,
-		"tags":[
-			"鸡"
 		]
 	},
 	{
@@ -1521,6 +1504,42 @@
 		]
 	},
 	{
+		"description_short":"You can know health of The entity.",
+		"version_name":"",
+		"description_full":"When you look at an entity, you know the health of the entity.",
+		"links":[
+			{
+				"link":"https://vk.com/club171704577",
+				"name":"DaiDai"
+			}
+		],
+		"id":271,
+		"title":"DamageIndicators",
+		"shouldOverride":true,
+		"tags":[
+			"伤害显示",
+			"生命值",
+			"实体"
+		]
+	},
+	{
+		"description_short":"Addon of Roost",
+		"version_name":"2.1",
+		"description_full":"This is Addon of Roost mod.\r\nPlease install Roost.",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":318,
+		"title":"Chicken Addons",
+		"shouldOverride":true,
+		"tags":[
+			"鸡"
+		]
+	},
+	{
 		"description_short":"A add-on for Useful Machine and ICPE.一个无中生有和工业的拓展。",
 		"version_name":"1.0",
 		"description_full":"A add-on for Useful Machine and IndustrialCraft PE.\r\nIt depends on Useful Machine and IndustrialCraft PE.\r\n一个无中生有和工业时代的扩展。\r\n它需要和无中生有和工业时代一起运行。",
@@ -1540,22 +1559,25 @@
 		]
 	},
 	{
-		"description_short":"You can know health of The entity.",
-		"version_name":"",
-		"description_full":"When you look at an entity, you know the health of the entity.",
+		"description_short":"Mod creat only for modpack StoneBlock",
+		"version_name":"1.0 (release)",
+		"description_full":"It's mod to add premitive stone tools and crafting table.",
 		"links":[
 			{
-				"link":"https://vk.com/club171704577",
-				"name":"DaiDai"
+				"link":"https://m.vk.com/stoneblockbyfoldik?act=change_addr",
+				"name":"Группа"
 			}
 		],
-		"id":271,
-		"title":"DamageIndicators",
+		"id":339,
+		"title":"StoneBlock Utilities",
 		"shouldOverride":true,
 		"tags":[
-			"伤害显示",
-			"生命值",
-			"实体"
+			"PC模组",
+			"port",
+			"工具",
+			"石头生存",
+			"石头生存实用工具",
+			"stoneblock utilites"
 		]
 	},
 	{
@@ -1581,28 +1603,6 @@
 			"矿石",
 			"挖掘",
 			"模组"
-		]
-	},
-	{
-		"description_short":"Mod creat only for modpack StoneBlock",
-		"version_name":"1.0 (release)",
-		"description_full":"It's mod to add premitive stone tools and crafting table.",
-		"links":[
-			{
-				"link":"https://m.vk.com/stoneblockbyfoldik?act=change_addr",
-				"name":"Группа"
-			}
-		],
-		"id":339,
-		"title":"StoneBlock Utilities",
-		"shouldOverride":true,
-		"tags":[
-			"PC模组",
-			"port",
-			"工具",
-			"石头生存",
-			"石头生存实用工具",
-			"stoneblock utilites"
 		]
 	},
 	{
@@ -1651,6 +1651,27 @@
 		]
 	},
 	{
+		"description_short":"mod which allows the player to have full control over the enchantments on their items",
+		"version_name":"1.0",
+		"description_full":"mod which allows the player to have full control over the enchantments on their items at the cost of significantly more LV.",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"VK"
+			},
+			{
+				"link":"https://minecraft.curseforge.com/projects/enchanting-plus",
+				"name":"PC"
+			}
+		],
+		"id":381,
+		"title":"Enchanting Plus",
+		"shouldOverride":true,
+		"tags":[
+			"附魔"
+		]
+	},
+	{
 		"description_short":"This modification adds a lot of varied food.",
 		"version_name":"1.2.1",
 		"description_full":"-Modification adds to the game about a hundred new types of food, as well as materials for their crafting.\r\nThe modification is a hybrid of two PC-version mods: More Foods 1.10.2 и XL Food Mod 1.12.2.\r\nP.S. If you have problems with the modification after install (errors and crashes in the game), be sure to delete the Cache Folder (com.mojang/innercore) and restart the game!!!\r\n\r\n-Модификация добавляет в игру около сотни видов еды, а также материалов для их крафта.\r\nМодификация является гибридом двух модов PC-версии: More Foods 1.10.2 и XL Food Mod 1.12.2\r\nP.S. Если у вас возникли проблемы с модом после установки (ошибки и вылеты в игре) обязательно удалите папку с кешем (com.mojang/innercore) и перезайдите в игру!!!",
@@ -1680,27 +1701,6 @@
 			"食物",
 			"超多食物",
 			"更多食物"
-		]
-	},
-	{
-		"description_short":"mod which allows the player to have full control over the enchantments on their items",
-		"version_name":"1.0",
-		"description_full":"mod which allows the player to have full control over the enchantments on their items at the cost of significantly more LV.",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"VK"
-			},
-			{
-				"link":"https://minecraft.curseforge.com/projects/enchanting-plus",
-				"name":"PC"
-			}
-		],
-		"id":381,
-		"title":"Enchanting Plus",
-		"shouldOverride":true,
-		"tags":[
-			"附魔"
 		]
 	},
 	{
@@ -1748,6 +1748,24 @@
 		]
 	},
 	{
+		"description_short":"Мод добавит новые руды, инструменты, блоки.",
+		"version_name":"",
+		"description_full":"Мод добавит восемь новых руд, мощные инструменты и пару механизмов.\r\nДанный мод находится в бета версии и большинство механизмов в нерабочем состоянии.",
+		"links":[
+			{
+				"link":"https://vk.com/jontoocompany",
+				"name":"Группа в вк"
+			}
+		],
+		"id":100,
+		"title":"Металлургия 0.3",
+		"shouldOverride":true,
+		"tags":[
+			"冶金",
+			"金属"
+		]
+	},
+	{
 		"description_short":"Новые крутые мебели",
 		"version_name":"1.1",
 		"description_full":"Очень,очень много новый крутые мебелей на декорацей для твоя дома в майнкрафт!",
@@ -1774,24 +1792,6 @@
 		]
 	},
 	{
-		"description_short":"Мод добавит новые руды, инструменты, блоки.",
-		"version_name":"",
-		"description_full":"Мод добавит восемь новых руд, мощные инструменты и пару механизмов.\r\nДанный мод находится в бета версии и большинство механизмов в нерабочем состоянии.",
-		"links":[
-			{
-				"link":"https://vk.com/jontoocompany",
-				"name":"Группа в вк"
-			}
-		],
-		"id":100,
-		"title":"Металлургия 0.3",
-		"shouldOverride":true,
-		"tags":[
-			"冶金",
-			"金属"
-		]
-	},
-	{
 		"description_short":"Модификация, улучшающая вид стекла в майнкрафт",
 		"version_name":"1.0",
 		"description_full":"Модификация, улучшающая вид стекла в майнкрафт",
@@ -1806,6 +1806,25 @@
 		"shouldOverride":true,
 		"tags":[
 			"玻璃"
+		]
+	},
+	{
+		"description_short":"Мод добавляет щиты, которые игнорируют урон и отбрасывают врага.",
+		"version_name":"Release",
+		"description_full":"Мод добавляет щиты, которые игнорируют урон и отбрасывают врага, также добавлены щиты с различными свойствами.\r\n\r\n• Деревянный щит — Отбрасывание [75%]\r\n• Каменный щит — Отбрасывание [100%]\r\n• Железный щит — Отбрасывание [110%]\r\n• Золотой щит — Отбрасывание [115%]\r\n• Алмазный щит — Отбрасывание [125%]\r\n• Адский щит — [125%] + Поджигает врага\r\n• Щит Эндера — Телепортирует врага.",
+		"links":[
+			{
+				"link":"https://2ch.hk",
+				"name":"Группа"
+			}
+		],
+		"id":241,
+		"title":"Spartan Shields",
+		"shouldOverride":true,
+		"tags":[
+			"盾牌",
+			"防御",
+			"武器"
 		]
 	},
 	{
@@ -1832,25 +1851,6 @@
 			"工具",
 			"商店",
 			"维度"
-		]
-	},
-	{
-		"description_short":"Мод добавляет щиты, которые игнорируют урон и отбрасывают врага.",
-		"version_name":"Release",
-		"description_full":"Мод добавляет щиты, которые игнорируют урон и отбрасывают врага, также добавлены щиты с различными свойствами.\r\n\r\n• Деревянный щит — Отбрасывание [75%]\r\n• Каменный щит — Отбрасывание [100%]\r\n• Железный щит — Отбрасывание [110%]\r\n• Золотой щит — Отбрасывание [115%]\r\n• Алмазный щит — Отбрасывание [125%]\r\n• Адский щит — [125%] + Поджигает врага\r\n• Щит Эндера — Телепортирует врага.",
-		"links":[
-			{
-				"link":"https://2ch.hk",
-				"name":"Группа"
-			}
-		],
-		"id":241,
-		"title":"Spartan Shields",
-		"shouldOverride":true,
-		"tags":[
-			"盾牌",
-			"防御",
-			"武器"
 		]
 	},
 	{
@@ -1901,6 +1901,30 @@
 		]
 	},
 	{
+		"description_short":"Порт знаменитого мода на измерение!",
+		"version_name":"0.0.9.10",
+		"description_full":"Мод добавляет измерение с новыми рудами, едой, растениями, инструментами и броней.\r\nОбновлено: текстуры огня, поправлен перевод и саженцы, генерация деревьев с измененным видом структур работает, исправлен портал.\r\nБудет введено: остатки блоков, переходное измерение, мобы и боссы.",
+		"links":[
+			{
+				"link":"//vk.com/id208150042",
+				"name":"Автор"
+			},
+			{
+				"link":"//vk.com/id413693143",
+				"name":"Автор2"
+			}
+		],
+		"id":195,
+		"title":"Aether 2 PE",
+		"shouldOverride":true,
+		"tags":[
+			"生物",
+			"矿石",
+			"维度",
+			"武器"
+		]
+	},
+	{
 		"description_short":"Мод добавляет в вашу игру руды, блоки, стандартные инст",
 		"version_name":"",
 		"description_full":"Marines's 1.0 beta 1 for Inner Core]\r\n\r\nMarines's - мод добавляет в вашу игру руды, блоки, стандартные инструменты, сеты, боевые топоры, материалы.\r\n\r\nMaterials: Ruby, Sapphire, Amethyst, Topaz, Tanzanite, Amber.",
@@ -1937,48 +1961,6 @@
 		]
 	},
 	{
-		"description_short":"The best mod of magic",
-		"version_name":"0.1.1",
-		"description_full":"The best mod of magic",
-		"links":[
-			{
-				"link":"vk.com/mrmineppist",
-				"name":"Group"
-			}
-		],
-		"id":162,
-		"title":"ThaumCraft PE",
-		"shouldOverride":true,
-		"tags":[
-			"魔法",
-			"杂项"
-		]
-	},
-	{
-		"description_short":"Порт знаменитого мода на измерение!",
-		"version_name":"0.0.9.10",
-		"description_full":"Мод добавляет измерение с новыми рудами, едой, растениями, инструментами и броней.\r\nОбновлено: текстуры огня, поправлен перевод и саженцы, генерация деревьев с измененным видом структур работает, исправлен портал.\r\nБудет введено: остатки блоков, переходное измерение, мобы и боссы.",
-		"links":[
-			{
-				"link":"//vk.com/id208150042",
-				"name":"Автор"
-			},
-			{
-				"link":"//vk.com/id413693143",
-				"name":"Автор2"
-			}
-		],
-		"id":195,
-		"title":"Aether 2 PE",
-		"shouldOverride":true,
-		"tags":[
-			"生物",
-			"矿石",
-			"维度",
-			"武器"
-		]
-	},
-	{
 		"description_short":"Мод добавляет атмосферу апокалипсиса!",
 		"version_name":"0.2",
 		"description_full":"Вся инфа в группе!\r\nОбновление 0.2!",
@@ -2005,47 +1987,21 @@
 		]
 	},
 	{
-		"description_short":"Мод о магии, индустрии и приключениях.",
-		"version_name":"",
-		"description_full":"Overcraft - модификация которая добавить в ваш мир много новых предметов, механизмов и блоков.Всего в моде есть 4 части: основная, индустрия, магия, исследования.С этим модом вам не будет скучно.",
+		"description_short":"The best mod of magic",
+		"version_name":"0.1.1",
+		"description_full":"The best mod of magic",
 		"links":[
 			{
-				"link":"https://vk.com/artyom_kaktysh",
-				"name":"Автор и разработчик мода"
-			},
-			{
-				"link":"https://vk.com/id235887284",
-				"name":"Разработчик мода"
+				"link":"vk.com/mrmineppist",
+				"name":"Group"
 			}
 		],
-		"id":112,
-		"title":"Overcraft",
+		"id":162,
+		"title":"ThaumCraft PE",
 		"shouldOverride":true,
 		"tags":[
-			"全局",
 			"魔法",
-			"完型工艺",
-			"RPG",
-			"冒险",
-			"模组",
-			"工业"
-		]
-	},
-	{
-		"description_short":"It's a mod with many new machines and Items",
-		"version_name":"1.0",
-		"description_full":"To know how to play with the mod,download the document\\&quot;recipes\\&quot; in my vk group.\r\nmade by WvT 为什么是个猪人(wpm recs) and Fazin",
-		"links":[
-			{
-				"link":"https://vk.com/solustech1",
-				"name":"vk group"
-			}
-		],
-		"id":255,
-		"title":"Solus Tech",
-		"shouldOverride":true,
-		"tags":[
-			"科技"
+			"杂项"
 		]
 	},
 	{
@@ -2102,6 +2058,50 @@
 			"实用工具",
 			"编辑世界",
 			"创世神"
+		]
+	},
+	{
+		"description_short":"It's a mod with many new machines and Items",
+		"version_name":"1.0",
+		"description_full":"To know how to play with the mod,download the document\\&quot;recipes\\&quot; in my vk group.\r\nmade by WvT 为什么是个猪人(wpm recs) and Fazin",
+		"links":[
+			{
+				"link":"https://vk.com/solustech1",
+				"name":"vk group"
+			}
+		],
+		"id":255,
+		"title":"Solus Tech",
+		"shouldOverride":true,
+		"tags":[
+			"科技"
+		]
+	},
+	{
+		"description_short":"Мод о магии, индустрии и приключениях.",
+		"version_name":"",
+		"description_full":"Overcraft - модификация которая добавить в ваш мир много новых предметов, механизмов и блоков.Всего в моде есть 4 части: основная, индустрия, магия, исследования.С этим модом вам не будет скучно.",
+		"links":[
+			{
+				"link":"https://vk.com/artyom_kaktysh",
+				"name":"Автор и разработчик мода"
+			},
+			{
+				"link":"https://vk.com/id235887284",
+				"name":"Разработчик мода"
+			}
+		],
+		"id":112,
+		"title":"Overcraft",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"魔法",
+			"完型工艺",
+			"RPG",
+			"冒险",
+			"模组",
+			"工业"
 		]
 	},
 	{
@@ -2231,44 +2231,6 @@
 		]
 	},
 	{
-		"description_short":"Port of famous PC mod about generating and using mana energy.",
-		"version_name":"v0.1 beta1",
-		"description_full":"Port of famous PC mod about generating and usin mana energy.Mod in early beta.",
-		"links":[
-			{
-				"link":"https://vk.com/vokhrin2003",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/botania_ic",
-				"name":"Группа мода"
-			}
-		],
-		"id":316,
-		"title":"Botania PE",
-		"shouldOverride":true,
-		"tags":[
-			"魔法"
-		]
-	},
-	{
-		"description_short":"Add large storage chest.",
-		"version_name":"1.0",
-		"description_full":"Add large storage chest.\r\n13×9slot × 5page = 585",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"Группа ВК"
-			}
-		],
-		"id":33,
-		"title":"Multi Page Chest",
-		"shouldOverride":true,
-		"tags":[
-			"箱子"
-		]
-	},
-	{
 		"description_short":"Мод добавляет новые инструменты и броню.",
 		"version_name":"0.1",
 		"description_full":"RU: Мод добавляет новые инструменты и броню, которые создаются из ванильных предметов(алмазные вещи).\r\nEN: This mod adds new tools and armor, that are crafted from vanilla items (diamond items).",
@@ -2315,6 +2277,23 @@
 		]
 	},
 	{
+		"description_short":"Add large storage chest.",
+		"version_name":"1.0",
+		"description_full":"Add large storage chest.\r\n13×9slot × 5page = 585",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"Группа ВК"
+			}
+		],
+		"id":33,
+		"title":"Multi Page Chest",
+		"shouldOverride":true,
+		"tags":[
+			"箱子"
+		]
+	},
+	{
 		"description_short":"EU / RF Converter",
 		"version_name":"1.0",
 		"description_full":"- set Energy Bridge.\r\n- connect Energy Producer or Energy Consumer.\r\n    - EU Energy Producer = output EU\r\n    - EU Energy Consumer = input EU\r\n    - RF Energy Producer = output RF\r\n    - RF Energy Consumer = input RF",
@@ -2353,50 +2332,24 @@
 		]
 	},
 	{
-		"description_short":"Liquid pipes!",
-		"version_name":"1.5 alpha",
-		"description_full":"1.5 alpha changelog:\r\n-Убраны дебажные сообщения\r\n-Добавлены все текстуры жидкостей из Forestry\r\nПрошу прощения за проблемы с установкой",
+		"description_short":"Port of famous PC mod about generating and using mana energy.",
+		"version_name":"v0.1 beta1",
+		"description_full":"Port of famous PC mod about generating and usin mana energy.Mod in early beta.",
 		"links":[
 			{
-				"link":"https://vk.com/altechmod",
-				"name":"Группа ВК"
-			}
-		],
-		"id":219,
-		"title":"Liquid Pipes",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"工业时代",
-			"库",
-			"流体管道",
-			"机械",
-			"建筑",
-			"管道",
-			"拓展"
-		]
-	},
-	{
-		"description_short":"New look at the nether!",
-		"version_name":"0.9.9.9.5",
-		"description_full":"In general, this modification about mobs, new look at nether dimension and all that goes with it...\r\nThere are already quite a lot but have a lot to add...\r\nUpdated: fixed translations, bugs fixed. \r\nIn development: creatures (frozen), rework render and mold.",
-		"links":[
-			{
-				"link":"https://vk.com/id208150042",
-				"name":"Autor"
+				"link":"https://vk.com/vokhrin2003",
+				"name":"Разработчик"
 			},
 			{
-				"link":"https://vk.com/d2_netherex",
-				"name":"Group"
+				"link":"https://vk.com/botania_ic",
+				"name":"Группа мода"
 			}
 		],
-		"id":89,
-		"title":"Nether EX",
+		"id":316,
+		"title":"Botania PE",
 		"shouldOverride":true,
 		"tags":[
-			"生物",
-			"矿石",
-			"维度"
+			"魔法"
 		]
 	},
 	{
@@ -2426,6 +2379,30 @@
 		]
 	},
 	{
+		"description_short":"Liquid pipes!",
+		"version_name":"1.5 alpha",
+		"description_full":"1.5 alpha changelog:\r\n-Убраны дебажные сообщения\r\n-Добавлены все текстуры жидкостей из Forestry\r\nПрошу прощения за проблемы с установкой",
+		"links":[
+			{
+				"link":"https://vk.com/altechmod",
+				"name":"Группа ВК"
+			}
+		],
+		"id":219,
+		"title":"Liquid Pipes",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"工业时代",
+			"库",
+			"流体管道",
+			"机械",
+			"建筑",
+			"管道",
+			"拓展"
+		]
+	},
+	{
 		"description_short":"A mod that allows you to create points in the world at home, to which you can later teleport.",
 		"version_name":"1.0",
 		"description_full":"A mod that allows you to create points in the world at home, to which you can later teleport.",
@@ -2445,6 +2422,48 @@
 		"tags":[
 			"实用工具",
 			"家"
+		]
+	},
+	{
+		"description_short":"New look at the nether!",
+		"version_name":"0.9.9.9.5",
+		"description_full":"In general, this modification about mobs, new look at nether dimension and all that goes with it...\r\nThere are already quite a lot but have a lot to add...\r\nUpdated: fixed translations, bugs fixed. \r\nIn development: creatures (frozen), rework render and mold.",
+		"links":[
+			{
+				"link":"https://vk.com/id208150042",
+				"name":"Autor"
+			},
+			{
+				"link":"https://vk.com/d2_netherex",
+				"name":"Group"
+			}
+		],
+		"id":89,
+		"title":"Nether EX",
+		"shouldOverride":true,
+		"tags":[
+			"生物",
+			"矿石",
+			"维度"
+		]
+	},
+	{
+		"description_short":"Мод добавляющий могилы на месте смерти игрока.",
+		"version_name":"1.0.1",
+		"description_full":"Мод добавляющий могилы на месте смерти игрока.",
+		"links":[
+			{
+				"link":"потом добавлю",
+				"name":"Автор"
+			}
+		],
+		"id":118,
+		"title":"Gravestone",
+		"shouldOverride":true,
+		"tags":[
+			"帮助",
+			"玩家",
+			"墓碑"
 		]
 	},
 	{
@@ -2511,25 +2530,6 @@
 		]
 	},
 	{
-		"description_short":"Мод добавляющий могилы на месте смерти игрока.",
-		"version_name":"1.0.1",
-		"description_full":"Мод добавляющий могилы на месте смерти игрока.",
-		"links":[
-			{
-				"link":"потом добавлю",
-				"name":"Автор"
-			}
-		],
-		"id":118,
-		"title":"Gravestone",
-		"shouldOverride":true,
-		"tags":[
-			"帮助",
-			"玩家",
-			"墓碑"
-		]
-	},
-	{
 		"description_short":"Вам нужно сосчитать ресурсы, но вы не хотите выходить из игры?  Этот мод вам поможет!",
 		"version_name":"",
 		"description_full":"Мод добавляет блоки-калькуляторы которые помогут вам с математикой прямо в игре.",
@@ -2570,20 +2570,24 @@
 		]
 	},
 	{
-		"description_short":"Аддон добавляет биомассу и возможность сделать из нее углепластик и алмазы",
-		"version_name":"V1.1",
-		"description_full":"Аддон добавляет биомассу и возможность сделать из нее углепластик и алмазы",
+		"description_short":"Данная модификация позволит вам крафтить 2 новых сета брони и инструментов: костяные и обсидиановые. Первый будет располагаться между золотыми и железными, а второй будет сравним с алмазными.",
+		"version_name":"",
+		"description_full":"Tier 6 [Inner Core]\r\n\r\nДанная модификация позволит вам крафтить 2 новых сета брони и инструментов: костяные и обсидиановые. Первый будет располагаться между золотыми и железными, а второй будет сравним с алмазными.",
 		"links":[
 			{
-				"link":false,
-				"name":""
+				"link":"https://vk.com/zayne.youtube",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа"
 			}
 		],
-		"id":210,
-		"title":"BioMaterials",
+		"id":15,
+		"title":"Tier 6",
 		"shouldOverride":true,
 		"tags":[
-			"科技"
+			"\\&quot;Инструменты\\&quot;"
 		]
 	},
 	{
@@ -2605,24 +2609,20 @@
 		]
 	},
 	{
-		"description_short":"Данная модификация позволит вам крафтить 2 новых сета брони и инструментов: костяные и обсидиановые. Первый будет располагаться между золотыми и железными, а второй будет сравним с алмазными.",
-		"version_name":"",
-		"description_full":"Tier 6 [Inner Core]\r\n\r\nДанная модификация позволит вам крафтить 2 новых сета брони и инструментов: костяные и обсидиановые. Первый будет располагаться между золотыми и железными, а второй будет сравним с алмазными.",
+		"description_short":"Аддон добавляет биомассу и возможность сделать из нее углепластик и алмазы",
+		"version_name":"V1.1",
+		"description_full":"Аддон добавляет биомассу и возможность сделать из нее углепластик и алмазы",
 		"links":[
 			{
-				"link":"https://vk.com/zayne.youtube",
-				"name":"Разработчик"
-			},
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Группа"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":15,
-		"title":"Tier 6",
+		"id":210,
+		"title":"BioMaterials",
 		"shouldOverride":true,
 		"tags":[
-			"\\&quot;Инструменты\\&quot;"
+			"科技"
 		]
 	},
 	{
@@ -2666,6 +2666,28 @@
 		]
 	},
 	{
+		"description_short":"Этот мод добавит инструменты и броню из кристаллов мобов",
+		"version_name":"0.7 beta",
+		"description_full":"Данный мод добавит в игру новый дроп из мобов - кристаллы, которые можно переплавить в слитки. Из этих слитков можно сделать новую крутую броню и инструменты.И усиленный инструметы тапор, кирки 3×3; 5×5",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"Автор"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"Вк Группа"
+			}
+		],
+		"id":71,
+		"title":"MobsDrops",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"设备"
+		]
+	},
+	{
 		"description_short":"This mod add multi tool and armor",
 		"version_name":"1.4.1",
 		"description_full":"This mod add multi amor with effect, tool which better diamond tools and more",
@@ -2699,28 +2721,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"随机"
-		]
-	},
-	{
-		"description_short":"Этот мод добавит инструменты и броню из кристаллов мобов",
-		"version_name":"0.7 beta",
-		"description_full":"Данный мод добавит в игру новый дроп из мобов - кристаллы, которые можно переплавить в слитки. Из этих слитков можно сделать новую крутую броню и инструменты.И усиленный инструметы тапор, кирки 3×3; 5×5",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"Автор"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"Вк Группа"
-			}
-		],
-		"id":71,
-		"title":"MobsDrops",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"设备"
 		]
 	},
 	{
@@ -2785,32 +2785,6 @@
 		]
 	},
 	{
-		"description_short":"Combo Armors PE — дополнение для IndustrialCraft 2 PE",
-		"version_name":"Version 1 [pre-releas 2.3]",
-		"description_full":"Combo Armors PE— дополнение для IndustrialCraft 2 PE, добавляющее множество комбинированной и усовершенствованной брони, а также прочие электрические инструменты.",
-		"links":[
-			{
-				"link":"https://vk.com/comboarmors",
-				"name":"группа  мода"
-			},
-			{
-				"link":"https://icmods.mineprogramming.org/mod?id=429",
-				"name":"Compact Solar Array"
-			}
-		],
-		"id":409,
-		"title":"Combo Armors",
-		"shouldOverride":true,
-		"tags":[
-			"IC2CA",
-			"IC2",
-			"组合装甲",
-			"工业时代2组合装甲",
-			"CA",
-			"拓展"
-		]
-	},
-	{
 		"description_short":"Лучшее Чем Алмаз!",
 		"version_name":"1.0",
 		"description_full":"розовые броня и инструменты для майнкрафтаМод добавит в майнкрафт новую руду под названием Jazzium. Её найти можно только в аду, скрафтить из неё можно все инструменты, броню и меч. По характеристикам в итоге получается как будто алмазная. Самое интересное в ней то, как она выглядит",
@@ -2835,6 +2809,32 @@
 			"矿石",
 			"工业时代2",
 			"挖掘"
+		]
+	},
+	{
+		"description_short":"Combo Armors PE — дополнение для IndustrialCraft 2 PE",
+		"version_name":"Version 1 [pre-releas 2.3]",
+		"description_full":"Combo Armors PE— дополнение для IndustrialCraft 2 PE, добавляющее множество комбинированной и усовершенствованной брони, а также прочие электрические инструменты.",
+		"links":[
+			{
+				"link":"https://vk.com/comboarmors",
+				"name":"группа  мода"
+			},
+			{
+				"link":"https://icmods.mineprogramming.org/mod?id=429",
+				"name":"Compact Solar Array"
+			}
+		],
+		"id":409,
+		"title":"Combo Armors",
+		"shouldOverride":true,
+		"tags":[
+			"IC2CA",
+			"IC2",
+			"组合装甲",
+			"工业时代2组合装甲",
+			"CA",
+			"拓展"
 		]
 	},
 	{
@@ -2879,49 +2879,6 @@
 		]
 	},
 	{
-		"description_short":"Мод на разные инструменты",
-		"version_name":"",
-		"description_full":"Мод на разные инструменты",
-		"links":[
-			{
-				"link":"https://vk.com/modsbyalex",
-				"name":"Ссылка"
-			}
-		],
-		"id":104,
-		"title":"More Items",
-		"shouldOverride":true,
-		"tags":[
-			"武器"
-		]
-	},
-	{
-		"description_short":"This mod adds the ability to travel to the moon.",
-		"version_name":"0.8",
-		"description_full":"Ported from PC. (Original: Marvellous Moon Mod). \r\nThis mod allows you to build a shuttle and fly to the moon to colonize it.\r\n\r\nFeatures:\r\n- Moon dimension. \r\n- [Exclusive for PE] Craters with a fallen meteorite.\r\n- Oxygen system (WIP). There is no oxygen on the moon, in order not to die, you need to wear a spacesuit.\r\n- Gravity system (WIP). Player fall slower.\r\n- Oxygen generator. Creates an air bubble with a radius of 5 blocks.\r\n- Multiblock shuttle\r\n\r\nThe mod will expand over time.\r\n90% stable, fully suitable for survival.",
-		"links":[
-			{
-				"link":"https://github.com/zigDanirus/MoonModPE/issues",
-				"name":"Report a bug"
-			},
-			{
-				"link":"https://github.com/zigDanirus/MoonModPE/blob/master/guide.jpg",
-				"name":"Shuttle Scheme"
-			},
-			{
-				"link":"https://www.youtube.com/watch?v=-sftmSe24HA",
-				"name":"Review on YouTube"
-			}
-		],
-		"id":425,
-		"title":"MoonModPE",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"维度"
-		]
-	},
-	{
 		"description_short":"This mod adds emerald items.",
 		"version_name":"1.0",
 		"description_full":"Данный мод добавляет изумрудные вещи в майнкрафт.\r\n\r\nThis modification adds emerald items to Minecraft.",
@@ -2937,92 +2894,20 @@
 		]
 	},
 	{
-		"description_short":"Realmir добавляет больше реалистичности и изменяет некоторые текстуры",
-		"version_name":"v2",
-		"description_full":"Realmir добавляет больше реалистичности и изменяет некоторые текстуры.\r\n\r\nИнструкция по установке текстур:\r\n1. Скачать файл\r\n2. Распаковать и найти файл innercore-resources\r\n3. Зайти в папку games&gt;com.mojang&gt;resource-packs\r\n4. Заменить файл innercore-resourses на скачанный файл",
-		"links":[
-			{
-				"link":"https://vk.com/arkgroup",
-				"name":"Группа в ВК"
-			}
-		],
-		"id":308,
-		"title":"Realmir",
-		"shouldOverride":true,
-		"tags":[
-			"现实",
-			"设备",
-			"RPG"
-		]
-	},
-	{
-		"description_short":"Vanilla++",
-		"version_name":"Beta 0.2",
-		"description_full":"Vanilla++",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UCatLWgs_vgycJfzs3ClVtBA",
-				"name":"https"
-			}
-		],
-		"id":167,
-		"title":"Vanilla++",
-		"shouldOverride":true,
-		"tags":[
-			"拓展"
-		]
-	},
-	{
-		"description_short":"Magic things and other.",
-		"version_name":"1.5",
-		"description_full":"Magic things and other\r\nUse a recipe viewer to view recipes (https://icmods.mineprogramming.org/mod?id=455)",
-		"links":[
-			{
-				"link":"https://vk.com/public179065827",
-				"name":"Group"
-			}
-		],
-		"id":412,
-		"title":"Magic Mod",
-		"shouldOverride":true,
-		"tags":[
-			"魔法"
-		]
-	},
-	{
-		"description_short":"Мод добавляет слайм руду,из которой при пережарке получается слизь.",
+		"description_short":"Мод на разные инструменты",
 		"version_name":"",
-		"description_full":"RU.Мод добавляет слайм руду,из которой при пережарке получается слизь.\r\nEN.Mod adds slime ore, from which, when roasting, slime ball is obtained.",
-		"links":"[]",
-		"id":111,
-		"title":"SlimeOre",
-		"shouldOverride":true,
-		"tags":[
-			"矿石",
-			"史莱姆",
-			"地牢，地牢，还是地牢！！！"
-		]
-	},
-	{
-		"description_short":"add 8 Machines similar to Induction Furnace.",
-		"version_name":"2.0",
-		"description_full":"ICPE Addon\r\n\r\n- Macerator\r\n- Compressor\r\n- Extractor\r\n- Recycler\r\n- Metal Former (Extruding mode)\r\n- Metal Former (Rolling mode)\r\n- Metal Former (Cutting mode)\r\n- Ore Washer",
+		"description_full":"Мод на разные инструменты",
 		"links":[
 			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
-			},
-			{
-				"link":"https://minecraft.curseforge.com/projects/advanced-machines",
-				"name":"Original Mod"
+				"link":"https://vk.com/modsbyalex",
+				"name":"Ссылка"
 			}
 		],
-		"id":337,
-		"title":"Advanced Machines",
+		"id":104,
+		"title":"More Items",
 		"shouldOverride":true,
 		"tags":[
-			"工业",
-			"拓展"
+			"武器"
 		]
 	},
 	{
@@ -3053,6 +2938,82 @@
 		]
 	},
 	{
+		"description_short":"Мод добавляет слайм руду,из которой при пережарке получается слизь.",
+		"version_name":"",
+		"description_full":"RU.Мод добавляет слайм руду,из которой при пережарке получается слизь.\r\nEN.Mod adds slime ore, from which, when roasting, slime ball is obtained.",
+		"links":"[]",
+		"id":111,
+		"title":"SlimeOre",
+		"shouldOverride":true,
+		"tags":[
+			"矿石",
+			"史莱姆",
+			"地牢，地牢，还是地牢！！！"
+		]
+	},
+	{
+		"description_short":"Realmir добавляет больше реалистичности и изменяет некоторые текстуры",
+		"version_name":"v2",
+		"description_full":"Realmir добавляет больше реалистичности и изменяет некоторые текстуры.\r\n\r\nИнструкция по установке текстур:\r\n1. Скачать файл\r\n2. Распаковать и найти файл innercore-resources\r\n3. Зайти в папку games&gt;com.mojang&gt;resource-packs\r\n4. Заменить файл innercore-resourses на скачанный файл",
+		"links":[
+			{
+				"link":"https://vk.com/arkgroup",
+				"name":"Группа в ВК"
+			}
+		],
+		"id":308,
+		"title":"Realmir",
+		"shouldOverride":true,
+		"tags":[
+			"现实",
+			"设备",
+			"RPG"
+		]
+	},
+	{
+		"description_short":"This mod adds the ability to travel to the moon.",
+		"version_name":"0.8",
+		"description_full":"Ported from PC. (Original: Marvellous Moon Mod). \r\nThis mod allows you to build a shuttle and fly to the moon to colonize it.\r\n\r\nFeatures:\r\n- Moon dimension. \r\n- [Exclusive for PE] Craters with a fallen meteorite.\r\n- Oxygen system (WIP). There is no oxygen on the moon, in order not to die, you need to wear a spacesuit.\r\n- Gravity system (WIP). Player fall slower.\r\n- Oxygen generator. Creates an air bubble with a radius of 5 blocks.\r\n- Multiblock shuttle\r\n\r\nThe mod will expand over time.\r\n90% stable, fully suitable for survival.",
+		"links":[
+			{
+				"link":"https://github.com/zigDanirus/MoonModPE/issues",
+				"name":"Report a bug"
+			},
+			{
+				"link":"https://github.com/zigDanirus/MoonModPE/blob/master/guide.jpg",
+				"name":"Shuttle Scheme"
+			},
+			{
+				"link":"https://www.youtube.com/watch?v=-sftmSe24HA",
+				"name":"Review on YouTube"
+			}
+		],
+		"id":425,
+		"title":"MoonModPE",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"维度"
+		]
+	},
+	{
+		"description_short":"Vanilla++",
+		"version_name":"Beta 0.2",
+		"description_full":"Vanilla++",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UCatLWgs_vgycJfzs3ClVtBA",
+				"name":"https"
+			}
+		],
+		"id":167,
+		"title":"Vanilla++",
+		"shouldOverride":true,
+		"tags":[
+			"拓展"
+		]
+	},
+	{
 		"description_short":"Mod adds different decorations, clothes and food.",
 		"version_name":"1.2",
 		"description_full":"Mod adds different decorations, clothes and food.",
@@ -3072,23 +3033,20 @@
 		]
 	},
 	{
-		"description_short":"A automation add-on for Useful Machine.一个无中生有自动化拓展。",
-		"version_name":"1.3",
-		"description_full":"A automation add-on for Useful Machine.\r\nIt depends on Useful Machine.\r\n一个无中生有自动化拓展。\r\n它需要和无中生有一起运行。",
+		"description_short":"Magic things and other.",
+		"version_name":"1.5",
+		"description_full":"Magic things and other\r\nUse a recipe viewer to view recipes (https://icmods.mineprogramming.org/mod?id=455)",
 		"links":[
 			{
-				"link":"//weibo.com/u/5762974935",
-				"name":"http"
+				"link":"https://vk.com/public179065827",
+				"name":"Group"
 			}
 		],
-		"id":249,
-		"title":"Useful Machine Tech",
+		"id":412,
+		"title":"Magic Mod",
 		"shouldOverride":true,
 		"tags":[
-			"无中生有科技",
-			"无中生有",
-			"自动化",
-			"无中生有自动化"
+			"魔法"
 		]
 	},
 	{
@@ -3133,22 +3091,45 @@
 		]
 	},
 	{
-		"description_short":"Мод для получения огромного колличества энергии и не только,оружие,броня,инструменты и механизмы.",
-		"version_name":"0.7 beta",
-		"description_full":"Мод на различные солнечные панели, а так же квантовый генератор.\r\nВ моде будут присутствовать и другие блоки, в следующих обновлениях.\r\nВ планах: некоторые механизмы которых ещё не было в иннер коре, новые предметы, возможно броня, оружие и инструменты.\r\n\r\nБольшинство текстур пренадлежат создателям модов: AdvancedSolarPanel и GravitationSuit.\r\nКод пренадлежит создателю мода IndustrialCraft² Жеке Смирнову.",
+		"description_short":"add 8 Machines similar to Induction Furnace.",
+		"version_name":"2.0",
+		"description_full":"ICPE Addon\r\n\r\n- Macerator\r\n- Compressor\r\n- Extractor\r\n- Recycler\r\n- Metal Former (Extruding mode)\r\n- Metal Former (Rolling mode)\r\n- Metal Former (Cutting mode)\r\n- Ore Washer",
 		"links":[
 			{
-				"link":"https://vk.com/moreenergymcpe",
-				"name":"Группа в ВК"
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			},
+			{
+				"link":"https://minecraft.curseforge.com/projects/advanced-machines",
+				"name":"Original Mod"
 			}
 		],
-		"id":307,
-		"title":"VoidEra",
+		"id":337,
+		"title":"Advanced Machines",
 		"shouldOverride":true,
 		"tags":[
-			"исследования.",
-			"神秘学",
-			"工业"
+			"工业",
+			"拓展"
+		]
+	},
+	{
+		"description_short":"A automation add-on for Useful Machine.一个无中生有自动化拓展。",
+		"version_name":"1.3",
+		"description_full":"A automation add-on for Useful Machine.\r\nIt depends on Useful Machine.\r\n一个无中生有自动化拓展。\r\n它需要和无中生有一起运行。",
+		"links":[
+			{
+				"link":"//weibo.com/u/5762974935",
+				"name":"http"
+			}
+		],
+		"id":249,
+		"title":"Useful Machine Tech",
+		"shouldOverride":true,
+		"tags":[
+			"无中生有科技",
+			"无中生有",
+			"自动化",
+			"无中生有自动化"
 		]
 	},
 	{
@@ -3169,6 +3150,52 @@
 			"物品",
 			"战利品箱",
 			"战利品"
+		]
+	},
+	{
+		"description_short":"Руды!",
+		"version_name":"1.3",
+		"description_full":"Этот мод добавляет ваш мир руды!\r\nНапример, руду из красного железа можно превратить в красный камень или железо, в зависимости от того, какой вам нужен.",
+		"links":[
+			{
+				"link":"https: //vk.com/nagymet.adaev",
+				"name":"Автор"
+			},
+			{
+				"link":"https: //vk.com/nagymet.adaev",
+				"name":"Вк Группа"
+			}
+		],
+		"id":322,
+		"title":"Subswitch",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			" ",
+			"IC2",
+			"工具",
+			"矿石",
+			"工业时代2",
+			"挖掘"
+		]
+	},
+	{
+		"description_short":"Мод для получения огромного колличества энергии и не только,оружие,броня,инструменты и механизмы.",
+		"version_name":"0.7 beta",
+		"description_full":"Мод на различные солнечные панели, а так же квантовый генератор.\r\nВ моде будут присутствовать и другие блоки, в следующих обновлениях.\r\nВ планах: некоторые механизмы которых ещё не было в иннер коре, новые предметы, возможно броня, оружие и инструменты.\r\n\r\nБольшинство текстур пренадлежат создателям модов: AdvancedSolarPanel и GravitationSuit.\r\nКод пренадлежит создателю мода IndustrialCraft² Жеке Смирнову.",
+		"links":[
+			{
+				"link":"https://vk.com/moreenergymcpe",
+				"name":"Группа в ВК"
+			}
+		],
+		"id":307,
+		"title":"VoidEra",
+		"shouldOverride":true,
+		"tags":[
+			"исследования.",
+			"神秘学",
+			"工业"
 		]
 	},
 	{
@@ -3197,33 +3224,6 @@
 			"矿石",
 			"装饰",
 			"维度"
-		]
-	},
-	{
-		"description_short":"Руды!",
-		"version_name":"1.3",
-		"description_full":"Этот мод добавляет ваш мир руды!\r\nНапример, руду из красного железа можно превратить в красный камень или железо, в зависимости от того, какой вам нужен.",
-		"links":[
-			{
-				"link":"https: //vk.com/nagymet.adaev",
-				"name":"Автор"
-			},
-			{
-				"link":"https: //vk.com/nagymet.adaev",
-				"name":"Вк Группа"
-			}
-		],
-		"id":322,
-		"title":"Subswitch",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			" ",
-			"IC2",
-			"工具",
-			"矿石",
-			"工业时代2",
-			"挖掘"
 		]
 	},
 	{
@@ -3323,6 +3323,23 @@
 		]
 	},
 	{
+		"description_short":"You can store only one item almost Infinity.",
+		"version_name":"1.0",
+		"description_full":"You can store only one item almost Infinity.\r\nfrom 1 to about 2.1billion",
+		"links":[
+			{
+				"link":"https://vk.com/club171704577",
+				"name":"DaiDai"
+			}
+		],
+		"id":298,
+		"title":"Infinity Chest",
+		"shouldOverride":true,
+		"tags":[
+			"箱子"
+		]
+	},
+	{
 		"description_short":"Includes world gen, gems and recipes for various tools, armour and Decoration blocks",
 		"version_name":"2019.08.06",
 		"description_full":"# MinecraftPE.AnotherGemsMod\r\n- By FredHappyface\r\n\r\nNew in 2019.08.06\r\n- Lamps and Inverted Lamps \r\n\r\nThis mod includes some world gen, gems with various properties and recipes for various tools and armour. Adds some decoration blocks that can be crafted from the gems too: block of gem and bricks. This is a first stab at a MinecraftPE mod and is based on Minecraft.AnotherGemsMod https://github.com/FredHappyface/Minecraft.AnotherGemsMod\r\n\r\n\r\n## Crafting Recipes \r\n\r\nCrafting recipes are as in the Java Edition",
@@ -3344,20 +3361,24 @@
 		]
 	},
 	{
-		"description_short":"You can store only one item almost Infinity.",
+		"description_short":"The birds singing in the forest and the sound of the ocean in the ocean.",
 		"version_name":"1.0",
-		"description_full":"You can store only one item almost Infinity.\r\nfrom 1 to about 2.1billion",
+		"description_full":"The birds singing in the forest and the sound of the ocean in the ocean.",
 		"links":[
 			{
-				"link":"https://vk.com/club171704577",
-				"name":"DaiDai"
+				"link":"https://vk.com/id354069902",
+				"name":"VK"
+			},
+			{
+				"link":"https://vk.com/mods.inner.core",
+				"name":"Group in VK"
 			}
 		],
-		"id":298,
-		"title":"Infinity Chest",
+		"id":457,
+		"title":"BiomeSounds",
 		"shouldOverride":true,
 		"tags":[
-			"箱子"
+			"音效"
 		]
 	},
 	{
@@ -3399,27 +3420,6 @@
 			"全局",
 			"整合包",
 			"矿石"
-		]
-	},
-	{
-		"description_short":"The birds singing in the forest and the sound of the ocean in the ocean.",
-		"version_name":"1.0",
-		"description_full":"The birds singing in the forest and the sound of the ocean in the ocean.",
-		"links":[
-			{
-				"link":"https://vk.com/id354069902",
-				"name":"VK"
-			},
-			{
-				"link":"https://vk.com/mods.inner.core",
-				"name":"Group in VK"
-			}
-		],
-		"id":457,
-		"title":"BiomeSounds",
-		"shouldOverride":true,
-		"tags":[
-			"音效"
 		]
 	},
 	{
@@ -3465,25 +3465,6 @@
 		]
 	},
 	{
-		"description_short":"Classic Adventure Craft",
-		"version_name":"1.4.1",
-		"description_full":"It is a classic Adventure Craft. This version is not supported. Have fun)",
-		"links":[
-			{
-				"link":"https://vk.com/adv20_offical",
-				"name":"Official group(VK)"
-			}
-		],
-		"id":8,
-		"title":"Adventure craft Classic",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"矿石",
-			"冒险"
-		]
-	},
-	{
 		"description_short":"Мод добавит в игру 5 видов кристалла.",
 		"version_name":"",
 		"description_full":"Мод добавит в игру 5 видов кристалла и инструменты из них.Там есть меч на 50 урона и кирка 3×3.Эти вещи крепче алмаза но и крафт труднее",
@@ -3507,6 +3488,25 @@
 		]
 	},
 	{
+		"description_short":"Classic Adventure Craft",
+		"version_name":"1.4.1",
+		"description_full":"It is a classic Adventure Craft. This version is not supported. Have fun)",
+		"links":[
+			{
+				"link":"https://vk.com/adv20_offical",
+				"name":"Official group(VK)"
+			}
+		],
+		"id":8,
+		"title":"Adventure craft Classic",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"矿石",
+			"冒险"
+		]
+	},
+	{
 		"description_short":".",
 		"version_name":"1.2",
 		"description_full":"[1.2] The synthetic formula was modified.",
@@ -3521,6 +3521,59 @@
 		"shouldOverride":true,
 		"tags":[
 			"幸运方块"
+		]
+	},
+	{
+		"description_short":"add coords in game",
+		"version_name":"1.1",
+		"description_full":"add coords in game",
+		"links":[
+			{
+				"link":"https://vk.com/public173210254",
+				"name":"Web site"
+			}
+		],
+		"id":311,
+		"title":"Coords Mod",
+		"shouldOverride":true,
+		"tags":[
+			"Gabriel"
+		]
+	},
+	{
+		"description_short":"Ru:Этот мод добовляет простые лифты  En:This mod add common elevator",
+		"version_name":"1.0",
+		"description_full":"Ru:Этот мод добовляет простые лифты\r\nEn:This mod add common elevator",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
+				"name":"https"
+			}
+		],
+		"id":290,
+		"title":"ElevatorMod",
+		"shouldOverride":true,
+		"tags":[
+			"电梯模组",
+			"电梯"
+		]
+	},
+	{
+		"description_short":"Carry Fluid!",
+		"version_name":"1.0",
+		"description_full":"- It can contain any liquid(other mod's liquids too).\r\n- It have infinite storage.\r\n- Even if it destroyed, the liquid isn't lost.",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"Группа ВК"
+			}
+		],
+		"id":84,
+		"title":"Fluid Tank",
+		"shouldOverride":true,
+		"tags":[
+			"流体储存器",
+			"流体"
 		]
 	},
 	{
@@ -3563,6 +3616,34 @@
 		]
 	},
 	{
+		"description_short":"Bring me a coffee.Get a move on!",
+		"version_name":"1.1.5",
+		"description_full":"CoffeeWorkshop Pocket Edition ICmod is transplanted from CoffeeWorkShop mod Java Edition,the authors of the Java Edition are 射命丸政 and 梨木利亚;This mod is made in China by 惊悚humter and Pvhu!Welcome to play!Author Pvhu's Email:pvpaste@meowcat.org.This mod is copyright, do not distribute.",
+		"links":[
+			{
+				"link":"https://vk.com/pv_hu",
+				"name":"Author pvhu's vk"
+			},
+			{
+				"link":"https://pvhu.meowcat.org",
+				"name":"Author pvhu's website"
+			},
+			{
+				"link":"https://www.mcmod.cn/class/1211.html",
+				"name":"Coffee Workshop pc version wiki"
+			}
+		],
+		"id":303,
+		"title":"Coffee Workshop 咖啡工坊 PE",
+		"shouldOverride":true,
+		"tags":[
+			"咖啡",
+			"植物",
+			"机器",
+			"食物"
+		]
+	},
+	{
 		"description_short":"дополнение к ic2",
 		"version_name":"1.0",
 		"description_full":"добавляет новые предметы для ic2",
@@ -3593,87 +3674,6 @@
 		]
 	},
 	{
-		"description_short":"Ru:Этот мод добовляет простые лифты  En:This mod add common elevator",
-		"version_name":"1.0",
-		"description_full":"Ru:Этот мод добовляет простые лифты\r\nEn:This mod add common elevator",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UC_zSnIT5oMnftyu4ka01KWw/videos?disable_polymer=1",
-				"name":"https"
-			}
-		],
-		"id":290,
-		"title":"ElevatorMod",
-		"shouldOverride":true,
-		"tags":[
-			"电梯模组",
-			"电梯"
-		]
-	},
-	{
-		"description_short":"add coords in game",
-		"version_name":"1.1",
-		"description_full":"add coords in game",
-		"links":[
-			{
-				"link":"https://vk.com/public173210254",
-				"name":"Web site"
-			}
-		],
-		"id":311,
-		"title":"Coords Mod",
-		"shouldOverride":true,
-		"tags":[
-			"Gabriel"
-		]
-	},
-	{
-		"description_short":"Bring me a coffee.Get a move on!",
-		"version_name":"1.1.5",
-		"description_full":"CoffeeWorkshop Pocket Edition ICmod is transplanted from CoffeeWorkShop mod Java Edition,the authors of the Java Edition are 射命丸政 and 梨木利亚;This mod is made in China by 惊悚humter and Pvhu!Welcome to play!Author Pvhu's Email:pvpaste@meowcat.org.This mod is copyright, do not distribute.",
-		"links":[
-			{
-				"link":"https://vk.com/pv_hu",
-				"name":"Author pvhu's vk"
-			},
-			{
-				"link":"https://pvhu.meowcat.org",
-				"name":"Author pvhu's website"
-			},
-			{
-				"link":"https://www.mcmod.cn/class/1211.html",
-				"name":"Coffee Workshop pc version wiki"
-			}
-		],
-		"id":303,
-		"title":"Coffee Workshop 咖啡工坊 PE",
-		"shouldOverride":true,
-		"tags":[
-			"咖啡",
-			"植物",
-			"机器",
-			"食物"
-		]
-	},
-	{
-		"description_short":"Carry Fluid!",
-		"version_name":"1.0",
-		"description_full":"- It can contain any liquid(other mod's liquids too).\r\n- It have infinite storage.\r\n- Even if it destroyed, the liquid isn't lost.",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"Группа ВК"
-			}
-		],
-		"id":84,
-		"title":"Fluid Tank",
-		"shouldOverride":true,
-		"tags":[
-			"流体储存器",
-			"流体"
-		]
-	},
-	{
 		"description_short":"Everything from nothing...    万物皆可无中生有。",
 		"version_name":"1.9.3",
 		"description_full":"This mod bases on Ex Nihilo Omnia and Ex Nihilo.\r\nIt includes the contents of Ex Nihilo Omnia and Ex Nihilo but is closer to Ex Nihilo Omnia .\r\n\r\n这个mod基于 Ex Nihilo Omnia 和 Ex Nihilo ，它包括二者的内容但更接近 Ex Nihilo Omnia 。",
@@ -3690,40 +3690,6 @@
 			"全局",
 			"无中生有",
 			"工具"
-		]
-	},
-	{
-		"description_short":"Данный мод введет в игру рецепты крафта седла и брони для лошадей.",
-		"version_name":"1.0",
-		"description_full":"Данный мод введет в игру рецепты крафта седла и брони для лошадей.",
-		"links":[
-			{
-				"link":"https://vk.com/modsforinnercore",
-				"name":"Группа в вк"
-			}
-		],
-		"id":258,
-		"title":"Craftable Saddles",
-		"shouldOverride":true,
-		"tags":[
-			"衣服"
-		]
-	},
-	{
-		"description_short":"Мод добавляет точку дома",
-		"version_name":"0.2",
-		"description_full":"Скрипт на установку дома, напиши /sethome для установки точки, /home для телепортации",
-		"links":[
-			{
-				"link":"https://vk.com/shadow129",
-				"name":"Разработчик мода"
-			}
-		],
-		"id":388,
-		"title":"Home",
-		"shouldOverride":true,
-		"tags":[
-			"家"
 		]
 	},
 	{
@@ -3793,6 +3759,57 @@
 		]
 	},
 	{
+		"description_short":"Данный мод введет в игру рецепты крафта седла и брони для лошадей.",
+		"version_name":"1.0",
+		"description_full":"Данный мод введет в игру рецепты крафта седла и брони для лошадей.",
+		"links":[
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа в вк"
+			}
+		],
+		"id":258,
+		"title":"Craftable Saddles",
+		"shouldOverride":true,
+		"tags":[
+			"衣服"
+		]
+	},
+	{
+		"description_short":"Мод добавляет точку дома",
+		"version_name":"0.2",
+		"description_full":"Скрипт на установку дома, напиши /sethome для установки точки, /home для телепортации",
+		"links":[
+			{
+				"link":"https://vk.com/shadow129",
+				"name":"Разработчик мода"
+			}
+		],
+		"id":388,
+		"title":"Home",
+		"shouldOverride":true,
+		"tags":[
+			"家"
+		]
+	},
+	{
+		"description_short":"Uncraft",
+		"version_name":"1.1",
+		"description_full":"Uncraft",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"VK"
+			}
+		],
+		"id":432,
+		"title":"Deconstruction Table",
+		"shouldOverride":true,
+		"tags":[
+			"合成"
+		]
+	},
+	{
 		"description_short":"Усложняет ванило-механику игры, добычу ресурсов. Биомы и голод влияют на игрока. Онли ХАРД",
 		"version_name":"",
 		"description_full":"=========/&lt;&gt;\\=========.\r\nMod : hard craft\r\nVersion:  4.0 \r\n__________(/\\)___________.\r\nМод был полностью переписан с нуля!!.\r\n-усложнена система крафтов\r\n-добавлена веревка, используется в многих крафтах( 3 нитки или 6 лиан ==1 веревка )\r\n- сжатый булыжник (9 булыги =1 сб) требуется для создания каменных инструментов и печки\r\n-большая палка (3 бревна) для создания инструментов\r\n-молот(4железа, 1камень, 2 большие палки) требуется для создания пластин\r\n-железная и золотая пластина(молот+слиток) используются в крафтах. \r\n-чипсет(ж.пластины+з.пластины+редстоун) используется в редстоун механизмах\r\n-смесь угля и железа(уголь+железо)\r\n-сталь(смесь угля и железа в печь)\r\n-инструменты из стали\r\n-дополнительные сердца( обычное сердце +алмаз+золото. Тапни по блоку чтоб увеличить свое хп)\r\n-тапни по культуре которая выросла, чтоб собрать и посадить обратно\r\n============/×\\===========.\r\n                   Мобы.\r\nМобы имеют увеличенное здоровье.\r\nК примеру куры , овцы и так. дл. имеют 20 хп , как у игрока.\r\nВраждебные мобы по 50 хп (в 2.5 раз больше чем обычно)\r\nНечисть одета в броню (зомби и скелеты).\r\n Помните о том что, если вас противник ударит, получите негативный эффект. \r\n===============================.\r\n            Окружение. \r\nГолод опасней чем когда либо.\r\nБосяком не стоит ходить по песку или пустыне. (Это вас замедляет).\r\nЗолотая броня защищает от негативных эфеектов.\r\n===========#==================.\r\nМод был проверен в режиме креатива и выживания.\r\nЕсли вы нашли баги то прошу вас, написать в комментарии. А также я рад увидеть ваши предложения!!!\r\n=================================.",
@@ -3811,20 +3828,20 @@
 		]
 	},
 	{
-		"description_short":"Uncraft",
-		"version_name":"1.1",
-		"description_full":"Uncraft",
+		"description_short":"Add Some new tools.  添加了一些新工具。",
+		"version_name":"1.0",
+		"description_full":"Magma tool module in the game added with Magma made armor, weapons and so on; original players no longer for Magma over and over the problem trouble the although these Magma tool cost a lot of money, but it is very high-grade and practical",
 		"links":[
 			{
-				"link":"https://vk.com/pockettech",
-				"name":"VK"
+				"link":"none",
+				"name":""
 			}
 		],
-		"id":432,
-		"title":"Deconstruction Table",
+		"id":418,
+		"title":"Magma Items",
 		"shouldOverride":true,
 		"tags":[
-			"合成"
+			"工具"
 		]
 	},
 	{
@@ -3859,23 +3876,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"实用"
-		]
-	},
-	{
-		"description_short":"Add Some new tools.  添加了一些新工具。",
-		"version_name":"1.0",
-		"description_full":"Magma tool module in the game added with Magma made armor, weapons and so on; original players no longer for Magma over and over the problem trouble the although these Magma tool cost a lot of money, but it is very high-grade and practical",
-		"links":[
-			{
-				"link":"none",
-				"name":""
-			}
-		],
-		"id":418,
-		"title":"Magma Items",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
 		]
 	},
 	{
@@ -3940,23 +3940,6 @@
 		]
 	},
 	{
-		"description_short":"Bug Fix ^:",
-		"version_name":"1.1",
-		"description_full":"bug fix `~`",
-		"links":[
-			{
-				"link":"el",
-				"name":""
-			}
-		],
-		"id":358,
-		"title":"Elemental Swords",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
 		"description_short":"Вы не хотите долго искать спаунер зомби или скелетов, то добро пожаловать к нам",
 		"version_name":"Уже вторая",
 		"description_full":"Вы не хотите долго искать спаунер зомби или скелетов, и боитесь, что найдёте только спаунер Пауков, то добро пожаловать к нам\r\nИз восьми железных решоток, можно сделать спаунер, а так же, с этим модом, вы можете создать яйца призыва мобов.\r\n\r\nИзменения:\r\n•Изменён крафт яйца спавна жителей",
@@ -3990,6 +3973,23 @@
 		"shouldOverride":true,
 		"tags":[
 			"配方"
+		]
+	},
+	{
+		"description_short":"Bug Fix ^:",
+		"version_name":"1.1",
+		"description_full":"bug fix `~`",
+		"links":[
+			{
+				"link":"el",
+				"name":""
+			}
+		],
+		"id":358,
+		"title":"Elemental Swords",
+		"shouldOverride":true,
+		"tags":[
+			"工具"
 		]
 	},
 	{
@@ -4091,6 +4091,34 @@
 		]
 	},
 	{
+		"description_short":"Mod : Industrial, construção, ferramentas.  TecMod e um mod industrial com base HardCore.",
+		"version_name":"1.3.1",
+		"description_full":"Esse E um mod técnico e de construção.\r\n\r\nEnergia usada : EU, Pode ser convertido para RF\r\n\r\n.Interface clássica (Mod API)\r\n\r\nBlocos\r\n.Concreto\r\n.Sofás\r\n.Tabuas \r\n.Lâmpadas\r\n.etc\r\n\r\nMáquinas\r\n\r\n.Painéis Solar (8 leveis diferentes)\r\n.Multiplicador de minérios\r\n.Fornalhas\r\n.Cabos\r\n.Conversor de Energia\r\n.Machine Blocks \r\n.Utra Bateria\r\n.ModAPI\r\n.etc\r\n\r\n*INPORTANTE*\r\nAntes de atualizar faça backup da pasta mod e do seus mundos\r\n\r\nVocê pode saber mais sobre a ModAPI em https://m.vk.com/id470935011",
+		"links":[
+			{
+				"link":"https://m.vk.com/id470935011",
+				"name":"Site do Autor"
+			},
+			{
+				"link":"https://m.vk.com/public173210254",
+				"name":"Site do mod"
+			}
+		],
+		"id":273,
+		"title":"TecMod",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"方块",
+			"机器",
+			"工具",
+			"矿石",
+			"模组API",
+			"Gabriel",
+			"工业"
+		]
+	},
+	{
 		"description_short":"Мод добавляет печеньковую руду,с которой выпадает печенье!",
 		"version_name":"",
 		"description_full":"Мод добавляет печеньковую руду,с которой выпадает печенье!\r\n\r\nMod adds cookie ore, with which the cookie falls!",
@@ -4142,108 +4170,6 @@
 		]
 	},
 	{
-		"description_short":"Mod : Industrial, construção, ferramentas.  TecMod e um mod industrial com base HardCore.",
-		"version_name":"1.3.1",
-		"description_full":"Esse E um mod técnico e de construção.\r\n\r\nEnergia usada : EU, Pode ser convertido para RF\r\n\r\n.Interface clássica (Mod API)\r\n\r\nBlocos\r\n.Concreto\r\n.Sofás\r\n.Tabuas \r\n.Lâmpadas\r\n.etc\r\n\r\nMáquinas\r\n\r\n.Painéis Solar (8 leveis diferentes)\r\n.Multiplicador de minérios\r\n.Fornalhas\r\n.Cabos\r\n.Conversor de Energia\r\n.Machine Blocks \r\n.Utra Bateria\r\n.ModAPI\r\n.etc\r\n\r\n*INPORTANTE*\r\nAntes de atualizar faça backup da pasta mod e do seus mundos\r\n\r\nVocê pode saber mais sobre a ModAPI em https://m.vk.com/id470935011",
-		"links":[
-			{
-				"link":"https://m.vk.com/id470935011",
-				"name":"Site do Autor"
-			},
-			{
-				"link":"https://m.vk.com/public173210254",
-				"name":"Site do mod"
-			}
-		],
-		"id":273,
-		"title":"TecMod",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"方块",
-			"机器",
-			"工具",
-			"矿石",
-			"模组API",
-			"Gabriel",
-			"工业"
-		]
-	},
-	{
-		"description_short":"a world rpg for minecraft",
-		"version_name":"1.0 beta",
-		"description_full":"this mod tries to bring a world RPG to minecraft, with magic adventures, incredible monsters among others, note of the author: this mod and a test version of the mod to see if the public had received it well in its final version, so it will have the mana and wands",
-		"links":[
-			{
-				"link":"https://vk.com/id504995667",
-				"name":"VK"
-			}
-		],
-		"id":413,
-		"title":"RPG WORLD PROJECT",
-		"shouldOverride":true,
-		"tags":[
-			"魔法",
-			"RPG"
-		]
-	},
-	{
-		"description_short":"More Crafts",
-		"version_name":"",
-		"description_full":"Crafts, crafts and crafts",
-		"links":[
-			{
-				"link":"vk.com/id248653843",
-				"name":"Разраб"
-			},
-			{
-				"link":"vk.com/club159738503",
-				"name":"Группа"
-			}
-		],
-		"id":91,
-		"title":"Crafting Plus",
-		"shouldOverride":true,
-		"tags":[
-			"合成"
-		]
-	},
-	{
-		"description_short":"add Ore Canes.",
-		"version_name":"1.0",
-		"description_full":"support IndustrialCraftPE, ForestryPE, ThermalExpansionPE's ores.",
-		"links":[
-			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
-			}
-		],
-		"id":217,
-		"title":"Growable Ores",
-		"shouldOverride":true,
-		"tags":[
-			"农业",
-			"作物"
-		]
-	},
-	{
-		"description_short":"Мод добавляет кристаллы души, из которых вы сможете скрафтить мощные инструменты",
-		"version_name":"",
-		"description_full":"Вы научились наполнять изумруд дыханием дракона, и теперь вы сможете скрафтить мощные инструменты",
-		"links":[
-			{
-				"link":"https://vk.com/jlong2000",
-				"name":"Автор"
-			}
-		],
-		"id":70,
-		"title":"Soul Master Craft",
-		"shouldOverride":true,
-		"tags":[
-			"设备"
-		]
-	},
-	{
 		"description_short":"Adds only crops.  BlockID to use is only a little.",
 		"version_name":"3.1",
 		"description_full":"Feature\r\n- Based on Magical Crops 3\r\n- Adds only crops\r\n- BlockID to use is only a little.\r\n  (Block of growth process is common)\r\n- Compatible to ICPE\r\n\r\nTo quit InnerCore, please select \\&quot;Save &amp; Quit\\&quot; from the menu.",
@@ -4283,50 +4209,60 @@
 		]
 	},
 	{
-		"description_short":"Делает майнкрафт более реалестичным",
-		"version_name":"0.5.0",
-		"description_full":"RealCraft - мод изменяющий геймплей майнкрафта в сторону реализма. Сейчас еще ведется работа над этим модом, но мы стараемся допускать как можно меньше ошибок и багов, если что-то нашли - обратитесь к нам. \r\n\r\nЧто есть в этом моде?\r\n\r\n*С версии 0.1.0*\r\n• Клинок деревянного меча (Используется в крафте деревянного меча)\r\n• Лезвие деревянного топора (Используется в крафте деревянного топора)\r\n• Верх деревянной лопаты (Используется в крафте деревянной лопаты)\r\n• Верх деревянной кирки (Используется в крафте деревянной кирки)\r\n• Верх деревянной мотыги (Используется в крафте деревянной мотыги)\r\n• Ручка для меча (Используется в крафте деревянного и каменного меча)\r\n• Ручка для инструментов (Используется в крафте всех деревянных и каменных инструментов кроме меча)\r\n• Нож (Используется в крафте верхушек всех деревянных инструментов) \r\n*С версии 0.2.0*\r\n• Изменен крафт кожаной брони, каменных и железных инструментов.\r\n• Игла (Используется в крафте иглы с нитью)\r\n• Игла с нитью (Используется в крафте кожаной брони)\r\n• Высушеная кожа (Чтобы ее получить, нужно переработать кожу в печке, используется в крафте кожаных инструментов)\r\n*С версии 0.3.0*\r\n• Камнерез (Используется в крафте верхушек всех каменных инструментов а так же, в крафте всех заготовках для инструментов)\r\n• Клинок каменного меча (Используется в крафте каменного меча)\r\n• Лезвие каменного топора (Используется в крафте каменного топора)\r\n• Верх каменной лопаты (Используется в крафте каменной лопаты)\r\n• Верх каменной кирки (Используется в крафте каменной кирки)\r\n• Верх каменной мотыги (Используется в крафте каменной мотыги)\r\n*С версии 0.4.0*\r\n• Доска *предмет* (Используется в крафте улучшеной ручки для инструментов и улучшеной ручки для меча)\r\n• Улучшенная ручка для меча (Используется в крафте железного меча)\r\n• Улучшенная ручка для инструментов (Используется в крафтах всех железных инструментов за исключением меча)\r\n• Заготовки для меча, топора, лопаты, кирки, мотыги (Используются в крафтах всех железных инструментов)\r\n• Раскаленный железный слиток (Чтобы его получить, переплавьте железный слиток в печке, используется в крафтах всех железных инструментов)\r\n• Заготовка для молотка (Используется в крафте молотка)\r\n• Молоток (Используется в крафте железных пластин)\r\n• Железная пластина (Используется в крафте железной брони)\r\n• Костная игла (Используется в крафте костной иглы с нитью)\r\n• Костная игла с нитью (Используется в крафте подстилки для брони)\r\n• Подкладка для брони (Используется в крафте железной брони и улучшеной подкладки для брони)",
-		"links":[
-			{
-				"link":"https://t.me/joinchat/AAAAAE7ccggItaTugIgmfA",
-				"name":"Писал код"
-			},
-			{
-				"link":"https: //t.me/Oruzhie_Na_Stol",
-				"name":"Рисовал текстурки"
-			}
-		],
-		"id":360,
-		"title":"RealCraft",
-		"shouldOverride":true,
-		"tags":[
-			"现实",
-			"盔甲",
-			"设备",
-			"武器"
-		]
-	},
-	{
-		"description_short":"Этот мод добавит дроп с криперов, а именно их кожу и мясо.",
+		"description_short":"More Crafts",
 		"version_name":"",
-		"description_full":"Теперь, убивая криперов вы сможете получить их кожу и мясо. Жаренное мясо крипера равносильно говядине, а броня из криперской кожи почти не уступает железной.",
+		"description_full":"Crafts, crafts and crafts",
 		"links":[
 			{
-				"link":"https://vk.com/vokhrin2003",
-				"name":"Разработчик"
+				"link":"vk.com/id248653843",
+				"name":"Разраб"
 			},
 			{
-				"link":"https://vk.com/modsforinnercore",
+				"link":"vk.com/club159738503",
 				"name":"Группа"
 			}
 		],
-		"id":19,
-		"title":"Creeper Drops",
+		"id":91,
+		"title":"Crafting Plus",
 		"shouldOverride":true,
 		"tags":[
-			"盔甲",
-			"掉落物",
-			"食物"
+			"合成"
+		]
+	},
+	{
+		"description_short":"a world rpg for minecraft",
+		"version_name":"1.0 beta",
+		"description_full":"this mod tries to bring a world RPG to minecraft, with magic adventures, incredible monsters among others, note of the author: this mod and a test version of the mod to see if the public had received it well in its final version, so it will have the mana and wands",
+		"links":[
+			{
+				"link":"https://vk.com/id504995667",
+				"name":"VK"
+			}
+		],
+		"id":413,
+		"title":"RPG WORLD PROJECT",
+		"shouldOverride":true,
+		"tags":[
+			"魔法",
+			"RPG"
+		]
+	},
+	{
+		"description_short":"Recipe saved on paper.  Speedy Crafting.",
+		"version_name":"1.2",
+		"description_full":"Recipe saved on paper.\r\nSpeedy Crafting.\r\n\r\nIt compatible to all mod's crafting recipe (except special one).",
+		"links":[
+			{
+				"link":"//vk.com/pockettech",
+				"name":"https"
+			}
+		],
+		"id":182,
+		"title":"Recipe Blueprint",
+		"shouldOverride":true,
+		"tags":[
+			"实用",
+			"合成"
 		]
 	},
 	{
@@ -4357,39 +4293,62 @@
 		]
 	},
 	{
-		"description_short":"Recipe saved on paper.  Speedy Crafting.",
-		"version_name":"1.2",
-		"description_full":"Recipe saved on paper.\r\nSpeedy Crafting.\r\n\r\nIt compatible to all mod's crafting recipe (except special one).",
+		"description_short":"Мод добавляет кристаллы души, из которых вы сможете скрафтить мощные инструменты",
+		"version_name":"",
+		"description_full":"Вы научились наполнять изумруд дыханием дракона, и теперь вы сможете скрафтить мощные инструменты",
 		"links":[
 			{
-				"link":"//vk.com/pockettech",
-				"name":"https"
+				"link":"https://vk.com/jlong2000",
+				"name":"Автор"
 			}
 		],
-		"id":182,
-		"title":"Recipe Blueprint",
+		"id":70,
+		"title":"Soul Master Craft",
 		"shouldOverride":true,
 		"tags":[
-			"实用",
-			"合成"
+			"设备"
 		]
 	},
 	{
-		"description_short":"A simple mod that helps with repetitive crafting tasks during early game. ",
+		"description_short":"add Ore Canes.",
 		"version_name":"1.0",
-		"description_full":"~Super Crafting Frame~\r\n- Tap: Crafting once\r\n- Long tap: Crafting all\r\n- Sneak + Tap: Open GUI\r\n- Sneak + Long tap: Destroy frame\r\n\r\n~Super Item Frame~\r\n- Tap: Eject single item\r\n- Sneak + Tap: Eject full stack items\r\n- Long tap: Insert carried items\r\n- Sneak + Long tap: Insert all items\r\n- Long tap with other items: Reset frame\r\n\r\n~Super Void Frame~\r\n- Tap: Delete carried items\r\n- Long tap: Delete all items\r\n- Sneak + Long tap: Destroy frame",
+		"description_full":"support IndustrialCraftPE, ForestryPE, ThermalExpansionPE's ores.",
 		"links":[
 			{
 				"link":"//vk.com/pockettech",
 				"name":"https"
 			}
 		],
-		"id":194,
-		"title":"Super Crafting Frame",
+		"id":217,
+		"title":"Growable Ores",
 		"shouldOverride":true,
 		"tags":[
-			"实用",
-			"合成"
+			"农业",
+			"作物"
+		]
+	},
+	{
+		"description_short":"Делает майнкрафт более реалестичным",
+		"version_name":"0.5.0",
+		"description_full":"RealCraft - мод изменяющий геймплей майнкрафта в сторону реализма. Сейчас еще ведется работа над этим модом, но мы стараемся допускать как можно меньше ошибок и багов, если что-то нашли - обратитесь к нам. \r\n\r\nЧто есть в этом моде?\r\n\r\n*С версии 0.1.0*\r\n• Клинок деревянного меча (Используется в крафте деревянного меча)\r\n• Лезвие деревянного топора (Используется в крафте деревянного топора)\r\n• Верх деревянной лопаты (Используется в крафте деревянной лопаты)\r\n• Верх деревянной кирки (Используется в крафте деревянной кирки)\r\n• Верх деревянной мотыги (Используется в крафте деревянной мотыги)\r\n• Ручка для меча (Используется в крафте деревянного и каменного меча)\r\n• Ручка для инструментов (Используется в крафте всех деревянных и каменных инструментов кроме меча)\r\n• Нож (Используется в крафте верхушек всех деревянных инструментов) \r\n*С версии 0.2.0*\r\n• Изменен крафт кожаной брони, каменных и железных инструментов.\r\n• Игла (Используется в крафте иглы с нитью)\r\n• Игла с нитью (Используется в крафте кожаной брони)\r\n• Высушеная кожа (Чтобы ее получить, нужно переработать кожу в печке, используется в крафте кожаных инструментов)\r\n*С версии 0.3.0*\r\n• Камнерез (Используется в крафте верхушек всех каменных инструментов а так же, в крафте всех заготовках для инструментов)\r\n• Клинок каменного меча (Используется в крафте каменного меча)\r\n• Лезвие каменного топора (Используется в крафте каменного топора)\r\n• Верх каменной лопаты (Используется в крафте каменной лопаты)\r\n• Верх каменной кирки (Используется в крафте каменной кирки)\r\n• Верх каменной мотыги (Используется в крафте каменной мотыги)\r\n*С версии 0.4.0*\r\n• Доска *предмет* (Используется в крафте улучшеной ручки для инструментов и улучшеной ручки для меча)\r\n• Улучшенная ручка для меча (Используется в крафте железного меча)\r\n• Улучшенная ручка для инструментов (Используется в крафтах всех железных инструментов за исключением меча)\r\n• Заготовки для меча, топора, лопаты, кирки, мотыги (Используются в крафтах всех железных инструментов)\r\n• Раскаленный железный слиток (Чтобы его получить, переплавьте железный слиток в печке, используется в крафтах всех железных инструментов)\r\n• Заготовка для молотка (Используется в крафте молотка)\r\n• Молоток (Используется в крафте железных пластин)\r\n• Железная пластина (Используется в крафте железной брони)\r\n• Костная игла (Используется в крафте костной иглы с нитью)\r\n• Костная игла с нитью (Используется в крафте подстилки для брони)\r\n• Подкладка для брони (Используется в крафте железной брони и улучшеной подкладки для брони)",
+		"links":[
+			{
+				"link":"https://t.me/joinchat/AAAAAE7ccggItaTugIgmfA",
+				"name":"Писал код"
+			},
+			{
+				"link":"https: //t.me/Oruzhie_Na_Stol",
+				"name":"Рисовал текстурки"
+			}
+		],
+		"id":360,
+		"title":"RealCraft",
+		"shouldOverride":true,
+		"tags":[
+			"现实",
+			"盔甲",
+			"设备",
+			"武器"
 		]
 	},
 	{
@@ -4415,22 +4374,21 @@
 		]
 	},
 	{
-		"description_short":"Actually Inspired By Elder Arsenal 1.12.2, Adding Several Weapons To The Game.",
-		"version_name":"1.2.5",
-		"description_full":"READ ALL PLS! V\r\nActually Inspired By Elder Arsenal 1.12.2, Adding Several Weapons To The Game.\r\n\r\nExpected Updates:\r\n1.1 Bug Fix / Rebalancing. ✓\r\n1.2 Emerald Stuff, Deleting Minecraft Vanilla Sword Recipes.   ✓\r\n1.3 Osidian Stuff. ×\r\n1.4 Blaze Rod Stuff. ×\r\n1.5 More Weapon Types. ×\r\n1.6 NSRS Update (Not Simply Retextured Swords). ×\r\n1.7 Mod Compatibility  ×\r\n1.8 Yeet Update (Throwable Weapons  ×\r\n\r\n\r\nThe Gold Tray Item Is Used To Search Gold In The Water And Clay\r\n\r\n\r\n\r\nWeapon Crafting Methods:\r\nWooden:\r\nLike Previous Crafting But Using Sandpaper, Flint Whetstone, And Basic Part Connectors.\r\n\r\nStone:\r\nSmelt (In Furnace) Cobblestone To Obtain Stone.\r\nSmelt (In Furnace) Stone To Obtain Molten Stone.\r\nCool Down The Stone With 1 Dirt Block. (Craft Them Thogether).\r\nWith Some Sandpaper, Clean The Cold Stone. (Craft Them Thogether).\r\nThen With Some Blowtorches, Sandpapers And Part Sharpeners, Craft The Blades And The Spikes To Make The Parts.\r\n\r\nIron, Gold, Diamond, And Emerald:\r\nLike Stone, But You Must Use Advanced Part Connectors And Iron Whetstones.",
+		"description_short":"A simple mod that helps with repetitive crafting tasks during early game. ",
+		"version_name":"1.0",
+		"description_full":"~Super Crafting Frame~\r\n- Tap: Crafting once\r\n- Long tap: Crafting all\r\n- Sneak + Tap: Open GUI\r\n- Sneak + Long tap: Destroy frame\r\n\r\n~Super Item Frame~\r\n- Tap: Eject single item\r\n- Sneak + Tap: Eject full stack items\r\n- Long tap: Insert carried items\r\n- Sneak + Long tap: Insert all items\r\n- Long tap with other items: Reset frame\r\n\r\n~Super Void Frame~\r\n- Tap: Delete carried items\r\n- Long tap: Delete all items\r\n- Sneak + Long tap: Destroy frame",
 		"links":[
 			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"link":"//vk.com/pockettech",
 				"name":"https"
 			}
 		],
-		"id":451,
-		"title":"Arsenal Reborn",
+		"id":194,
+		"title":"Super Crafting Frame",
 		"shouldOverride":true,
 		"tags":[
-			"远古兵工厂",
-			"工具",
-			"武器"
+			"实用",
+			"合成"
 		]
 	},
 	{
@@ -4455,6 +4413,48 @@
 			"匠魂",
 			"工具",
 			"塑料模组"
+		]
+	},
+	{
+		"description_short":"Этот мод добавит дроп с криперов, а именно их кожу и мясо.",
+		"version_name":"",
+		"description_full":"Теперь, убивая криперов вы сможете получить их кожу и мясо. Жаренное мясо крипера равносильно говядине, а броня из криперской кожи почти не уступает железной.",
+		"links":[
+			{
+				"link":"https://vk.com/vokhrin2003",
+				"name":"Разработчик"
+			},
+			{
+				"link":"https://vk.com/modsforinnercore",
+				"name":"Группа"
+			}
+		],
+		"id":19,
+		"title":"Creeper Drops",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"掉落物",
+			"食物"
+		]
+	},
+	{
+		"description_short":"Actually Inspired By Elder Arsenal 1.12.2, Adding Several Weapons To The Game.",
+		"version_name":"1.2.5",
+		"description_full":"READ ALL PLS! V\r\nActually Inspired By Elder Arsenal 1.12.2, Adding Several Weapons To The Game.\r\n\r\nExpected Updates:\r\n1.1 Bug Fix / Rebalancing. ✓\r\n1.2 Emerald Stuff, Deleting Minecraft Vanilla Sword Recipes.   ✓\r\n1.3 Osidian Stuff. ×\r\n1.4 Blaze Rod Stuff. ×\r\n1.5 More Weapon Types. ×\r\n1.6 NSRS Update (Not Simply Retextured Swords). ×\r\n1.7 Mod Compatibility  ×\r\n1.8 Yeet Update (Throwable Weapons  ×\r\n\r\n\r\nThe Gold Tray Item Is Used To Search Gold In The Water And Clay\r\n\r\n\r\n\r\nWeapon Crafting Methods:\r\nWooden:\r\nLike Previous Crafting But Using Sandpaper, Flint Whetstone, And Basic Part Connectors.\r\n\r\nStone:\r\nSmelt (In Furnace) Cobblestone To Obtain Stone.\r\nSmelt (In Furnace) Stone To Obtain Molten Stone.\r\nCool Down The Stone With 1 Dirt Block. (Craft Them Thogether).\r\nWith Some Sandpaper, Clean The Cold Stone. (Craft Them Thogether).\r\nThen With Some Blowtorches, Sandpapers And Part Sharpeners, Craft The Blades And The Spikes To Make The Parts.\r\n\r\nIron, Gold, Diamond, And Emerald:\r\nLike Stone, But You Must Use Advanced Part Connectors And Iron Whetstones.",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"https"
+			}
+		],
+		"id":451,
+		"title":"Arsenal Reborn",
+		"shouldOverride":true,
+		"tags":[
+			"远古兵工厂",
+			"工具",
+			"武器"
 		]
 	},
 	{
@@ -4504,23 +4504,6 @@
 		]
 	},
 	{
-		"description_short":"-",
-		"version_name":"1",
-		"description_full":"-",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":346,
-		"title":"Tools",
-		"shouldOverride":true,
-		"tags":[
-			"工具"
-		]
-	},
-	{
 		"description_short":"Мод добавляет оружие и инструменты из земли",
 		"version_name":"1.0",
 		"description_full":"Мод добавляет оружие и инструменты из земли\r\nМод почти закончен, но у меня в планах есть ещё небольшие доработки",
@@ -4563,22 +4546,20 @@
 		]
 	},
 	{
-		"description_short":"Добавляет в майнкрафт новый мир из печенья, руду, инструменты и многое другое",
-		"version_name":"",
-		"description_full":"Добавляет в майнкрафт новый мир из печенья, руду, инструменты и многое другое,а именно:\r\n-новое дерево\r\n-новые растения\r\n-новая еда\r\n\r\nВнимание! Первая версия нестабильна.\r\nВозможны краши:\r\n-В печенюшном мире при загрузке:попытайтесь сломать портал сразу при загрузке мира, держите его закрытым\r\n\r\nО всех найденных багах пишите в группу",
+		"description_short":"-",
+		"version_name":"1",
+		"description_full":"-",
 		"links":[
 			{
-				"link":"https://vk.com/club145555766",
-				"name":"Группа разработчика"
+				"link":false,
+				"name":""
 			}
 		],
-		"id":158,
-		"title":"ModCookie",
+		"id":346,
+		"title":"Tools",
 		"shouldOverride":true,
 		"tags":[
-			"全局",
-			"矿石",
-			"维度"
+			"工具"
 		]
 	},
 	{
@@ -4600,6 +4581,25 @@
 			"矿石",
 			"模组包",
 			"工业"
+		]
+	},
+	{
+		"description_short":"Добавляет в майнкрафт новый мир из печенья, руду, инструменты и многое другое",
+		"version_name":"",
+		"description_full":"Добавляет в майнкрафт новый мир из печенья, руду, инструменты и многое другое,а именно:\r\n-новое дерево\r\n-новые растения\r\n-новая еда\r\n\r\nВнимание! Первая версия нестабильна.\r\nВозможны краши:\r\n-В печенюшном мире при загрузке:попытайтесь сломать портал сразу при загрузке мира, держите его закрытым\r\n\r\nО всех найденных багах пишите в группу",
+		"links":[
+			{
+				"link":"https://vk.com/club145555766",
+				"name":"Группа разработчика"
+			}
+		],
+		"id":158,
+		"title":"ModCookie",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"矿石",
+			"维度"
 		]
 	},
 	{
@@ -4668,23 +4668,6 @@
 		]
 	},
 	{
-		"description_short":"Display particles when hurt entity.",
-		"version_name":"1.0",
-		"description_full":"Display particles when hurt entity.",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
-			}
-		],
-		"id":415,
-		"title":"Heart Particle",
-		"shouldOverride":true,
-		"tags":[
-			"颗粒"
-		]
-	},
-	{
 		"description_short":"Короче,этот мод обавляет руникл,т.е. науку о рунах...",
 		"version_name":"",
 		"description_full":"В моде присутствуют:\r\n1)руны,сломанные руны,кристаллы;\r\n2)оружия,инструменты;\r\n3)бронь;\r\nЧто будет:\r\nДлфига чего интересного...",
@@ -4703,6 +4686,46 @@
 		"shouldOverride":true,
 		"tags":[
 			"\\&quot;Runicle\\&quot;"
+		]
+	},
+	{
+		"description_short":"Display particles when hurt entity.",
+		"version_name":"1.0",
+		"description_full":"Display particles when hurt entity.",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			}
+		],
+		"id":415,
+		"title":"Heart Particle",
+		"shouldOverride":true,
+		"tags":[
+			"颗粒"
+		]
+	},
+	{
+		"description_short":"dungeon craft - добавит в мир новые данжи, а тагже свою магическую механику, и боссов  Beta 0.4",
+		"version_name":"Beta 0.4",
+		"description_full":"dungeon craft - добавит в мир новые данжи, а тагже свою магическую механику, и боссов",
+		"links":[
+			{
+				"link":"https://vk.com/club186544580",
+				"name":"Vk"
+			}
+		],
+		"id":471,
+		"title":"Dungeon craft [BETA]",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			"魔法",
+			"设备",
+			"地牢",
+			"矿石",
+			"仪式",
+			"维度"
 		]
 	},
 	{
@@ -4759,29 +4782,6 @@
 		]
 	},
 	{
-		"description_short":"dungeon craft - добавит в мир новые данжи, а тагже свою магическую механику, и боссов  Beta 0.4",
-		"version_name":"Beta 0.4",
-		"description_full":"dungeon craft - добавит в мир новые данжи, а тагже свою магическую механику, и боссов",
-		"links":[
-			{
-				"link":"https://vk.com/club186544580",
-				"name":"Vk"
-			}
-		],
-		"id":471,
-		"title":"Dungeon craft [BETA]",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			"魔法",
-			"设备",
-			"地牢",
-			"矿石",
-			"仪式",
-			"维度"
-		]
-	},
-	{
 		"description_short":"Добавляет кубы из популярной игры Portal",
 		"version_name":"v1",
 		"description_full":"Добавляет кубы из популярной игры Portal. Причем это не блоки, их можно двигать и ставить на кнопку.",
@@ -4796,6 +4796,23 @@
 		"shouldOverride":true,
 		"tags":[
 			"方块"
+		]
+	},
+	{
+		"description_short":"Порт всеми любимого мода с ПК",
+		"version_name":"1.4",
+		"description_full":"Данный мод япляется портом всем любимого и известного мода на пк, который стоит на практически всех известных режимах, таких как HiTech, TechnoMagic.",
+		"links":[
+			{
+				"link":"//vk.com/modcreate",
+				"name":"Мы в вк - https"
+			}
+		],
+		"id":442,
+		"title":"Applied Energistics 2",
+		"shouldOverride":true,
+		"tags":[
+			"AE2"
 		]
 	},
 	{
@@ -4845,6 +4862,27 @@
 		]
 	},
 	{
+		"description_short":"Magic, spirits and other...",
+		"version_name":"0.6.2 Beta",
+		"description_full":"Mod features 9 themed spirits, and each one of them offers several powerful talismans. Talisman is an item that allows player to cast spells. To use talismans you will have to gain favor of the spirit to whom it belongs. Contact spirits, trade with them, gain favor and harness spiritual power.",
+		"links":[
+			{
+				"link":"vk.com/toxes_foxes",
+				"name":"ToxesFoxes"
+			},
+			{
+				"link":"vk.com/tmm_corporation",
+				"name":"TooManyMods Corporation"
+			}
+		],
+		"id":420,
+		"title":"Divine Favor",
+		"shouldOverride":true,
+		"tags":[
+			"魔法"
+		]
+	},
+	{
 		"description_short":"Мод добавляет звезди помощи 1 2 3 4 5 6 7 lvl с этих звезд можно кравтить еду предметы и так дальше",
 		"version_name":"0.3",
 		"description_full":"Этот мод добавляет броню с звезд и звезди помощи 1 2 3 4 5 6 7 левела с этих звезд можно кравтить еду,  предметы и так дальше мод в беда тесте.",
@@ -4875,140 +4913,6 @@
 		]
 	},
 	{
-		"description_short":"Порт всеми любимого мода с ПК",
-		"version_name":"1.4",
-		"description_full":"Данный мод япляется портом всем любимого и известного мода на пк, который стоит на практически всех известных режимах, таких как HiTech, TechnoMagic.",
-		"links":[
-			{
-				"link":"//vk.com/modcreate",
-				"name":"Мы в вк - https"
-			}
-		],
-		"id":442,
-		"title":"Applied Energistics 2",
-		"shouldOverride":true,
-		"tags":[
-			"AE2"
-		]
-	},
-	{
-		"description_short":"Magic, spirits and other...",
-		"version_name":"0.6.2 Beta",
-		"description_full":"Mod features 9 themed spirits, and each one of them offers several powerful talismans. Talisman is an item that allows player to cast spells. To use talismans you will have to gain favor of the spirit to whom it belongs. Contact spirits, trade with them, gain favor and harness spiritual power.",
-		"links":[
-			{
-				"link":"vk.com/toxes_foxes",
-				"name":"ToxesFoxes"
-			},
-			{
-				"link":"vk.com/tmm_corporation",
-				"name":"TooManyMods Corporation"
-			}
-		],
-		"id":420,
-		"title":"Divine Favor",
-		"shouldOverride":true,
-		"tags":[
-			"魔法"
-		]
-	},
-	{
-		"description_short":"Adds Foods To The Trees That Dont Have.",
-		"version_name":"1.0",
-		"description_full":"Adds Foods To The Trees That Dont Have, For Example, Oak Has Apples, Jungle Tree Has Cocoa, But Now With This Mod :\r\nBirches Has Oranges,\r\nSpruces Have Nuts,\r\nAcacias Have Acacia Seeds\r\n&amp;\r\nDark Oak Has Rome Apples.\r\n\r\n1.0 : Beta / . ✓\r\n1.1 : Removing The Crafting Recipes\r\nAnd Making The Foods A Drop From Leaves / ×",
-		"links":[
-			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
-				"name":"Youtube | https"
-			}
-		],
-		"id":469,
-		"title":"Tree Foods",
-		"shouldOverride":true,
-		"tags":[
-			"树上食物",
-			"食物",
-			"变种"
-		]
-	},
-	{
-		"description_short":"SkyrimCraft PE модификация позвоняющая перенести вас во вселенную The Elder Scrolls V.",
-		"version_name":"0.2.5 Bow Update✓",
-		"description_full":"SkyrimCraft PE модификация позвоняющая перенести вас во вселенную The Elder Scrolls V. В модификации вы найдете броню, оружие, механизмы и мобов из Skyrim.",
-		"links":[
-			{
-				"link":"//vk.com/mironpopov",
-				"name":"https"
-			}
-		],
-		"id":393,
-		"title":"SkyrimCraft PE",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"风景",
-			"生物",
-			"食物",
-			"设备",
-			"矿石",
-			"武器"
-		]
-	},
-	{
-		"description_short":"Этот мод добавляет новые команды на киты.",
-		"version_name":"v.0.1",
-		"description_full":"Этот мод добавляет в ваш мир майнкрафт новые команды на крутые и полезные наборы.\r\nВот весь список:\r\n/kitstart-Начальный набор\r\n/kitbonus-бонусный набор\r\n/kitfastgame-Набор для быстроой игры\r\n/kitcoal-Набор с углём",
-		"links":[
-			{
-				"link":"https://vk.com/id428581466",
-				"name":"Разраб"
-			}
-		],
-		"id":313,
-		"title":"KitMod",
-		"shouldOverride":true,
-		"tags":[
-			"工具箱",
-			"工具箱模组"
-		]
-	},
-	{
-		"description_short":"Good assembly of spendthrifts with the subject line and the created communications between fashion.",
-		"version_name":"1",
-		"description_full":"Good assembly of spendthrifts with the subject line and the created communications between fashion.\r\nAssembly is created especially for #pack_challenge! \r\nWill be supplemented and become complicated in the future.",
-		"links":[
-			{
-				"link":"https://vk.com/savenkons",
-				"name":"Разработчик"
-			}
-		],
-		"id":286,
-		"title":"Infinity Evloled Mod Pack",
-		"shouldOverride":true,
-		"tags":[
-			"整合包"
-		]
-	},
-	{
-		"description_short":"Primal Tech - Primal Core addon, that will make game bit harder",
-		"version_name":"1.0",
-		"description_full":"Primal Tech - Primal Core addon, that will make game bit harder",
-		"links":[
-			{
-				"link":"https://vk.com/primal_core",
-				"name":"vk"
-			}
-		],
-		"id":289,
-		"title":"Primal Tech",
-		"shouldOverride":true,
-		"tags":[
-			"原始核心",
-			"拓展",
-			"SevTech"
-		]
-	},
-	{
 		"description_short":"Realistic Start!",
 		"version_name":"1.2",
 		"description_full":"Realistic Way To Start Your Survival World!\r\nSuggested Playing With :\r\nAnother Thirst Mod\r\nHarvestcraft PE\r\nAnd\r\nArsenal Reforged",
@@ -5035,6 +4939,67 @@
 		]
 	},
 	{
+		"description_short":"SkyrimCraft PE модификация позвоняющая перенести вас во вселенную The Elder Scrolls V.",
+		"version_name":"0.2.5 Bow Update✓",
+		"description_full":"SkyrimCraft PE модификация позвоняющая перенести вас во вселенную The Elder Scrolls V. В модификации вы найдете броню, оружие, механизмы и мобов из Skyrim.",
+		"links":[
+			{
+				"link":"//vk.com/mironpopov",
+				"name":"https"
+			}
+		],
+		"id":393,
+		"title":"SkyrimCraft PE",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"风景",
+			"生物",
+			"食物",
+			"设备",
+			"矿石",
+			"武器"
+		]
+	},
+	{
+		"description_short":"Primal Tech - Primal Core addon, that will make game bit harder",
+		"version_name":"1.0",
+		"description_full":"Primal Tech - Primal Core addon, that will make game bit harder",
+		"links":[
+			{
+				"link":"https://vk.com/primal_core",
+				"name":"vk"
+			}
+		],
+		"id":289,
+		"title":"Primal Tech",
+		"shouldOverride":true,
+		"tags":[
+			"原始核心",
+			"拓展",
+			"SevTech"
+		]
+	},
+	{
+		"description_short":"Adds Foods To The Trees That Dont Have.",
+		"version_name":"1.0",
+		"description_full":"Adds Foods To The Trees That Dont Have, For Example, Oak Has Apples, Jungle Tree Has Cocoa, But Now With This Mod :\r\nBirches Has Oranges,\r\nSpruces Have Nuts,\r\nAcacias Have Acacia Seeds\r\n&amp;\r\nDark Oak Has Rome Apples.\r\n\r\n1.0 : Beta / . ✓\r\n1.1 : Removing The Crafting Recipes\r\nAnd Making The Foods A Drop From Leaves / ×",
+		"links":[
+			{
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"Youtube | https"
+			}
+		],
+		"id":469,
+		"title":"Tree Foods",
+		"shouldOverride":true,
+		"tags":[
+			"树上食物",
+			"食物",
+			"变种"
+		]
+	},
+	{
 		"description_short":"This mod adds 1 simple weapon",
 		"version_name":"1.0",
 		"description_full":"The Stick Sword.It deals 100 damage and has a durability of 2500.\r\n\r\nAn extremely powerful weapon, no high-end materials are required to make it, only the most basic wooden sticks are needed.\r\nAlthough it is the basic material, it takes a lot of wood resources to make it.\r\n\r\nIf this mod does not support your language, please reply in the comments.",
@@ -5051,6 +5016,23 @@
 			"木棍",
 			"远古遗物",
 			"武器"
+		]
+	},
+	{
+		"description_short":"Good assembly of spendthrifts with the subject line and the created communications between fashion.",
+		"version_name":"1",
+		"description_full":"Good assembly of spendthrifts with the subject line and the created communications between fashion.\r\nAssembly is created especially for #pack_challenge! \r\nWill be supplemented and become complicated in the future.",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Разработчик"
+			}
+		],
+		"id":286,
+		"title":"Infinity Evloled Mod Pack",
+		"shouldOverride":true,
+		"tags":[
+			"整合包"
 		]
 	},
 	{
@@ -5073,6 +5055,24 @@
 		"tags":[
 			"更多物品",
 			"矿石"
+		]
+	},
+	{
+		"description_short":"Этот мод добавляет новые команды на киты.",
+		"version_name":"v.0.1",
+		"description_full":"Этот мод добавляет в ваш мир майнкрафт новые команды на крутые и полезные наборы.\r\nВот весь список:\r\n/kitstart-Начальный набор\r\n/kitbonus-бонусный набор\r\n/kitfastgame-Набор для быстроой игры\r\n/kitcoal-Набор с углём",
+		"links":[
+			{
+				"link":"https://vk.com/id428581466",
+				"name":"Разраб"
+			}
+		],
+		"id":313,
+		"title":"KitMod",
+		"shouldOverride":true,
+		"tags":[
+			"工具箱",
+			"工具箱模组"
 		]
 	},
 	{
@@ -5223,24 +5223,6 @@
 		]
 	},
 	{
-		"description_short":"Этот мод добавляет имбовые предметы из чистого алмаза",
-		"version_name":"Вторая",
-		"description_full":"Мод добавляет имбовые предметы из чистого алмаза, который создаётся при переплавки угольного блока в печке. Сами предметы в два раза лучше алмазных.\r\n\r\nОбновление:\r\n•Блок Чистого Алмаза\r\n•Изменена текстура Чистого Алмаза",
-		"links":[
-			{
-				"link":"//www.youtube.com/channel/UCKkyLUD4GKb8qzJf4FHyWXg",
-				"name":"https"
-			}
-		],
-		"id":247,
-		"title":"Чистый Алмаз",
-		"shouldOverride":true,
-		"tags":[
-			"纯净钻石",
-			"Teenjus"
-		]
-	},
-	{
 		"description_short":"Добавляет магию связанную с рунами",
 		"version_name":"v2",
 		"description_full":"Добавляет магию связанную с рунами",
@@ -5268,6 +5250,24 @@
 		]
 	},
 	{
+		"description_short":"Этот мод добавляет имбовые предметы из чистого алмаза",
+		"version_name":"Вторая",
+		"description_full":"Мод добавляет имбовые предметы из чистого алмаза, который создаётся при переплавки угольного блока в печке. Сами предметы в два раза лучше алмазных.\r\n\r\nОбновление:\r\n•Блок Чистого Алмаза\r\n•Изменена текстура Чистого Алмаза",
+		"links":[
+			{
+				"link":"//www.youtube.com/channel/UCKkyLUD4GKb8qzJf4FHyWXg",
+				"name":"https"
+			}
+		],
+		"id":247,
+		"title":"Чистый Алмаз",
+		"shouldOverride":true,
+		"tags":[
+			"纯净钻石",
+			"Teenjus"
+		]
+	},
+	{
 		"description_short":"This mod will add more realism to Minecraft PE",
 		"version_name":"1.0",
 		"description_full":"This mod will add more realism to Minecraft PE. The mod greatly complicates the survival of the game, especially in the initial stages.\r\nSmel metal, process stones and burn clay. Now the player will be tormented by thirst, the extraction of many resources will become much more difficult.",
@@ -5287,6 +5287,25 @@
 		"tags":[
 			"现实",
 			"矿石"
+		]
+	},
+	{
+		"description_short":"ionic craft  модификация добавляет новые руды,  инструменты, энергию.",
+		"version_name":"2.0",
+		"description_full":"ionic craft  модификация добавляет новые руды,  инструменты, энергию.",
+		"links":[
+			{
+				"link":"//vk.com/ionic_craft",
+				"name":"Группа ВКонтакте https"
+			}
+		],
+		"id":436,
+		"title":"Ionic craft",
+		"shouldOverride":true,
+		"tags":[
+			"能量",
+			"矿石",
+			"模组"
 		]
 	},
 	{
@@ -5310,25 +5329,6 @@
 		]
 	},
 	{
-		"description_short":"ionic craft  модификация добавляет новые руды,  инструменты, энергию.",
-		"version_name":"2.0",
-		"description_full":"ionic craft  модификация добавляет новые руды,  инструменты, энергию.",
-		"links":[
-			{
-				"link":"//vk.com/ionic_craft",
-				"name":"Группа ВКонтакте https"
-			}
-		],
-		"id":436,
-		"title":"Ionic craft",
-		"shouldOverride":true,
-		"tags":[
-			"能量",
-			"矿石",
-			"模组"
-		]
-	},
-	{
 		"description_short":"can't pile up sand",
 		"version_name":"1.2",
 		"description_full":"Landslides occur when fall, build, and destroy.",
@@ -5343,35 +5343,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"系统"
-		]
-	},
-	{
-		"description_short":"панели (8/64/512)  шлемы",
-		"version_name":"1.5",
-		"description_full":"данный мод добавит в вашу игру компактные солнечные панели на 8/64/512 еЭ в тик, так-же шлемы с солнечной панелью",
-		"links":[
-			{
-				"link":"https://vk.com/comboarmors",
-				"name":"группа мода"
-			},
-			{
-				"link":"https://icmods.mineprogramming.org/mod.php?id=409",
-				"name":"Combo Armors"
-			}
-		],
-		"id":429,
-		"title":"Compact Solar Array",
-		"shouldOverride":true,
-		"tags":[
-			"阵列",
-			"能量",
-			"压缩",
-			"太阳能",
-			"压缩太阳能阵列",
-			"太阳能发电机",
-			"IC2",
-			"拓展",
-			"板"
 		]
 	},
 	{
@@ -5418,6 +5389,58 @@
 		]
 	},
 	{
+		"description_short":"панели (8/64/512)  шлемы",
+		"version_name":"1.5",
+		"description_full":"данный мод добавит в вашу игру компактные солнечные панели на 8/64/512 еЭ в тик, так-же шлемы с солнечной панелью",
+		"links":[
+			{
+				"link":"https://vk.com/comboarmors",
+				"name":"группа мода"
+			},
+			{
+				"link":"https://icmods.mineprogramming.org/mod.php?id=409",
+				"name":"Combo Armors"
+			}
+		],
+		"id":429,
+		"title":"Compact Solar Array",
+		"shouldOverride":true,
+		"tags":[
+			"阵列",
+			"能量",
+			"压缩",
+			"太阳能",
+			"压缩太阳能阵列",
+			"太阳能发电机",
+			"IC2",
+			"拓展",
+			"板"
+		]
+	},
+	{
+		"description_short":"Блоки Для декораций!",
+		"version_name":"1.2",
+		"description_full":"Блоки Для декораций! +120 Блок!!!",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"Автор Вк"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"Группа Вк"
+			}
+		],
+		"id":414,
+		"title":"Decoration Plank",
+		"shouldOverride":true,
+		"tags":[
+			" ",
+			"方块",
+			"装饰"
+		]
+	},
+	{
 		"description_short":"Это пародия на сборку техно-маг от rsop gaming.",
 		"version_name":"1.5.4",
 		"description_full":"WFA Tech-Mage 1.5.3\r\n\r\nЧто нового в 1.5.2:\r\n-Усложнены начальные ванила крафты.\r\n-Удалены деревянные инструменты\r\n-Установлен Extra Utilites\r\n\r\nЧто нового в 1.5.4:\r\n-Оптимизация кода\r\n-Убраны кривожопые ачивки\r\n-Добавлен LavaCraft\r\n-Добавлен MoonCraft\r\n\r\nП.С для начала крафтим инструмент \\&quot;Палка копалка\\&quot;, им добываем камень и убиваем пауков, добываем дерева и крафтим каменные орудия\r\n\r\nСейчас в сборке 24 мода.\r\nСкорее всего эта финальные моды в сборке, но не факт.\r\n\r\nМодификации: \r\n1. IC 2 \r\n2. MoreFood\r\n3. EvilCraft\r\n4. Baubles \r\n5. MoreBlock\r\n6. Ender Storage \r\n7. Blood Magic \r\n8. Decoration Blocks \r\n9. Storage Drawn \r\n10. Solar Expanshion \r\n11. DE \r\n12. GuideAPI\r\n13. LuckyBlock\r\n14. Portal Gun\r\n15. Utils+\r\n16. Infinity Forest\r\n17. MobsCraft\r\n18. Energy Converter\r\n19. LavaCraft\r\n20. MoonCraft\r\n21. ну и естесна парочка модов",
@@ -5448,29 +5471,6 @@
 		]
 	},
 	{
-		"description_short":"Блоки Для декораций!",
-		"version_name":"1.2",
-		"description_full":"Блоки Для декораций! +120 Блок!!!",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"Автор Вк"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"Группа Вк"
-			}
-		],
-		"id":414,
-		"title":"Decoration Plank",
-		"shouldOverride":true,
-		"tags":[
-			" ",
-			"方块",
-			"装饰"
-		]
-	},
-	{
 		"description_short":"Such A Few Random Swords!!!",
 		"version_name":"1.0",
 		"description_full":"Such A Few Random Swords!!!",
@@ -5485,6 +5485,23 @@
 		"shouldOverride":true,
 		"tags":[
 			"工具"
+		]
+	},
+	{
+		"description_short":"Добавляет кожу гаста и броню из нее.",
+		"version_name":"V1.0",
+		"description_full":"После установки данного мода из каждого гаста будет падать кусок его кожи. Из этой кожи можно скрафтить броню, которая даст огнеупорность, при надевании полного сета. Но минус этой брони - прочность, ибо она равна кожаной.",
+		"links":[
+			{
+				"link":false,
+				"name":""
+			}
+		],
+		"id":246,
+		"title":"Ghast Skin Armor",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲"
 		]
 	},
 	{
@@ -5507,23 +5524,6 @@
 			"设备",
 			"矿石",
 			"武器"
-		]
-	},
-	{
-		"description_short":"Добавляет кожу гаста и броню из нее.",
-		"version_name":"V1.0",
-		"description_full":"После установки данного мода из каждого гаста будет падать кусок его кожи. Из этой кожи можно скрафтить броню, которая даст огнеупорность, при надевании полного сета. Но минус этой брони - прочность, ибо она равна кожаной.",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":246,
-		"title":"Ghast Skin Armor",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲"
 		]
 	},
 	{
@@ -5562,6 +5562,24 @@
 		]
 	},
 	{
+		"description_short":"simple and well-known minerals for minecraft",
+		"version_name":"3.0",
+		"description_full":"This mod is a port of the pc version made by AleXndrTheGr8st's.The port of this mod was made by HaaD.just made the simple ores 2, I intend to do all the other mod and addons of the simple ores, all in one.the mod consists of new simple ores for minecraft",
+		"links":[
+			{
+				"link":"https://vk.com/id504995667",
+				"name":"VK"
+			}
+		],
+		"id":366,
+		"title":"Simples Ores PE",
+		"shouldOverride":true,
+		"tags":[
+			"工具",
+			"矿石"
+		]
+	},
+	{
 		"description_short":"Add new apple",
 		"version_name":"1.1.01",
 		"description_full":"This mod add new view of apple:iron, diamond, redstone, emerald, lapis, quartz.",
@@ -5576,6 +5594,25 @@
 		"shouldOverride":true,
 		"tags":[
 			"食物"
+		]
+	},
+	{
+		"description_short":"This is the most popular resourcepack in Minecraft. Now we are support IC2 ores textures.",
+		"version_name":"1.2",
+		"description_full":"This is the most popular resourcepack in Minecraft. Now we are support IC2 ores textures.\r\nLike and tell your friends about this mod!\r\n\r\nSize - 19mb",
+		"links":[
+			{
+				"link":"https://vk.com/id462794943",
+				"name":"VK"
+			}
+		],
+		"id":493,
+		"title":"Faithful 32x32 PE",
+		"shouldOverride":true,
+		"tags":[
+			"全局",
+			"装饰",
+			"拓展"
 		]
 	},
 	{
@@ -5596,21 +5633,22 @@
 		]
 	},
 	{
-		"description_short":"simple and well-known minerals for minecraft",
-		"version_name":"3.0",
-		"description_full":"This mod is a port of the pc version made by AleXndrTheGr8st's.The port of this mod was made by HaaD.just made the simple ores 2, I intend to do all the other mod and addons of the simple ores, all in one.the mod consists of new simple ores for minecraft",
+		"description_short":"Makes minecraft more realistic",
+		"version_name":"1.0.1",
+		"description_full":"Makes minecraft more realistic",
 		"links":[
 			{
-				"link":"https://vk.com/id504995667",
-				"name":"VK"
+				"link":"https://vk.com/id557571253",
+				"name":"Vk"
 			}
 		],
-		"id":366,
-		"title":"Simples Ores PE",
+		"id":468,
+		"title":"Primitive Craft",
 		"shouldOverride":true,
 		"tags":[
-			"工具",
-			"矿石"
+			"现实",
+			"逼真",
+			"工具"
 		]
 	},
 	{
@@ -5637,25 +5675,6 @@
 		]
 	},
 	{
-		"description_short":"Makes minecraft more realistic",
-		"version_name":"1.0.1",
-		"description_full":"Makes minecraft more realistic",
-		"links":[
-			{
-				"link":"https://vk.com/id557571253",
-				"name":"Vk"
-			}
-		],
-		"id":468,
-		"title":"Primitive Craft",
-		"shouldOverride":true,
-		"tags":[
-			"现实",
-			"逼真",
-			"工具"
-		]
-	},
-	{
 		"description_short":"This Is A Addon For Primitive Technology Mod, Allows You To Forge New Weapons!",
 		"version_name":"1.2",
 		"description_full":"This Is A Addon For Primitive Technology Mod, Allows You To Forge New Weapons!",
@@ -5671,25 +5690,6 @@
 		"tags":[
 			"实用工具",
 			"工具",
-			"拓展"
-		]
-	},
-	{
-		"description_short":"This is the most popular resourcepack in Minecraft. Now we are support IC2 ores textures.",
-		"version_name":"1.2",
-		"description_full":"This is the most popular resourcepack in Minecraft. Now we are support IC2 ores textures.\r\nLike and tell your friends about this mod!\r\n\r\nSize - 19mb",
-		"links":[
-			{
-				"link":"https://vk.com/id462794943",
-				"name":"VK"
-			}
-		],
-		"id":493,
-		"title":"Faithful 32x32 PE",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"装饰",
 			"拓展"
 		]
 	},
@@ -5842,6 +5842,26 @@
 		]
 	},
 	{
+		"description_short":"Мод добавит множество новых слитков и блоков, вскоре добавлю броню и инструменты",
+		"version_name":"0.1.1",
+		"description_full":"Мод добавит множество новых слитков и блоков, вскоре добавлю броню и инструменты.",
+		"links":[
+			{
+				"link":"@seamorei",
+				"name":"Инстаграм"
+			}
+		],
+		"id":355,
+		"title":"Neverending Ingots",
+		"shouldOverride":true,
+		"tags":[
+			"魔法",
+			"设备",
+			"锭",
+			"模组"
+		]
+	},
+	{
 		"description_short":"Simple Mod For My Favourite YouTuber!",
 		"version_name":"1.1!",
 		"description_full":"Dedicated To Temtatork :D\r\nSimple Mod.\r\n\r\n\r\n(PD: I CAN FINALLY TAKE SCREENSHOTS!!!)",
@@ -5881,26 +5901,6 @@
 		]
 	},
 	{
-		"description_short":"Мод добавит множество новых слитков и блоков, вскоре добавлю броню и инструменты",
-		"version_name":"0.1.1",
-		"description_full":"Мод добавит множество новых слитков и блоков, вскоре добавлю броню и инструменты.",
-		"links":[
-			{
-				"link":"@seamorei",
-				"name":"Инстаграм"
-			}
-		],
-		"id":355,
-		"title":"Neverending Ingots",
-		"shouldOverride":true,
-		"tags":[
-			"魔法",
-			"设备",
-			"锭",
-			"模组"
-		]
-	},
-	{
 		"description_short":"Pleins de nouveaux items et blocks !  full of new items and blocks !",
 		"version_name":"1.1",
 		"description_full":"Ce mod rajoute pleins d'anciens blocks, items et aussi quelques nouveautés.\r\nsi vous trouvez des bug dites les moi dans les commentaires.\r\n\r\nThis mod adds lots of old blocks and items and some new stuff.\r\nif you find any bug say me in the comments.",
@@ -5937,26 +5937,6 @@
 		"tags":[
 			"盔甲",
 			"武器"
-		]
-	},
-	{
-		"description_short":"This Is V2 of the FoodPlusMCPE mod",
-		"version_name":"0.10.x and Higher",
-		"description_full":"This is version 2 of the FoodPlusMCPE Mod! \r\nUpdated! bugFixes and moved to beta",
-		"links":[
-			{
-				"link":"//www.9minecraft.net/food-plus-mod/",
-				"name":"http"
-			}
-		],
-		"id":367,
-		"title":"FoodPlusMCPEV2",
-		"shouldOverride":true,
-		"tags":[
-			"全局",
-			"官方 InnerCore 模组",
-			"食物",
-			"工具"
 		]
 	},
 	{
@@ -6000,42 +5980,22 @@
 		]
 	},
 	{
-		"description_short":"Этот мод добавляет крафт кольчужной брони, а так же, рюкзаки и многое другое...",
-		"version_name":"0.1.2.3",
-		"description_full":"ВАЖНО! Внутри мода есть ТХТ файл, там есть гайд о том что в этом моде и как.\r\n\r\nНововведения в 0.1.2.3\r\nЛитиевая батарейка (Нигде не используется)\r\nОбычная батарейка (Нигде не используется)\r\nКусочки лития (Используется в крафте литиевой пластины)\r\nКусочки цинка (Нигде не используются)\r\nКусочек олова (Используется в крафте литиевой пластины)\r\nКусочек алюминия (Нигде не используется)\r\nКсеоновая частица (Нигде не используется)\r\nУгольная пластина (Используется в крафте обычной и литиевой батареи)\r\nЛитиевая пластина (Используется в крафте литиевой батареи)\r\nМаленький провод (Используется в крафте литиевой батареи)\r\nБольшой провод (Используется в крафте маленького провода)\r\nАлюминиевые кусачки (Используется в крафте большого и маленького провода)",
+		"description_short":"This Is V2 of the FoodPlusMCPE mod",
+		"version_name":"0.10.x and Higher",
+		"description_full":"This is version 2 of the FoodPlusMCPE Mod! \r\nUpdated! bugFixes and moved to beta",
 		"links":[
 			{
-				"link":"https://vk.com/forestry_pe",
-				"name":"Создатель библиотеки на рюкзаки"
+				"link":"//www.9minecraft.net/food-plus-mod/",
+				"name":"http"
 			}
 		],
-		"id":354,
-		"title":"Chemical craft",
+		"id":367,
+		"title":"FoodPlusMCPEV2",
 		"shouldOverride":true,
 		"tags":[
-			" ",
+			"全局",
+			"官方 InnerCore 模组",
 			"食物",
-			"化学",
-			"科学",
-			"矿石"
-		]
-	},
-	{
-		"description_short":"Add Realistic Works With This Mod!",
-		"version_name":"4.0!",
-		"description_full":"Work And Craft With Modded And Original Clay, Forge Tools, Prepare Crucibles, Crush Rocks And Build Machines!\r\n\r\nPlease Check The Changelog To See How To Obtain The Uncraftable Stuff!",
-		"links":[
-			{
-				"link":"0",
-				"name":""
-			}
-		],
-		"id":377,
-		"title":"Primitive Technology",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"合成",
 			"工具"
 		]
 	},
@@ -6059,6 +6019,25 @@
 		"tags":[
 			"现实",
 			"口渴"
+		]
+	},
+	{
+		"description_short":"Add Realistic Works With This Mod!",
+		"version_name":"4.0!",
+		"description_full":"Work And Craft With Modded And Original Clay, Forge Tools, Prepare Crucibles, Crush Rocks And Build Machines!\r\n\r\nPlease Check The Changelog To See How To Obtain The Uncraftable Stuff!",
+		"links":[
+			{
+				"link":"0",
+				"name":""
+			}
+		],
+		"id":377,
+		"title":"Primitive Technology",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"合成",
+			"工具"
 		]
 	},
 	{
@@ -6086,45 +6065,24 @@
 		]
 	},
 	{
-		"description_short":"[Iron Barrel]",
-		"version_name":"1.1.1.1",
-		"description_full":"PC MOD -&gt; IC MOD\r\n- Деревянная бочка - 27 слота\r\n- Железная бочка - 54 слота\r\n- Золотая бочка - 81 слота\r\n- Алмазная бочка - 104 слота\r\n- Обсидиановая бочка - 104 слота (взрывоустойчивая) \r\n- Кристальная бочка - 104 слота (прозрачная)",
+		"description_short":"Этот мод добавляет крафт кольчужной брони, а так же, рюкзаки и многое другое...",
+		"version_name":"0.1.2.3",
+		"description_full":"ВАЖНО! Внутри мода есть ТХТ файл, там есть гайд о том что в этом моде и как.\r\n\r\nНововведения в 0.1.2.3\r\nЛитиевая батарейка (Нигде не используется)\r\nОбычная батарейка (Нигде не используется)\r\nКусочки лития (Используется в крафте литиевой пластины)\r\nКусочки цинка (Нигде не используются)\r\nКусочек олова (Используется в крафте литиевой пластины)\r\nКусочек алюминия (Нигде не используется)\r\nКсеоновая частица (Нигде не используется)\r\nУгольная пластина (Используется в крафте обычной и литиевой батареи)\r\nЛитиевая пластина (Используется в крафте литиевой батареи)\r\nМаленький провод (Используется в крафте литиевой батареи)\r\nБольшой провод (Используется в крафте маленького провода)\r\nАлюминиевые кусачки (Используется в крафте большого и маленького провода)",
 		"links":[
 			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"♛Автор Вк"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"♛Группа Вк"
+				"link":"https://vk.com/forestry_pe",
+				"name":"Создатель библиотеки на рюкзаки"
 			}
 		],
-		"id":435,
-		"title":"♛Iron Barrel♛",
+		"id":354,
+		"title":"Chemical craft",
 		"shouldOverride":true,
 		"tags":[
-			"箱子",
 			" ",
-			"木桶",
-			"存储物品"
-		]
-	},
-	{
-		"description_short":"Сырой но вкусный мод.",
-		"version_name":"Alpha: 0.1.1",
-		"description_full":"Сырой но вкусный мод.",
-		"links":[
-			{
-				"link":"https: //vk.com/id423403856",
-				"name":"Автор"
-			}
-		],
-		"id":300,
-		"title":"Modified craft",
-		"shouldOverride":true,
-		"tags":[
-			"设备",
-			"模组"
+			"食物",
+			"化学",
+			"科学",
+			"矿石"
 		]
 	},
 	{
@@ -6149,6 +6107,48 @@
 		]
 	},
 	{
+		"description_short":"Сырой но вкусный мод.",
+		"version_name":"Alpha: 0.1.1",
+		"description_full":"Сырой но вкусный мод.",
+		"links":[
+			{
+				"link":"https: //vk.com/id423403856",
+				"name":"Автор"
+			}
+		],
+		"id":300,
+		"title":"Modified craft",
+		"shouldOverride":true,
+		"tags":[
+			"设备",
+			"模组"
+		]
+	},
+	{
+		"description_short":"[Iron Barrel]",
+		"version_name":"1.1.1.1",
+		"description_full":"PC MOD -&gt; IC MOD\r\n- Деревянная бочка - 27 слота\r\n- Железная бочка - 54 слота\r\n- Золотая бочка - 81 слота\r\n- Алмазная бочка - 104 слота\r\n- Обсидиановая бочка - 104 слота (взрывоустойчивая) \r\n- Кристальная бочка - 104 слота (прозрачная)",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"♛Автор Вк"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"♛Группа Вк"
+			}
+		],
+		"id":435,
+		"title":"♛Iron Barrel♛",
+		"shouldOverride":true,
+		"tags":[
+			"箱子",
+			" ",
+			"木桶",
+			"存储物品"
+		]
+	},
+	{
 		"description_short":"New ores and stones that can be used for decoration, tools and even alloys.",
 		"version_name":"1.1.0 major",
 		"description_full":"This mod is adding new ores and new stones to your world.\r\nOres\r\n-Copper : a metal that can be used for making bronze, brass and copper blocks\r\n-Zinc : a metal that can be used for making brass.\r\n-Tin : a metal that can be used for making bronze.\r\n-Salt: Substance that makes your food more delicious.\r\n-Titanium: Strong metal for hard glass and tools better than diamond.\r\n-Bismuth: Metal for decorative purposes\r\n-Lithium: Metal that can be used for batteries, lamps and more electric stuff.\r\nStones\r\n-Slate, Blue Slate, Dacite, Limestone, Komatiite and Greywacke\r\n-Basalt can be used for tools.\r\nMaterials\r\n-Ocre\r\n-Ivory\r\n-Brass\r\n-Bronze\r\n\r\nAll ores and stones generate randomly.",
@@ -6165,74 +6165,6 @@
 			"工具",
 			"矿石",
 			"装饰"
-		]
-	},
-	{
-		"description_short":"Now the torch can set fire to creatures.",
-		"version_name":"1.0",
-		"description_full":"Now the torch can set fire to creatures.",
-		"links":[
-			{
-				"link":"https://vk.com/mods.inner.core",
-				"name":"Group in VK"
-			},
-			{
-				"link":"https://vk.com/id354069902",
-				"name":"VK"
-			}
-		],
-		"id":456,
-		"title":"TheTorch",
-		"shouldOverride":true,
-		"tags":[
-			"火把"
-		]
-	},
-	{
-		"description_short":"Заменет некоторые ванильные текстуры",
-		"version_name":"1.0",
-		"description_full":"Меняет некоторые текстуры",
-		"links":[
-			{
-				"link":"https://vk.com/club18654458",
-				"name":"Vk"
-			}
-		],
-		"id":448,
-		"title":"resources packs",
-		"shouldOverride":true,
-		"tags":[
-			"材质"
-		]
-	},
-	{
-		"description_short":"Портал В Джунглий",
-		"version_name":"1.0",
-		"description_full":"MadLord Realm [Jungle Location] [Beta v0.1] \r\nМод добавит новое измерение \\&quot;Джунгли\\&quot; в котором есть разные руды, мобы, инструменты и блоки. \r\nЕсли что это глубокое бета и мало что имеет",
-		"links":[
-			{
-				"link":"https://vk.com/nagymet.adaev",
-				"name":"Автор Вк"
-			},
-			{
-				"link":"//vk.com/id481263065",
-				"name":"https"
-			},
-			{
-				"link":"https://vk.com/nakomods",
-				"name":"Группа Вк"
-			}
-		],
-		"id":411,
-		"title":"Mad Lord",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲",
-			" ",
-			"丛林",
-			"设备",
-			"传送门",
-			"维度"
 		]
 	},
 	{
@@ -6284,6 +6216,74 @@
 		]
 	},
 	{
+		"description_short":"Заменет некоторые ванильные текстуры",
+		"version_name":"1.0",
+		"description_full":"Меняет некоторые текстуры",
+		"links":[
+			{
+				"link":"https://vk.com/club18654458",
+				"name":"Vk"
+			}
+		],
+		"id":448,
+		"title":"resources packs",
+		"shouldOverride":true,
+		"tags":[
+			"材质"
+		]
+	},
+	{
+		"description_short":"Now the torch can set fire to creatures.",
+		"version_name":"1.0",
+		"description_full":"Now the torch can set fire to creatures.",
+		"links":[
+			{
+				"link":"https://vk.com/mods.inner.core",
+				"name":"Group in VK"
+			},
+			{
+				"link":"https://vk.com/id354069902",
+				"name":"VK"
+			}
+		],
+		"id":456,
+		"title":"TheTorch",
+		"shouldOverride":true,
+		"tags":[
+			"火把"
+		]
+	},
+	{
+		"description_short":"Портал В Джунглий",
+		"version_name":"1.0",
+		"description_full":"MadLord Realm [Jungle Location] [Beta v0.1] \r\nМод добавит новое измерение \\&quot;Джунгли\\&quot; в котором есть разные руды, мобы, инструменты и блоки. \r\nЕсли что это глубокое бета и мало что имеет",
+		"links":[
+			{
+				"link":"https://vk.com/nagymet.adaev",
+				"name":"Автор Вк"
+			},
+			{
+				"link":"//vk.com/id481263065",
+				"name":"https"
+			},
+			{
+				"link":"https://vk.com/nakomods",
+				"name":"Группа Вк"
+			}
+		],
+		"id":411,
+		"title":"Mad Lord",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲",
+			" ",
+			"丛林",
+			"设备",
+			"传送门",
+			"维度"
+		]
+	},
+	{
 		"description_short":"A port Of Food Plus Mod From PC",
 		"version_name":"0.14.0 And Higher",
 		"description_full":"This mod is a port of the food plus mod for MCPE",
@@ -6301,6 +6301,25 @@
 			"官方 InnerCore 模组",
 			"食物",
 			"工具"
+		]
+	},
+	{
+		"description_short":"Utility to create worlds available in mods.",
+		"version_name":"1.3",
+		"description_full":"Utility to create worlds available in mods.",
+		"links":[
+			{
+				"link":"https://wiki.mineprogramming.org/index.php/WorldLoader",
+				"name":"WiKi"
+			}
+		],
+		"id":470,
+		"title":"WorldLoader",
+		"shouldOverride":true,
+		"tags":[
+			"库",
+			"实用工具",
+			"世界"
 		]
 	},
 	{
@@ -6335,25 +6354,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"基岩层"
-		]
-	},
-	{
-		"description_short":"Utility to create worlds available in mods.",
-		"version_name":"1.3",
-		"description_full":"Utility to create worlds available in mods.",
-		"links":[
-			{
-				"link":"https://wiki.mineprogramming.org/index.php/WorldLoader",
-				"name":"WiKi"
-			}
-		],
-		"id":470,
-		"title":"WorldLoader",
-		"shouldOverride":true,
-		"tags":[
-			"库",
-			"实用工具",
-			"世界"
 		]
 	},
 	{
@@ -6436,6 +6436,23 @@
 		]
 	},
 	{
+		"description_short":".",
+		"version_name":"1.0",
+		"description_full":".",
+		"links":[
+			{
+				"link":false,
+				"name":""
+			}
+		],
+		"id":500,
+		"title":"Magic Clover",
+		"shouldOverride":true,
+		"tags":[
+			"lucky"
+		]
+	},
+	{
 		"description_short":"compass",
 		"version_name":"1.2",
 		"description_full":"compass",
@@ -6454,24 +6471,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"HUD"
-		]
-	},
-	{
-		"description_short":"Adds A Structure!",
-		"version_name":"1.0",
-		"description_full":"Adds The Well-Known Structure From Druidic Craft But The Loot Supports Primitive Technology Mod!",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":382,
-		"title":"Primitive Structure",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"拓展"
 		]
 	},
 	{
@@ -6494,23 +6493,6 @@
 		]
 	},
 	{
-		"description_short":".",
-		"version_name":"1.0",
-		"description_full":".",
-		"links":[
-			{
-				"link":false,
-				"name":""
-			}
-		],
-		"id":500,
-		"title":"Magic Clover",
-		"shouldOverride":true,
-		"tags":[
-			"lucky"
-		]
-	},
-	{
 		"description_short":"Adds 6 Baubles And A Crafting Item.",
 		"version_name":"1.0",
 		"description_full":"Adds 6 Baubles And A Crafting Item.\r\nComing Soon :\r\n- More Baubles (Maybe 1.5)\r\n- Far More Baubles (2.0)",
@@ -6530,6 +6512,24 @@
 		]
 	},
 	{
+		"description_short":"Adds A Structure!",
+		"version_name":"1.0",
+		"description_full":"Adds The Well-Known Structure From Druidic Craft But The Loot Supports Primitive Technology Mod!",
+		"links":[
+			{
+				"link":false,
+				"name":""
+			}
+		],
+		"id":382,
+		"title":"Primitive Structure",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"拓展"
+		]
+	},
+	{
 		"description_short":"Machine for add pollution!!!",
 		"version_name":"1.1.2",
 		"description_full":"Machine for add pollution!!!\r\n\r\nTo play the mod, you need to add at least one of the following mods.\r\n\r\nIndustrialCraft2 - version 2.0.11 and above.\r\nEnergyTech - version 2.0.0A7 and above.",
@@ -6544,87 +6544,6 @@
 		"shouldOverride":true,
 		"tags":[
 			"科技"
-		]
-	},
-	{
-		"description_short":"It brought energy (EU), machines, tools and many other things to Minecraft.",
-		"version_name":"3.0.0",
-		"description_full":"EnergyTech2, created by: MaiSui, and inspired by IC2 and GT6, it brought energy (EU), machines, tools and many other things to Minecraft.\r\n\r\nIf EnergyTech does not support your language,welcome to add your language in Git.",
-		"links":[
-			{
-				"link":"https://vk.com/energy_tech",
-				"name":"vk"
-			},
-			{
-				"link":"https://github.com/fourblockstudio/EnergyTech/wiki",
-				"name":"wiki"
-			}
-		],
-		"id":478,
-		"title":"EnergyTech",
-		"shouldOverride":true,
-		"tags":[
-			"科技",
-			"矿石"
-		]
-	},
-	{
-		"description_short":"Standing over lava is now life threatening.",
-		"version_name":"1.0",
-		"description_full":"Standing over lava is now life threatening.",
-		"links":[
-			{
-				"link":"https://vk.com/id354069902",
-				"name":"VK"
-			},
-			{
-				"link":"https://vk.com/mods.inner.core",
-				"name":"Group in VK"
-			}
-		],
-		"id":458,
-		"title":"TheLava",
-		"shouldOverride":true,
-		"tags":[
-			"岩浆"
-		]
-	},
-	{
-		"description_short":"Мод добавит в майнкрафт новые ботинки, которые подойдут для тех, кто любит исследовать мир.",
-		"version_name":"",
-		"description_full":"Мод добавит в майнкрафт новые ботинки, которые отлично подойдут для тех, кто любит много ходить и всё исследовать. Все новых ботинок 4 пары, каждая пара даёт игроку ускорение, а некоторые ещё увеличивают и высоту прыжка. При этом они обладают броней, как и обычные ботинки.\r\n\r\nTraveller's Boots MK1\r\nДают скорость 1 уровня.\r\n1 очко брони.\r\n\r\nTraveller's Boots MK2\r\nДают скорость 2 уровня.\r\n2 очка брони.\r\n\r\nTraveller's Boots MK3\r\nДают скорость 3 уровня.\r\n4 очка брони.\r\n\r\nTraveller's Boots MK4\r\nДают скорость 4 уровня.\r\nДают Прыжок второго уровня.\r\n6 очков брони.",
-		"links":[
-			{
-				"link":"https://vk.com/nilterthegod",
-				"name":"Автор в ВК"
-			},
-			{
-				"link":"https://www.youtube.com/channel/UCV8voj_BFupB6UbfqyQn1-w",
-				"name":"Канал автора"
-			}
-		],
-		"id":484,
-		"title":"Traveller's Boots",
-		"shouldOverride":true,
-		"tags":[
-			"盔甲"
-		]
-	},
-	{
-		"description_short":"В левом верхнем углу экрана отображается GUI состояния батареи.",
-		"version_name":"1.0.0",
-		"description_full":"At the top left of the screen, a battery status GUI is displayed\r\nВ левом верхнем углу экрана отображается GUI состояния батареи.\r\n\r\n\r\nPlease use Android.js included in Mod as you like\r\n\r\n\r\nThere is a InnerCore bug that can not operate the GUI on galaxy S10 + Android 10, so the current operation function can not be added",
-		"links":[
-			{
-				"link":"//vk.com/club191744935",
-				"name":"https"
-			}
-		],
-		"id":482,
-		"title":"Battery Status Mod",
-		"shouldOverride":true,
-		"tags":[
-			"系统"
 		]
 	},
 	{
@@ -6678,6 +6597,70 @@
 		]
 	},
 	{
+		"description_short":"It brought energy (EU), machines, tools and many other things to Minecraft.",
+		"version_name":"3.0.0",
+		"description_full":"EnergyTech2, created by: MaiSui, and inspired by IC2 and GT6, it brought energy (EU), machines, tools and many other things to Minecraft.\r\n\r\nIf EnergyTech does not support your language,welcome to add your language in Git.",
+		"links":[
+			{
+				"link":"https://vk.com/energy_tech",
+				"name":"vk"
+			},
+			{
+				"link":"https://github.com/fourblockstudio/EnergyTech/wiki",
+				"name":"wiki"
+			}
+		],
+		"id":478,
+		"title":"EnergyTech",
+		"shouldOverride":true,
+		"tags":[
+			"科技",
+			"矿石"
+		]
+	},
+	{
+		"description_short":"Мод добавит в майнкрафт новые ботинки, которые подойдут для тех, кто любит исследовать мир.",
+		"version_name":"",
+		"description_full":"Мод добавит в майнкрафт новые ботинки, которые отлично подойдут для тех, кто любит много ходить и всё исследовать. Все новых ботинок 4 пары, каждая пара даёт игроку ускорение, а некоторые ещё увеличивают и высоту прыжка. При этом они обладают броней, как и обычные ботинки.\r\n\r\nTraveller's Boots MK1\r\nДают скорость 1 уровня.\r\n1 очко брони.\r\n\r\nTraveller's Boots MK2\r\nДают скорость 2 уровня.\r\n2 очка брони.\r\n\r\nTraveller's Boots MK3\r\nДают скорость 3 уровня.\r\n4 очка брони.\r\n\r\nTraveller's Boots MK4\r\nДают скорость 4 уровня.\r\nДают Прыжок второго уровня.\r\n6 очков брони.",
+		"links":[
+			{
+				"link":"https://vk.com/nilterthegod",
+				"name":"Автор в ВК"
+			},
+			{
+				"link":"https://www.youtube.com/channel/UCV8voj_BFupB6UbfqyQn1-w",
+				"name":"Канал автора"
+			}
+		],
+		"id":484,
+		"title":"Traveller's Boots",
+		"shouldOverride":true,
+		"tags":[
+			"盔甲"
+		]
+	},
+	{
+		"description_short":"Standing over lava is now life threatening.",
+		"version_name":"1.0",
+		"description_full":"Standing over lava is now life threatening.",
+		"links":[
+			{
+				"link":"https://vk.com/id354069902",
+				"name":"VK"
+			},
+			{
+				"link":"https://vk.com/mods.inner.core",
+				"name":"Group in VK"
+			}
+		],
+		"id":458,
+		"title":"TheLava",
+		"shouldOverride":true,
+		"tags":[
+			"岩浆"
+		]
+	},
+	{
 		"description_short":"Adds Many Food That Looks Like Vanilla Minecraft!",
 		"version_name":"1.0",
 		"description_full":"Adds Many Food That Looks Like Vanilla Minecraft! These Are A New Motivation To Use Minecraft Crops :D",
@@ -6700,24 +6683,6 @@
 		]
 	},
 	{
-		"description_short":"Show your ticks per second in realtime.",
-		"version_name":"1",
-		"description_full":"Show your ticks per second in realtime.",
-		"links":[
-			{
-				"link":"https://vk.com/savenkons",
-				"name":"Author"
-			}
-		],
-		"id":389,
-		"title":"TPS Meter",
-		"shouldOverride":true,
-		"tags":[
-			"实用工具",
-			"工具"
-		]
-	},
-	{
 		"description_short":"Adds Soulsandstone (Does Not Include The Blue Fire)",
 		"version_name":"1.0",
 		"description_full":"Adds Soulsandstone",
@@ -6733,6 +6698,41 @@
 		"tags":[
 			"灵魂沙",
 			"砂岩"
+		]
+	},
+	{
+		"description_short":"В левом верхнем углу экрана отображается GUI состояния батареи.",
+		"version_name":"1.0.0",
+		"description_full":"At the top left of the screen, a battery status GUI is displayed\r\nВ левом верхнем углу экрана отображается GUI состояния батареи.\r\n\r\n\r\nPlease use Android.js included in Mod as you like\r\n\r\n\r\nThere is a InnerCore bug that can not operate the GUI on galaxy S10 + Android 10, so the current operation function can not be added",
+		"links":[
+			{
+				"link":"//vk.com/club191744935",
+				"name":"https"
+			}
+		],
+		"id":482,
+		"title":"Battery Status Mod",
+		"shouldOverride":true,
+		"tags":[
+			"系统"
+		]
+	},
+	{
+		"description_short":"Show your ticks per second in realtime.",
+		"version_name":"1",
+		"description_full":"Show your ticks per second in realtime.",
+		"links":[
+			{
+				"link":"https://vk.com/savenkons",
+				"name":"Author"
+			}
+		],
+		"id":389,
+		"title":"TPS Meter",
+		"shouldOverride":true,
+		"tags":[
+			"实用工具",
+			"工具"
 		]
 	},
 	{
@@ -6758,21 +6758,22 @@
 		]
 	},
 	{
-		"description_short":"Eat you flesh!",
-		"version_name":"build 1",
-		"description_full":"Craft knife and cut off you flesh!",
+		"description_short":"Enhances Some Folliage.",
+		"version_name":"1.0",
+		"description_full":"Enhances The Folliage On Minecraft With A Texture Change And Coming Soon, More Types Of Grass And Flowers, Support For Leaves On Low Graphics",
 		"links":[
 			{
-				"link":"https://www.youtube.com/channel/UCV8voj_BFupB6UbfqyQn1-w",
-				"name":"Ютуб автора"
+				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
+				"name":"YT||https"
 			}
 		],
-		"id":499,
-		"title":"Cannibalism",
+		"id":475,
+		"title":"Other Folliage",
 		"shouldOverride":true,
 		"tags":[
-			"食物",
-			"eat"
+			"更好的",
+			"材质包",
+			"树叶"
 		]
 	},
 	{
@@ -6794,22 +6795,64 @@
 		]
 	},
 	{
-		"description_short":"Enhances Some Folliage.",
-		"version_name":"1.0",
-		"description_full":"Enhances The Folliage On Minecraft With A Texture Change And Coming Soon, More Types Of Grass And Flowers, Support For Leaves On Low Graphics",
+		"description_short":"Мод добавляет в игру новые тнт",
+		"version_name":"1.1",
+		"description_full":"Мод добавляет новые динамит.Скоро добавлю больше. Предлагайте свои идеи.\r\nИ мне нужны тестировщика!\r\nПишите в ВК.",
 		"links":[
 			{
-				"link":"//m.youtube.com/channel/UC_PmIk8lAngWQz29mOGKX3Q",
-				"name":"YT||https"
+				"link":"https://vk.com/wall427883401",
+				"name":"Вк"
 			}
 		],
-		"id":475,
-		"title":"Other Folliage",
+		"id":511,
+		"title":"Super TNT",
 		"shouldOverride":true,
 		"tags":[
-			"更好的",
-			"材质包",
-			"树叶"
+			"бомба",
+			"dynamit",
+			"тнт",
+			"бомбы",
+			"dinamit",
+			"динамит"
+		]
+	},
+	{
+		"description_short":"Getting monster drop items easily",
+		"version_name":"1.0",
+		"description_full":"This mod's machines support EU &amp; RF Energy added by [[Energy-Net]]",
+		"links":[
+			{
+				"link":"https://vk.com/pockettech",
+				"name":"My Community"
+			},
+			{
+				"link":"https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning",
+				"name":"Original Mod"
+			}
+		],
+		"id":509,
+		"title":"Deep Mob Learning",
+		"shouldOverride":true,
+		"tags":[
+			"机器"
+		]
+	},
+	{
+		"description_short":"Eat you flesh!",
+		"version_name":"build 1",
+		"description_full":"Craft knife and cut off you flesh!",
+		"links":[
+			{
+				"link":"https://www.youtube.com/channel/UCV8voj_BFupB6UbfqyQn1-w",
+				"name":"Ютуб автора"
+			}
+		],
+		"id":499,
+		"title":"Cannibalism",
+		"shouldOverride":true,
+		"tags":[
+			"食物",
+			"eat"
 		]
 	},
 	{
@@ -6833,27 +6876,6 @@
 			"盔甲",
 			"设备",
 			"矿石"
-		]
-	},
-	{
-		"description_short":"Getting monster drop items easily",
-		"version_name":"1.0",
-		"description_full":"This mod's machines support EU &amp; RF Energy added by [[Energy-Net]]",
-		"links":[
-			{
-				"link":"https://vk.com/pockettech",
-				"name":"My Community"
-			},
-			{
-				"link":"https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning",
-				"name":"Original Mod"
-			}
-		],
-		"id":509,
-		"title":"Deep Mob Learning",
-		"shouldOverride":true,
-		"tags":[
-			"机器"
 		]
 	},
 	{
@@ -6881,28 +6903,6 @@
 		]
 	},
 	{
-		"description_short":"Мод добавляет в игру новые тнт",
-		"version_name":"1.1",
-		"description_full":"Мод добавляет новые динамит.Скоро добавлю больше. Предлагайте свои идеи.\r\nИ мне нужны тестировщика!\r\nПишите в ВК.",
-		"links":[
-			{
-				"link":"https://vk.com/wall427883401",
-				"name":"Вк"
-			}
-		],
-		"id":511,
-		"title":"Super TNT",
-		"shouldOverride":false,
-		"tags":[
-			"бомба",
-			"dynamit",
-			"тнт",
-			"бомбы",
-			"dinamit",
-			"динамит"
-		]
-	},
-	{
 		"description_short":"Dependence for paladium mod",
 		"version_name":"0.1-bêta",
 		"description_full":"Chests of paladium (+ drawers &amp; claim system)\r\nDependence for paladium mod",
@@ -6926,24 +6926,6 @@
 		]
 	},
 	{
-		"description_short":"better leaves(no jungle)",
-		"version_name":"1.0",
-		"description_full":"better leaves.\r\n\r\nWARNING:if the world isn't finish loading, don't try move.",
-		"links":[
-			{
-				"link":"https://vk.com/@mojangsb",
-				"name":"VK"
-			}
-		],
-		"id":502,
-		"title":"Better Leaves",
-		"shouldOverride":true,
-		"tags":[
-			"building",
-			"世界"
-		]
-	},
-	{
 		"description_short":"Added armor types in hexxit mod!",
 		"version_name":"0.1.0",
 		"description_full":"Hexxit Gear is specially designed armor mod for the Hexxit mod pack. Wearing a full set of one type of armor gives the player differing potion effects, depending on the set worn. All pieces have the same durability and armor points as their diamond counterparts",
@@ -6959,6 +6941,24 @@
 		"tags":[
 			"盔甲",
 			"hexxit"
+		]
+	},
+	{
+		"description_short":"better leaves(no jungle)",
+		"version_name":"1.0",
+		"description_full":"better leaves.\r\n\r\nWARNING:if the world isn't finish loading, don't try move.",
+		"links":[
+			{
+				"link":"https://vk.com/@mojangsb",
+				"name":"VK"
+			}
+		],
+		"id":502,
+		"title":"Better Leaves",
+		"shouldOverride":true,
+		"tags":[
+			"building",
+			"世界"
 		]
 	},
 	{
